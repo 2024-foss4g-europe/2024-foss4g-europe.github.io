@@ -1,16 +1,16 @@
 ################# Banner ###################
 banner:
   enable : true
-  heading : "Business"
-  heading_2 : "Conference 2017"
-  content : "02-05 July 2017 California"
+  heading : "FOSS4G Tartu"
+  heading_2 : "Conference 2024"
+  content : "01-07 July 2024 Tartu"
   timer:
     enable : true
-    year : 2021
-    month : 9
+    year : 2024
+    month : 7
     day : 1
   button:
-    enable : true
+    enable : false
     label : "get ticket now"
     link : "pricing/"
 
@@ -18,8 +18,8 @@ banner:
 ################# About ###################
 about:
   enable : true
-  title : "About The _Eventre_"
-  image : "images/speakers/featured-speaker.jpg"
+  title : "About FOSS4G Europe"
+  image : "images/speakers/featured-speaker.png"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
   <br><br>
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea."
