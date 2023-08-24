@@ -1,8 +1,8 @@
 ################# Banner ###################
 banner:
   enable : true
-  heading : "FOSS4G Tartu"
-  heading_2 : "Conference 2024"
+  heading : "FOSS4G Conference"
+  heading_2 : "Tartu, Estonia"
   content : "01-07 July 2024 Tartu"
   timer:
     enable : true
@@ -24,7 +24,7 @@ about:
   <br><br>
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea."
   button_solid:
-    enable : true
+    enable : false
     label : "Buy ticket"
     link : "pricing/"
   button_outline:
@@ -35,14 +35,14 @@ about:
     
 ################# Speaker ###################
 speakers:
-  enable : true
+  enable : false
   title : "Who _Speaking?_"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
   # speaker items are coming from "content/speakers" folder
 
 ###################### Tab ####################
 tab:
-  enable : true
+  enable : false
   title : "Event Schedule"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
   tablist:
@@ -189,7 +189,7 @@ tab:
 
 ############ Registration ####################
 registration:
-  enable : true
+  enable : false
   title : "Register to _Eventre_"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
   form_action : "#" # works with formspree.io
@@ -212,7 +212,7 @@ registration:
 
 ############ Pricing ####################
 pricing:
-  enable : true
+  enable : false
   title : "Get _Ticket_"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
   pricing_table:
@@ -249,7 +249,7 @@ pricing:
 
 ############### Call to action ############
 call_to_action:
-  enable : true
+  enable : false
   title : "Get Ticket _Now!_"
   image : "images/speakers/speaker-ticket.png"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmtempor incidi"
@@ -261,7 +261,7 @@ call_to_action:
 
 ############### Sponsors ##################
 sponsors:
-  enable : true
+  enable : false
   title : "Our _Sponsors_"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore dolore"
   button:
