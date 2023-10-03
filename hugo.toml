@@ -166,7 +166,7 @@ weight = 6
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-logo_footer = "images/footer-logo.png"
+logo_footer = "images/logo.png"
 logo_width = "100px"
 # Meta data
 description = "This is meta description"
@@ -215,27 +215,27 @@ enable = true
 expire_days = 2
 
 ############################# social site ########################
-[[params.social]]
-title = "facebook"
-icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+# [[params.social]]
+# title = "facebook"
+# icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+# link = "#"
 
 [[params.social]]
 title = "twitter"
 icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+link = "https://twitter.com/foss4ge"
 
-[[params.social]]
-title = "instagram"
-icon = "fa-instagram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+# [[params.social]]
+# title = "instagram"
+# icon = "fa-instagram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+# link = "#"
 
 [[params.social]]
 title = "github"
 icon = "fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+link = "https://github.com/LandscapeGeoinformatics/2024_foss4g_europe"
 
-[[params.social]]
-title = "linkedin"
-icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+# [[params.social]]
+# title = "linkedin"
+# icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+# link = ""
