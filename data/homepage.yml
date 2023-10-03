@@ -18,11 +18,11 @@ banner:
 ################# About ###################
 about:
   enable : true
-  title : "About FOSS4G Europe"
+  title : "About FOSS4GE"
   image : "images/speakers/featured-speaker.png"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
-  <br><br>
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea."
+  content : "The FOSS4GE conference, a European extension of the Open Source Geospatial Foundation (OSGeo) annual event, connects professionals in the geoinformation software realm. OSGeo, as an international association, emphasizes geoinformatics, cartography, and open standards, fostering data sharing, collaboration, and innovative problem-solving across various domains.
+<br><br>
+This conference series, initially known as FOSS/GRASS User Conference and later as FOSS4G, arrives in Estonia, offering local professionals and students access to world-class education and insights from global experts, all while facilitating networking and knowledge exchange."
   button_solid:
     enable : false
     label : "Buy ticket"
