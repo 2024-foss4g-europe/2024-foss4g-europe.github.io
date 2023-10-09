@@ -6,7 +6,6 @@
   border-bottom: 1px solid $border-color;
 }
 
-
 /* preloader */
 .preloader {
   position: fixed;
@@ -23,7 +22,7 @@
 
 .overlay {
   &:before {
-    content: '';
+    content: "";
     background: url(../images/background/objects.png) no-repeat;
     position: absolute;
     top: 0;
@@ -33,9 +32,15 @@
   }
 
   &:after {
-    content: '';
-    background: -webkit-linear-gradient(-45deg, #1e5799 0%, #1d1546 0%, #1a0b25 100%, #207cca 100%);
-    opacity: .25;
+    content: "";
+    background: -webkit-linear-gradient(
+      -45deg,
+      #1e5799 0%,
+      #1d1546 0%,
+      #1a0b25 100%,
+      #207cca 100%
+    );
+    opacity: 0.6;
     position: absolute;
     top: 0;
     left: 0;
@@ -46,9 +51,15 @@
 
 .overlay-lighter {
   &:before {
-    content: '';
-    background: -webkit-linear-gradient(-45deg, #1e5799 0%, #1d1546 0%, #1a0b25 100%, #207cca 100%);
-    opacity: .20;
+    content: "";
+    background: -webkit-linear-gradient(
+      -45deg,
+      #1e5799 0%,
+      #1d1546 0%,
+      #1a0b25 100%,
+      #207cca 100%
+    );
+    opacity: 0.2;
     position: absolute;
     top: 0;
     left: 0;
@@ -59,7 +70,7 @@
 
 .text-overlay {
   &:after {
-    content: 'CONFERENCE';
+    content: "CONFERENCE";
     font-family: $secondary-font;
     font-weight: 600;
     font-size: 215px;
@@ -69,7 +80,7 @@
     position: absolute;
     top: 40%;
     left: 50%;
-    opacity: .05;
+    opacity: 0.05;
     transform: translateX(-50%);
 
     @include tablet {
@@ -84,7 +95,7 @@
 
 .overlay-primary {
   &:before {
-    content: '';
+    content: "";
     background: rgba(255, 102, 0, 0.93);
     position: absolute;
     top: 0;
@@ -96,9 +107,15 @@
 
 .overlay-dark {
   &:before {
-    content: '';
-    background: -webkit-linear-gradient(-45deg, #1e5799 0%, #1d1546 0%, #1a0b25 100%, #207cca 100%);
-    opacity: .75;
+    content: "";
+    background: -webkit-linear-gradient(
+      -45deg,
+      #1e5799 0%,
+      #1d1546 0%,
+      #1a0b25 100%,
+      #207cca 100%
+    );
+    opacity: 0.75;
     position: absolute;
     top: 0;
     left: 0;
@@ -109,8 +126,12 @@
 
 .overlay-white {
   &:before {
-    content: '';
-    background: linear-gradient(0deg, rgba(245, 245, 248, 0.8) 0%, rgba(247, 247, 247, 1) 100%);
+    content: "";
+    background: linear-gradient(
+      0deg,
+      rgba(245, 245, 248, 0.8) 0%,
+      rgba(247, 247, 247, 1) 100%
+    );
     position: absolute;
     top: 0;
     left: 0;
@@ -121,7 +142,7 @@
 
 .overlay-white-slant {
   &:before {
-    content: '';
+    content: "";
     width: 100%;
     margin-left: -45%;
     background: rgba(255, 255, 255, 1);
@@ -268,12 +289,12 @@ button {
     margin-bottom: 20px;
   }
 
-  p {}
+  p {
+  }
 
   margin-bottom: 40px;
 
   &.white {
-
     h3,
     p {
       color: $light;
@@ -384,8 +405,6 @@ select.form-control:not([size]):not([multiple]) {
   height: 50px;
 }
 
-
-
 .left {
   overflow: hidden;
 
@@ -395,7 +414,6 @@ select.form-control:not([size]):not([multiple]) {
     @include tablet {
       margin-left: 0;
       margin-bottom: 30px;
-
     }
   }
 }
