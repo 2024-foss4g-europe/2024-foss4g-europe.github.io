@@ -225,10 +225,10 @@ title = "twitter"
 icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "https://twitter.com/foss4ge"
 
-# [[params.social]]
-# title = "instagram"
-# icon = "fa-instagram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-# link = "#"
+[[params.social]]
+title = "mastodon"
+icon = "fa-mastodon" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://fosstodon.org/@foss4geurope"
 
 [[params.social]]
 title = "github"
