@@ -126,20 +126,20 @@ weight = 2
 # url = "blog/"
 # weight = 4
 
-# [[menu.main]]
-# weight = 5
-# name = "Pages"
-# hasChildren = true
+ [[menu.main]]
+ weight = 5
+ name = "Venue"
+ hasChildren = true
 
-#  [[menu.main]]
-#  parent = "Pages"
-#  name = "Gallery"
-#  url = "gallery/"
+  [[menu.main]]
+  parent = "Venue"
+  name = "Accomodation"
+  url = "accomodation/"
 
-#  [[menu.main]]
-#  parent = "Pages"
-#  name = "FAQ"
-#  url = "faq/"
+  [[menu.main]]
+  parent = "Venue"
+  name = "Getting to Tartu"
+  url = "getting-to-tartu/"
 
 #  [[menu.main]]
 #  parent = "Pages"
