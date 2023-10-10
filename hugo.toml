@@ -189,13 +189,13 @@ icon = "images/icon/ticket.png"
 link = "contact/"
 
 # Subscription
-[params.subscription]
-enable = true
-title = "Subscribe to Our Newsletter"
-content = "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor"
+# [params.subscription]
+# enable = true
+# title = "Subscribe to Our Newsletter"
+# content = "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor"
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+# mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+# mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
 # google map
 [params.map]
@@ -205,8 +205,8 @@ map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 name = "Tartu University"
-location = "Street Address, Location, <br>Tartu, Estonia."
-phone = "[00] 000 000 000"
+location = "Ülikooli,Tartu,<br> Estonia."
+email = "TBA"
 link = "#"
 
 # cookies

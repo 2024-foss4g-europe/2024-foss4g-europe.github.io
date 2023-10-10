@@ -43,17 +43,18 @@
 {{ with site.Params.map }}
 <section class="map">
 	<!-- Google Map -->
-	<div id="map_canvas" data-latitude="{{ .map_latitude }}"
+	<iframe width="100%" height="450" src="https://www.openstreetmap.org/export/embed.html?bbox=26.701691150665283%2C58.37600086201415%2C26.73752546310425%2C58.386271686710984&amp;layer=mapnik&amp;marker=58.38113664817907%2C26.719608306884766" style="border: 1px solid black; margin-bottom: -10px;"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=58.3811&amp;mlon=26.7196#map=16/58.3811/26.7196"><!--View Larger Map--></a></small>
+	<!-- <div id="map_canvas" data-latitude="{{ .map_latitude }}"
   data-longitude="{{ .map_longitude }}" data-marker="{{ .map_marker | absURL }}"
   data-marker-name="{{ site.Title }}">
-</div>
+</div> -->
 	<div class="address-block">
 		<h4>{{.name | markdownify }}</h4>
 		<ul class="address-list p-0 m-0">
 			<li><i class="fa fa-home"></i><span>{{ .location | markdownify }}</span></li>
-			<li><i class="fa fa-phone"></i><span>{{ .phone | markdownify}}</span></li>
+			<li><i class="fa fa-envelope"></i><span>{{ .email | markdownify}}</span></li>
 		</ul>
-		<a href="{{ .link | absURL }}" class="btn btn-white-md">Get Direction</a>
+		<a href="https://osm.org/go/0w8AFVmVh--?m=&way=848180023" target="_blank" class="btn btn-white-md">Get Direction</a>
 	</div>
 </section>
 {{ end }}
