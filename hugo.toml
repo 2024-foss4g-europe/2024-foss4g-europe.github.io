@@ -133,13 +133,18 @@ weight = 2
 
   [[menu.main]]
   parent = "Venue"
-  name = "Accomodation"
-  url = "accomodation/"
+  name = "Accommodation"
+  url = "accommodation/"
 
   [[menu.main]]
   parent = "Venue"
   name = "Getting to Tartu"
   url = "getting-to-tartu/"
+
+  [[menu.main]]
+  parent = "Venue"
+  name = "About Tartu"
+  url = "about-tartu/"
 
 #  [[menu.main]]
 #  parent = "Pages"
