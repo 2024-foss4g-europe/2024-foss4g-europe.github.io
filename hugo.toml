@@ -188,9 +188,9 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [params.navigation_button]
-enable = false
-label = "Buy Ticket"
-icon = "images/icon/ticket.png"
+enable = true
+label = "Call for papers"
+icon = "images/icon/form-icon.png"
 link = "contact/"
 
 # Subscription
