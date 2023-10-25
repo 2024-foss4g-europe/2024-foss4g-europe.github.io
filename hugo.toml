@@ -191,7 +191,7 @@ preloader = "" # use jpg, png, svg or gif format.
 enable = true
 label = "Call for papers"
 icon = "images/icon/form-icon.png"
-link = "contact/"
+link = "call-for-papers/"
 
 # Subscription
 # [params.subscription]
