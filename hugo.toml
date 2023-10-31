@@ -116,10 +116,10 @@ name = "About"
 url = "about/"
 weight = 2
 
-# [[menu.main]]
-# name = "Speaker"
-# url = "speaker/"
-# weight = 3
+ [[menu.main]]
+ name = "Registration"
+ url = "registration/"
+ weight = 3
 
 # [[menu.main]]
 # name = "Blog"
@@ -130,6 +130,7 @@ weight = 2
  weight = 5
  name = "Venue"
  hasChildren = true
+
 
   [[menu.main]]
   parent = "Venue"
