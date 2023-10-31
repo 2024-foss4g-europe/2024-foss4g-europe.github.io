@@ -12,6 +12,10 @@ layout : "faq"
 The conference will take place from 1 July - 7 July 2024 in Tartu, Estonia.  
 {{</ faq >}}
 
+{{< faq "If the conference is in Estonia, does it mean my presentation/workshop needs to be in Estonian?" >}}
+No. The working language of the conference is English.
+{{</ faq >}}
+
 {{< faq "Will the presentations be public after the conference?" >}}
 Yes. Our main goal is to foster FOSS4G, and that means also making all the presentations available even to people that didn’t register in the first place. After the conference, the recorded talks will be published on our YouTube channel - https://www.youtube.com/@FOSS4G  
 {{</ faq >}}
@@ -29,7 +33,7 @@ Yes, this event is for all kinds of people interested in sharing experiences abo
 {{</ faq >}}
 
 {{< faq "What activities will the Conference have?" >}}
-The conference will have tracks full of talks, workshops, and community sprint activities. On the social side, we will host a Geochicas meeting, as well as many other activities. 
+The conference will have tracks full of talks, workshops, and community sprint activities. On the social side, we will host a Geochicas meeting, as well as many other activities.
 {{</ faq >}}
 
 {{< faq "I am presenting a workshop/talk, do I have to register?" >}}
@@ -37,7 +41,7 @@ Yes you have to register. Workshop presenters can participate for free. When giv
 {{</ faq >}}
 
 {{< faq "How do I sign up to attend the conference?" >}}
-Registrations and ticket purchases will be made through an online system. 
+Registrations and ticket purchases will be made through an online system.
 {{</ faq >}}
 
 {{< faq "Can I go without registration?" >}}
