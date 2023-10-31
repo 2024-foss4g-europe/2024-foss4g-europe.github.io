@@ -279,7 +279,7 @@ link = "https://fosstodon.org/@foss4geurope"
 [[params.social]]
 title = "github"
 icon = "fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://github.com/LandscapeGeoinformatics/2024_foss4g_europe"
+link = "https://github.com/2024-foss4g-europe/2024-foss4g-europe.github.io"
 
 # [[params.social]]
 # title = "linkedin"
