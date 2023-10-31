@@ -13,8 +13,14 @@ layout: "single"
 ### Call for workshops submissions
 27 November 2023 - 14 January 2024  
 
+[Proceed to call](../cfp-workshops/)
+
 ### Call for general program submissions
 27 November 2023 - 11 February 2024  
 
+[Proceed to call](../cfp-general-program/)
+
 ### Call for academic program submissions
 27 November 2023 - 11 February 2024
+
+[Proceed to call](../cfp-academic-program/)
