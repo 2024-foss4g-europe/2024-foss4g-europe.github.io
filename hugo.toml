@@ -148,6 +148,11 @@ weight = 2
   url = "important-dates/"
 
   [[menu.main]]
+  parent = "About"
+  name = "CoC"
+  url = "coc/"
+
+  [[menu.main]]
   parent = "Venue"
   name = "Getting to Tartu"
   url = "getting-to-tartu/"
