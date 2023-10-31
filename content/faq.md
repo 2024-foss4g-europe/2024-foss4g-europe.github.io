@@ -33,7 +33,7 @@ The conference will have tracks full of talks, workshops, and community sprint a
 {{</ faq >}}
 
 {{< faq "I am presenting a workshop/talk, do I have to register?" >}}
-Yes you have to register, there is no discount for presenters.  
+Yes you have to register. Workshop presenters can participate for free. When giving a talk the pariticpation fee is the early bird price.  
 {{</ faq >}}
 
 {{< faq "How do I sign up to attend the conference?" >}}
