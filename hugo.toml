@@ -181,7 +181,7 @@ weight = 2
 #  parent = "Pages"
 #  name = "Testimonial"
 #  url = "testimonial/"
-  
+
 [[menu.main]]
 name = "Contact"
 url = "contact/"
@@ -195,7 +195,7 @@ logo = "images/logo.png"
 logo_footer = "images/logo.png"
 logo_width = "100px"
 # Meta data
-description = "This is meta description"
+description = "The FOSS4G Europe 2024 conference is taking place 1-7 July in the beautiful city of Tartu, Estonia."
 author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
