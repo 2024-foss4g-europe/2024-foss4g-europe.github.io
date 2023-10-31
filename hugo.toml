@@ -169,7 +169,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "About"
-  name = "CoC"
+  name = "Code of Conduct"
   url = "coc/"
 
   [[menu.main]]
