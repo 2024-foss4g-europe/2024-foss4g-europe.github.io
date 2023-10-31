@@ -29,23 +29,36 @@ image: "images/logo.png"
 ---
 
 ## About FOSS4G Europe 2024
-
 The Free and Open Source for Geospatial Europe (FOSS4GE) conference is the
 European branch event of the Open Source Geospatial Foundation (OSGeo) annual
 conference.
 
-OSGeo is the largest and most important international professional association
-that gathers developers and users of free and open source geoinformation software.
-The main focus of the organization is geoinformatics, cartography and open
-standards. The democratizing nature of the field creates a basis for sharing
+OSGeo is the largest and most important international organization
+that unites the community of developers, users, and advocates of free and
+open source in geospatial.
+
+The main focus of the organization is fostering the development, maintenance
+and use of free and open source software for geospatial, open standards, and
+open data. The democratizing nature of the field creates a basis for sharing
 geographic data, promotes cooperation between organizations and individuals,
 and enables the application of data in solving the most diverse everyday
 problems, being the basis for such fields as map applications, logistics,
-transport, infrastructure planning, organizing rescue work in disaster areas, etc.
+transport, infrastructure planning, organizing rescue work in
+disaster areas, etc.
+
+FOSS4G is a community event organized by volunteers, with a focus on
+building a diverse and sustainable open community, sharing our own experiences
+and learning from others. Although it is software that brings us together, it's
+the deep care for the society and the environment that surrounds us, helping
+solve the World's problems one bit at a time, that connects us.
 
 The international conference series started in 2004 under the name FOSS/GRASS
-User Conference and has been known as FOSS4G since 2006. The conference
-series will come to Estonia for the first time!
+User Conference and has been known as FOSS4G since 2006. The European regional
+branch of the conference dates back to 2012 when the first FOSS4G Central and
+Eastern Europe (FOSS4G-CEE) was held in Prague, Czechia. Set to take place when
+the international conference is not in Europe, the European edition has since
+then visited Bucharest, Romania (2013); Bremen, Germany (2014);
+Como, Italy (2015); Paris, France(2017); Guimarães, Portugal (2018).
 
 Bringing the conference series to Tartu, the start-up capital of Estonia, gives
 the participants here the opportunity to present their work, make contacts and
