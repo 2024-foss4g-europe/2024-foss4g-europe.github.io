@@ -137,9 +137,24 @@ weight = 2
   url = "accommodation/"
 
   [[menu.main]]
+  parent = "About"
+  name = "FAQ"
+  url = "faq/"
+
+  [[menu.main]]
+  parent = "About"
+  name = "Important dates"
+  url = "important-dates/"
+
+  [[menu.main]]
   parent = "Venue"
   name = "Getting to Tartu"
   url = "getting-to-tartu/"
+
+  [[menu.main]]
+  parent = "Venue"
+  name = "Attendee guidelines"
+  url = "attendee-guidelines/"
 
   [[menu.main]]
   parent = "Venue"
