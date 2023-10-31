@@ -18,7 +18,7 @@ layout: "single"
 |:--|-------:|
 | Call for workshops: | **27. November 2023 - 14. January 2024** |
 | Community voting period: | **15. January 2024 - 28. January 2024** |
-| Announce accepted talks: | **11. February 2024** |
+| Announce accepted workshops: | **11. February 2024** |
 | Full program: | **31. March 2024** |
 | Workshops: | **1. July - 2. July 2024** |
 
