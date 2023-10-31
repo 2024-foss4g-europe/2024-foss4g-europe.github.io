@@ -22,6 +22,9 @@ layout: "single"
 | Full program: | **31. March 2024** |
 | Workshops: | **1. July - 2. July 2024** |
 
+Submissions will be made through the OSGeo pretalx instance. A direct
+link will be available here as soon as the call for papers opens.
+
 # Description
 Workshops are the practical hands-on sessions to acquire new know-how in the
 use of FOSS4G software. They should showcase current and emerging technologies,

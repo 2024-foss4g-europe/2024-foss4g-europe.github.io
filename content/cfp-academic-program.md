@@ -12,3 +12,6 @@ layout: "single"
 |:--|-------:|
 | Call for papers: | **27. November 2023** |
 | Conference: | **3. July - 5. July 2024** |
+
+Submissions will be made through the OSGeo pretalx instance. A direct
+link will be available here as soon as the call for papers opens.

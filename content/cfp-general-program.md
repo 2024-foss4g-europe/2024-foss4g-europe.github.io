@@ -22,6 +22,9 @@ layout: "single"
 | Full program: | **31. March 2024** |
 | Conference: | **3. July - 5. July 2024** |
 
+Submissions will be made through the OSGeo pretalx instance. A direct
+link will be available here as soon as the call for papers opens.
+
 # Description
 Free and Open Source Software for Geospatial (FOSS4G) Europe is the regional
 flagship event of OSGeo - an open, grassroots and dynamic community. We are
