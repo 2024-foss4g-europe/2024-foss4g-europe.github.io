@@ -28,12 +28,28 @@ image: "images/logo.png"
 #     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis voluptate modi sunt placeat in vel illo dolorem, atque maxime voluptates optio fugit iure cum ipsa quo quaerat! Veritatis, modi. Laudantium provident deleniti earum voluptas delectus, labore dolor dolorem amet expedita."
 ---
 
-## About FOSS4GE 2024
+## About FOSS4G Europe 2024
 
-The Free and Open Source for Geospatial Europe (FOSS4GE) conference is the European branch event of the Open Source Geospatial Foundation (OSGeo) annual conference.
+The Free and Open Source for Geospatial Europe (FOSS4GE) conference is the
+European branch event of the Open Source Geospatial Foundation (OSGeo) annual
+conference.
 
-OSGeo is the largest and most important international professional association that gathers developers and users of free and open source geoinformation software. The main focus of the organization is geoinformatics, cartography and open standards. The democratizing nature of the field creates a basis for sharing geographic data, promotes cooperation between organizations and individuals, and enables the application of data in solving the most diverse everyday problems, being the basis for such fields as map applications, logistics, transport, infrastructure planning, organizing rescue work in disaster areas, etc.
+OSGeo is the largest and most important international professional association
+that gathers developers and users of free and open source geoinformation software.
+The main focus of the organization is geoinformatics, cartography and open
+standards. The democratizing nature of the field creates a basis for sharing
+geographic data, promotes cooperation between organizations and individuals,
+and enables the application of data in solving the most diverse everyday
+problems, being the basis for such fields as map applications, logistics,
+transport, infrastructure planning, organizing rescue work in disaster areas, etc.
 
-The international conference series started in 2004 under the name FOSS/GRASS User Conference and has been known as FOSS4G since 2006. The conference series will come to Estonia for the first time!
+The international conference series started in 2004 under the name FOSS/GRASS
+User Conference and has been known as FOSS4G since 2006. The conference
+series will come to Estonia for the first time!
 
-Bringing the conference series to Tartu, the start-up capital of Estonia, gives the participants here the opportunity to present their work, make contacts and share experiences among people dealing with similar problems on a global scale. Bringing a recognized and important conference series to Estonia offers local professionals and students access to high-quality educational material and the opportunity to learn from internationally recognized experts.
+Bringing the conference series to Tartu, the start-up capital of Estonia, gives
+the participants here the opportunity to present their work, make contacts and
+share experiences among people dealing with similar problems on a global scale.
+Bringing a recognized and important conference series to Estonia offers local
+professionals and students access to high-quality educational material and the
+opportunity to learn from internationally recognized experts.
