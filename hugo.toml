@@ -116,21 +116,41 @@ name = "About"
 url = "about/"
 weight = 2
 
+[[menu.main]]
+name = "Call-for-papers"
+url = "call-for-papers/"
+weight = 3
+hasChildren = true
+
  [[menu.main]]
  name = "Registration"
  url = "registration/"
- weight = 3
+ weight = 4
 
 # [[menu.main]]
 # name = "Blog"
 # url = "blog/"
-# weight = 4
+# weight = 5
 
  [[menu.main]]
- weight = 5
+ weight = 6
  name = "Venue"
  hasChildren = true
 
+  [[menu.main]]
+  parent = "Call-for-papers"
+  name = "Workshops"
+  url = "cfp-workshops"
+
+  [[menu.main]]
+  parent = "Call-for-papers"
+  name = "General program"
+  url = "cfp-general-program"
+
+  [[menu.main]]
+  parent = "Call-for-papers"
+  name = "Academic program"
+  url = "cfp-academic-program"
 
   [[menu.main]]
   parent = "Venue"
