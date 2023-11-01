@@ -1,7 +1,7 @@
 ################# Banner ###################
 banner:
   enable : true
-  heading : "FOSS4G Conference"
+  heading : "FOSS4G Europe 2024"
   heading_2 : "Tartu, Estonia"
   content : "01-07 July 2024 Tartu"
   timer:
@@ -14,7 +14,7 @@ banner:
     label : "get ticket now"
     link : "pricing/"
 
-    
+
 ################# About ###################
 about:
   enable : true
@@ -32,7 +32,7 @@ This conference series, initially known as FOSS/GRASS User Conference and later 
     label : "Read more"
     link : "about/"
 
-    
+
 ################# Speaker ###################
 speakers:
   enable : false
@@ -63,28 +63,28 @@ tab:
       subject : "Introduction to Wp"
       venue : "Auditorium A"
       time : "9.00 AM"
-      
+
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
       time : "9.00 AM"
-      
+
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
       time : "9.00 AM"
-      
+
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
       time : "9.00 AM"
-      
+
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
@@ -92,7 +92,7 @@ tab:
       venue : "Auditorium A"
       time : "9.00 AM"
 
-      
+
   # tab item
   - name : "Day-02"
     date : "23 November 2017"
@@ -110,28 +110,28 @@ tab:
       subject : "Introduction to Wp"
       venue : "Auditorium A"
       time : "9.00 AM"
-      
+
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
       time : "9.00 AM"
-      
+
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
       time : "9.00 AM"
-      
+
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
       time : "9.00 AM"
-      
+
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
@@ -139,7 +139,7 @@ tab:
       venue : "Auditorium A"
       time : "9.00 AM"
 
-      
+
   # tab item
   - name : "Day-03"
     date : "25 November 2017"
@@ -157,28 +157,28 @@ tab:
       subject : "Introduction to Wp"
       venue : "Auditorium A"
       time : "9.00 AM"
-      
+
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
       time : "9.00 AM"
-      
+
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
       time : "9.00 AM"
-      
+
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
       subject : "Introduction to Wp"
       venue : "Auditorium A"
       time : "9.00 AM"
-      
+
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
@@ -197,13 +197,13 @@ registration:
   funfacts:
   - name : "8 Speakers"
     icon : "fa-microphone"
-    
+
   - name : "500 + Seats"
     icon : "fa-flag"
-    
+
   - name : "300 tickets"
     icon : "fa-ticket"
-    
+
   - name : "3 days event"
     icon : "fa-calendar"
 
@@ -225,7 +225,7 @@ pricing:
     - "Free Lunch and Coffee"
     - "Certificate"
     - "Easy Access"
-    
+
   - name : "Standard"
     price : "49.00"
     price_per : "Person"
@@ -235,7 +235,7 @@ pricing:
     - "Free Lunch and Coffee"
     - "Certificate"
     - "Easy Access"
-    
+
   - name : "Platinum"
     price : "99.00"
     price_per : "Person"
@@ -274,29 +274,29 @@ sponsors:
     - name : "sponsor"
       logo : "images/sponsors/pt-spon-two.png"
       link : "#"
-      
+
     - name : "sponsor"
       logo : "images/sponsors/pt-spon-three.png"
       link : "#"
-      
+
     - name : "sponsor"
       logo : "images/sponsors/pt-spon-four.png"
       link : "#"
-      
+
     - name : "sponsor"
       logo : "images/sponsors/pt-spon-three.png"
       link : "#"
-      
+
   - name : "Gold Sponsors"
     sponsor_item:
     - name : "sponsor"
       logo : "images/sponsors/gl-spon-two.png"
       link : "#"
-      
+
     - name : "sponsor"
       logo : "images/sponsors/gl-spon-three.png"
       link : "#"
-      
+
     - name : "sponsor"
       logo : "images/sponsors/gl-spon-one.png"
       link : "#"

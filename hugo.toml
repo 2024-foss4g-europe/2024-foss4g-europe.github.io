@@ -116,21 +116,41 @@ name = "About"
 url = "about/"
 weight = 2
 
+[[menu.main]]
+name = "Call-for-papers"
+url = "call-for-papers/"
+weight = 3
+hasChildren = true
+
  [[menu.main]]
  name = "Registration"
  url = "registration/"
- weight = 3
+ weight = 4
 
 # [[menu.main]]
 # name = "Blog"
 # url = "blog/"
-# weight = 4
+# weight = 5
 
  [[menu.main]]
- weight = 5
+ weight = 6
  name = "Venue"
  hasChildren = true
 
+  [[menu.main]]
+  parent = "Call-for-papers"
+  name = "Workshops"
+  url = "cfp-workshops"
+
+  [[menu.main]]
+  parent = "Call-for-papers"
+  name = "General program"
+  url = "cfp-general-program"
+
+  [[menu.main]]
+  parent = "Call-for-papers"
+  name = "Academic program"
+  url = "cfp-academic-program"
 
   [[menu.main]]
   parent = "Venue"
@@ -151,7 +171,7 @@ weight = 2
 
   [[menu.main]]
   parent = "About"
-  name = "CoC"
+  name = "Code of Conduct"
   url = "coc/"
 
   [[menu.main]]
@@ -261,7 +281,7 @@ link = "https://fosstodon.org/@foss4geurope"
 [[params.social]]
 title = "github"
 icon = "fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://github.com/LandscapeGeoinformatics/2024_foss4g_europe"
+link = "https://github.com/2024-foss4g-europe/2024-foss4g-europe.github.io"
 
 # [[params.social]]
 # title = "linkedin"
