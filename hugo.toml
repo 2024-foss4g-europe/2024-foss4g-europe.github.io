@@ -175,6 +175,11 @@ hasChildren = true
   url = "coc/"
 
   [[menu.main]]
+  parent = "About"
+  name = "Organizing committee"
+  url = "team/"
+
+  [[menu.main]]
   parent = "Venue"
   name = "Getting to Tartu"
   url = "getting-to-tartu/"
