@@ -141,11 +141,13 @@ weight = 2
   parent = "About"
   name = "FAQ"
   url = "faq/"
+  weight = 2
 
   [[menu.main]]
   parent = "About"
   name = "Important dates"
   url = "important-dates/"
+  weight = 1
 
   [[menu.main]]
   parent = "About"
