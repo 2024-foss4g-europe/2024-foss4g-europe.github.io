@@ -5,6 +5,8 @@ date: 2020-11-01T15:40:24+02:00
 designation: "Academic committee co-chair"
 image: "images/team/generic.jpg"
 draft : false
+type: "speaker"
+layout: "single"
 social:
 #- name: "facebook"
 #  icon: "fa-facebook"

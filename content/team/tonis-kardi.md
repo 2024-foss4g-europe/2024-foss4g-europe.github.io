@@ -5,6 +5,8 @@ date: 2020-11-01T15:40:24+06:00
 designation: "Conference chair"
 image: "images/team/tkardi.jpg"
 draft : false
+type: "speaker"
+layout: "single"
 social:
 #- name: "facebook"
 #  icon: "fa-facebook"
