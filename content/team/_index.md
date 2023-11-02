@@ -10,6 +10,10 @@ type: "speaker"
 <style>
   .partner-logo img {
     padding: 10px 20px 10px 20px;
+    border: 1px solid #fff;
+  }
+  .partner-logo img:hover{
+    border-color: #ff6600;
   }
 </style>
 
