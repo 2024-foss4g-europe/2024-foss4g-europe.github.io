@@ -10,7 +10,7 @@ https://download.themefisher.com/ght-licens.html
 
 - `hugo -b https://actual-target-web-url` for manual override baseurl
 
-Currently we develop on GitHub pages, so the target base URL should be https://landscapegeoinformatics.github.io/2024_foss4g_europe/
+Currently we develop on GitHub pages, so the target base URL should be <https://2024.europe.foss4g.org/>
 
 
 
