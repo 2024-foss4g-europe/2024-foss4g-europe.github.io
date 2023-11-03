@@ -117,7 +117,7 @@ url = "about/"
 weight = 2
 
 [[menu.main]]
-name = "Call-for-papers"
+name = "Call for papers"
 url = "call-for-papers/"
 weight = 3
 hasChildren = true
@@ -126,6 +126,16 @@ hasChildren = true
  name = "Registration"
  url = "registration/"
  weight = 4
+
+  [[menu.main]]
+ name = "Sponsors"
+ url = "sponsors/"
+ weight = 5
+
+  [[menu.main]]
+  parent = "Sponsors"
+  name = "Call for sponsors"
+  url = "call-for-sponsors"
 
 # [[menu.main]]
 # name = "Blog"
@@ -138,17 +148,17 @@ hasChildren = true
  hasChildren = true
 
   [[menu.main]]
-  parent = "Call-for-papers"
+  parent = "Call for papers"
   name = "Workshops"
   url = "cfp-workshops"
 
   [[menu.main]]
-  parent = "Call-for-papers"
+  parent = "Call for papers"
   name = "General program"
   url = "cfp-general-program"
 
   [[menu.main]]
-  parent = "Call-for-papers"
+  parent = "Call for papers"
   name = "Academic program"
   url = "cfp-academic-program"
 
