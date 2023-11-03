@@ -3,7 +3,7 @@ title : "Alexander Kmoch"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-11-01T15:40:24+02:00
 designation: "Program committee co-chair"
-image: "images/team/generic.jpg"
+image: "images/team/alex.png"
 draft : false
 type: "speaker"
 layout: "single"
