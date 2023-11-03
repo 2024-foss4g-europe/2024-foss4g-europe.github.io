@@ -261,42 +261,63 @@ call_to_action:
 
 ############### Sponsors ##################
 sponsors:
-  enable : false
-  title : "Our _Sponsors_"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore dolore"
+  enable : true
+  title : "Our partners, supporters, and sponsors"
+  content : "FOSS4G Europe 2024 is made possible thanks to the invaluable help
+  from the following organizations"
   button:
-    enable : true
+    enable : false
     label : "Become a sponsor"
     link : "#"
   sponsor_group:
-  - name : "Platinum Sponsors"
+
+  - name : "Powered by"
     sponsor_item:
-    - name : "sponsor"
-      logo : "images/sponsors/pt-spon-two.png"
-      link : "#"
+    - name : "OSGeo"
+      logo : "images/sponsors/osgeo-logo.png"
+      link : "https://www.osgeo.org/"
 
-    - name : "sponsor"
-      logo : "images/sponsors/pt-spon-three.png"
-      link : "#"
-
-    - name : "sponsor"
-      logo : "images/sponsors/pt-spon-four.png"
-      link : "#"
-
-    - name : "sponsor"
-      logo : "images/sponsors/pt-spon-three.png"
-      link : "#"
-
-  - name : "Gold Sponsors"
+  - name : "Organizing partners"
     sponsor_item:
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-two.png"
-      link : "#"
+    - name : "Estonian Geoinformatics Society"
+      logo : "images/sponsors/estgis.png"
+      link : "https://estgis.ee/en/"
+#    - name : "University of Tartu"
+#      logo : "images/sponsors/ut-logo.png"
+#      link : "#"
+    - name : "University of Tartu, Department of Geography"
+      logo : "images/sponsors/geography_dept_logo.png"
+      link : "https://geograafia.ut.ee/en"
 
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-three.png"
-      link : "#"
 
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-one.png"
-      link : "#"
+#  - name : "Platinum Sponsors"
+#    sponsor_item:
+#    - name : "sponsor"
+#      logo : "images/sponsors/pt-spon-two.png"
+#      link : "#"
+#
+#    - name : "sponsor"
+#      logo : "images/sponsors/pt-spon-three.png"
+#      link : "#"
+#
+#    - name : "sponsor"
+#      logo : "images/sponsors/pt-spon-four.png"
+#      link : "#"
+#
+#    - name : "sponsor"
+#      logo : "images/sponsors/pt-spon-three.png"
+#      link : "#"
+#
+#  - name : "Gold Sponsors"
+#    sponsor_item:
+#    - name : "sponsor"
+#      logo : "images/sponsors/gl-spon-two.png"
+#      link : "#"
+
+#    - name : "sponsor"
+#      logo : "images/sponsors/gl-spon-three.png"
+#      link : "#"
+
+#    - name : "sponsor"
+#      logo : "images/sponsors/gl-spon-one.png"
+#      link : "#"
