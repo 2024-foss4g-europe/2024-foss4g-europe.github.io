@@ -34,33 +34,23 @@ type: "speaker"
 |  |  |
 |:-|:-:|
 | {{< figure
-    src="../images/ut_logo.png"
-    alttext="University of Tartu"
-    height="90"
-    link="https://ut.ee/en"
-    target="blank"
-    rel="noopener noreferrer"
-    class="partner-logo" >}} | {{< figure
-    src="https://estgis.ee/wp-content/themes/estgis/theme/images/header-logo.png"
-    alttext="Estonian Geoinformatics Society"
-    height="90"
-    link="https://estgis.ee/en"
-    target="blank"
-    rel="noopener noreferrer"
-    class="partner-logo" >}}
-|
-
-</center>
-
-{{< figure
     src="../images/geo_logo_blue.png"
     alttext="University of Tartu Department of Geography"
     height="90"
     link="https://geograafia.ut.ee/en"
     target="blank"
     rel="noopener noreferrer"
-    class="partner-logo" >}}
+    class="partner-logo" >}} | {{< figure
+        src="https://estgis.ee/wp-content/themes/estgis/theme/images/header-logo.png"
+        alttext="Estonian Geoinformatics Society"
+        height="90"
+        link="https://estgis.ee/en"
+        target="blank"
+        rel="noopener noreferrer"
+        class="partner-logo" >}}
+|
 
+</center>
 
 ## Meet the team
 
