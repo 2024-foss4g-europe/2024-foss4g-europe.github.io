@@ -60,4 +60,13 @@ Audience profile:
 
 ### Partnership packages
 
-Specific sponsorship packages will be published here very soon. Stay tuned.
+We are preparing two types of preconfigured sponsorship packages. One is the
+traditional platinum, gold, silver, bronze and supporter tiers. The other
+with a more specific goal of helping us cover certain costs: like live-streaming,
+coffee breaks, lunch breaks, ice-breaker, etc. Both types are equatable with
+each other depending on the amount of sponsorship: offerings in both types are
+the same but the latter has a little extra directly related with the type
+of support you are extending to the conference.
+
+Specific sponsorship packages will be published on this page and announced
+on the FOSS4GE social media accounts very soon. Stay tuned.
