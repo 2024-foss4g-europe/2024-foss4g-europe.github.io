@@ -3,7 +3,7 @@ title : "Sidorela Uku"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-11-01T15:40:24+02:00
 designation: "Webpage team"
-image: "images/team/generic.jpg"
+image: "images/team/Sidorela.jpg"
 draft : false
 type: "speaker"
 layout: "single"
