@@ -34,10 +34,10 @@ type: "speaker"
 |  |  |
 |:-|:-:|
 | {{< figure
-    src="../images/geo_logo_blue.png"
-    alttext="University of Tartu Department of Geography"
+    src="../images/sponsors/landscape_geo_logo.png"
+    alttext="University of Tartu Landscape Geoinformatics Lab"
     height="90"
-    link="https://geograafia.ut.ee/en"
+    link="https://landscape-geoinformatics.ut.ee/"
     target="blank"
     rel="noopener noreferrer"
     class="partner-logo" >}} | {{< figure
@@ -57,6 +57,6 @@ type: "speaker"
 With organizational support from the
 <u>[Estonian Geoinformatics Society](https://estgis.ee/en)</u>
 and <u>[University of Tartu](https://ut.ee/en)</u>
-<u>[Department of Geography](https://geograafia.ut.ee/en)</u>
+<u>[Landscape Geoinformatics Lab](https://landscape-geoinformatics.ut.ee/)</u>
 the Local Organizing Committee (LOC) is a pan-European group of FOSS4G
 enthusiasts and advocates. Who are we? Come and meet us.
