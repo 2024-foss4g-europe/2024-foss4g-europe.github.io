@@ -73,7 +73,7 @@ attributes = ""
 link = "plugins/slick/slick.css"
 attributes = ""
 [[params.plugins.css]]
-link = "plugins/font-awesome/font-awesome.min.css"
+link = "plugins/font-awesome/css/all.min.css"
 attributes = ""
 [[params.plugins.css]]
 link = "plugins/magnific-popup/magnific-popup.min.css"
