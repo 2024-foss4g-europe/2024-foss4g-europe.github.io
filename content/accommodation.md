@@ -11,7 +11,7 @@ There are many accommodation options available ranging in price levels & locatio
 
 Participants are expected to **book their accommodation individually** by contacting the providers directly, using a reference code for a special price. 
 
-Here is a selection of hotels where we have made prebookings for FOSS4G. Please use the following information to book a room for yourself. If you have any questions please contact Merli from the organising team who was in contact with the accommodation partners (ilvesmerli@gmail.com).
+Here is a selection of hotels where we have made prebookings for FOSS4G. Please use the following information to book a room for yourself. If you have any questions please contact Merli from the organising team who was in contact with the accommodation partners (merli.ilves@ut.ee).
 
 ---
 
