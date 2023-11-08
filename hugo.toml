@@ -298,7 +298,7 @@ title = "github"
 icon = "fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "https://github.com/2024-foss4g-europe/2024-foss4g-europe.github.io"
 
-# [[params.social]]
-# title = "linkedin"
-# icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-# link = ""
+[[params.social]]
+title = "linkedin"
+icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://www.linkedin.com/company/foss4g-europe"
