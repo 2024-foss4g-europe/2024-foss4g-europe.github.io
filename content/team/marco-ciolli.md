@@ -8,9 +8,9 @@ draft : false
 type: "speaker"
 layout: "single"
 social:
-- name: "facebook"
-  icon: "fa-brands fa-facebook"
-  link: "#"
+- name: "CV"
+  icon: "fa-solid fa-house"
+  link: "https://webapps.unitn.it/du/en/Persona/PER0003808/Curriculum"
 #- name: "mastodon"
 #  icon: "fa-brands fa-mastodon"
 #  link: "#"
