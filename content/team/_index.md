@@ -34,8 +34,8 @@ type: "speaker"
 |  |  |
 |:-|:-:|
 | {{< figure
-    src="../images/landscape_geo_logo.png"
-    alttext="Landscape Geoinformatics Lab"
+    src="../images/sponsors/landscape_geo_logo.png"
+    alttext="University of Tartu Landscape Geoinformatics Lab"
     height="90"
     link="https://landscape-geoinformatics.ut.ee/"
     target="blank"
