@@ -9,11 +9,29 @@ layout: "single"
 
 The venue of the conference will be the home of the **UT Department of Geography at Vanemuise 46, Tartu.**
 
+{{< figure
+    src="../images/venue.jpg"
+    alttext="Venu"
+    width="800"
+    target="blank"
+    rel="noopener noreferrer"
+    >}}
+*Venue of the conference. ©Andres Tennus via Department of Geography*
+
 Tartu is situated in Southern Estonia. The capital city of Estonia is Tallinn which is 180 km to the North-West. It lies about half way down the stream on the banks of river Emajõgi, one of the largest rivers of Estonia connecting the lakes Võrtsjärv and Peipsi. Tartu is an old historic region (historically also known as Tarbatu, or Dorpat) and was first mentioned by medieval chroniclers in 1030.
 
 With a population of 100K it is the second largest city in Estonia, and home to multiple universities (including the University of Tartu established in 1632), and is often referred to as the “intellectual capital city” of Estonia.
 
 Tartu is also home to the Ministry of Education and Research, the Estonian National Museum, the Supreme Court of Estonia, and theater Vanemuine - the oldest Estonian-language theaters in Estonia. Tartu is also the focal point of Estonia’s active technology sector as well as a hotbed of IT development and start-ups.
+
+{{< figure
+    src="../images/tartu.jpg"
+    alttext="Venu"
+    width="800"
+    target="blank"
+    rel="noopener noreferrer"
+    >}}
+*Aerial view to the city centre. ©Kaarel Kõvatu via visittartu.com*
 
 Everything in Tartu is within a 10-20 minute walking distance and therefore you do not need a car nor public transport to get around to most places. In addition, Tartu has a very efficient bike-share system which also gets to the suburbs of Tartu.
 
