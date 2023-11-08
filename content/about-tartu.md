@@ -7,7 +7,9 @@ draft: false
 layout: "single"
 ---
 
-Tartu is situated in Southern Estonia. The capital city of Estonia, Tallinn is 180 km to the North-West. It lies about half way down the stream on the banks of river Emajõgi, one of the largest rivers of Estonia connecting the lakes Võrtsjärv and Peipsi. Tartu is an old historic region (historically also known as Tarbatu, or Dorpat) and was first mentioned by medieval chroniclers in 1030.
+The venue of the conference will be the home of the **UT Department of Geography at Vanemuise 46, Tartu.**
+
+Tartu is situated in Southern Estonia. The capital city of Estonia is Tallinn which is 180 km to the North-West. It lies about half way down the stream on the banks of river Emajõgi, one of the largest rivers of Estonia connecting the lakes Võrtsjärv and Peipsi. Tartu is an old historic region (historically also known as Tarbatu, or Dorpat) and was first mentioned by medieval chroniclers in 1030.
 
 With a population of 100K it is the second largest city in Estonia, and home to multiple universities (including the University of Tartu established in 1632), and is often referred to as the “intellectual capital city” of Estonia.
 
