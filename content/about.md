@@ -2,7 +2,7 @@
 title: "About FOSS4GE"
 page_header_bg: "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-description: "The Free and Open Source for Geospatial Europe (FOSS4GE) conference is the European branch event of the Open Source Geospatial Foundation (OSGeo) annual conference. "
+description: "The Free and Open Source Software for Geospatial Europe (FOSS4GE) conference is the European branch event of the Open Source Geospatial Foundation (OSGeo) annual conference. "
 draft: false
 layout: "about"
 image: "images/logo.png"
@@ -29,7 +29,7 @@ image: "images/logo.png"
 ---
 
 ## About FOSS4G Europe 2024
-The Free and Open Source for Geospatial Europe (FOSS4GE) conference is the
+The Free and Open Source Software for Geospatial Europe (FOSS4GE) conference is the
 European branch event of the Open Source Geospatial Foundation (OSGeo) annual
 conference.
 
@@ -58,7 +58,7 @@ branch of the conference dates back to 2012 when the first FOSS4G Central and
 Eastern Europe (FOSS4G-CEE) was held in Prague, Czechia. Set to take place when
 the international conference is not in Europe, the European edition has since
 then visited Bucharest, Romania (2013); Bremen, Germany (2014);
-Como, Italy (2015); Paris, France(2017); Guimarães, Portugal (2018).
+Como, Italy (2015); Paris, France (2017); Guimarães, Portugal (2018).
 
 Bringing the conference series to Tartu, the start-up capital of Estonia, gives
 the participants here the opportunity to present their work, make contacts and

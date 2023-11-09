@@ -285,9 +285,9 @@ sponsors:
 #    - name : "University of Tartu"
 #      logo : "images/sponsors/ut-logo.png"
 #      link : "#"
-    - name : "University of Tartu, Department of Geography"
-      logo : "images/sponsors/geography_dept_logo.png"
-      link : "https://geograafia.ut.ee/en"
+    - name : "University of Tartu, Landscape Geoinformatics Lab"
+      logo : "images/sponsors/landscape_geo_logo.png"
+      link : "https://landscape-geoinformatics.ut.ee/"
 
 
 #  - name : "Platinum Sponsors"
