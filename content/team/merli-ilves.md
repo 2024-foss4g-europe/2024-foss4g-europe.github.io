@@ -34,4 +34,4 @@ social:
 
 Merli is an alumni of the University of Tartu. She has both BSc & MSc from the
 geography department. She is currently working in the Landscape Geoinformatics
-Lab as a geoinformatics specialist.
+Lab as a geoinformatics specialist and she happily takes on project management related tasks. 

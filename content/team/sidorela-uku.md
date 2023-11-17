@@ -31,4 +31,4 @@ social:
 #  link: "#"
 ---
 
-<add bio text or delete this placeholder>
+Sidorela is a mapping/geography enthusiast and advocate for open-source technologies. Currently she works as QA Engineer at Coko Foundation, and also is pursuing studies on Green Networking and Cloud Computing at University of Lorraine.

@@ -31,3 +31,5 @@ social:
   link: "https://fosstodon.org/@allixender"
 
 ---
+
+Alex is a Distributed Spatial Systems Researcher with many years of experience in geospatial data management and web- and cloud-based geoprocessing with a particular focus on land use, soils, hydrology, hydrogeology and water quality data. His interests include OGC standards and web-services for environmental and geo-scientific data sharing, modelling workflows and interactive geo-scientific visualisation.
