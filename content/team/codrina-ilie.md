@@ -31,4 +31,4 @@ social:
 #  link: "#"
 ---
 
-<add bio text or delete this placeholder>
+Codrina Ilie is a technical geographer, an open source GIS/RS power user, actively working as a project officer to support geospatial data services development at Terrasigna. In her 12 years of activity, Codrina has essentially focused on using open source GIS and RS solutions for data management, processing and visualization. As an advocate for free and open source software for geospatial, since 2010 she has been a volunteer trainer in the Romanian geospatial community, geo-spatial.org. Since 2013, Codrina has been a Charter Member and today serves the community as an OSGeo Board of Directors elected member, within her second term.
