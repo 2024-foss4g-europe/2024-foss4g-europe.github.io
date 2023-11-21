@@ -16,11 +16,11 @@ layout: "single"
 # Workshops submissions timeline
 |   |   |
 |:--|-------:|
-| Call for workshops: | **27. November 2023 - 14. January 2024** |
-| Community voting period: | **15. January 2024 - 28. January 2024** |
-| Announce accepted workshops: | **11. February 2024** |
-| Full program: | **31. March 2024** |
-| Workshops: | **1. July - 2. July 2024** |
+| Call for workshops: | **27 November 2023 - 14 January 2024** |
+| Community voting period: | **15 January 2024 - 28 January 2024** |
+| Announce accepted workshops: | **11 February 2024** |
+| Full program: | **31 March 2024** |
+| Workshops: | **1 July - 2 July 2024** |
 
 Submissions will be made through the OSGeo pretalx instance. A direct
 link will be available here as soon as the call for papers opens.

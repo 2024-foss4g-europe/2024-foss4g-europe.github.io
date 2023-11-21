@@ -31,3 +31,5 @@ social:
   link: "https://fosstodon.org/@evelynuuemaa"
 
 ---
+
+Evelyn is a geographer by heart and Professor in Geoinformatics in University of Tartu. She holds a MSc in geoinformatics and PhD in landscape ecology and environmental protection, and is developing the Landscape Geoinformatics working group as a necessity to improve and strengthen environmental geoinformatics capabilities at the university and for Estonia in general through leading national and international research projects. Her research interests evolve around the interactions of land use/land cover and water quality, landscape changes and geospatial modelling with machine learning. She is also interested in geospatial visualisation.

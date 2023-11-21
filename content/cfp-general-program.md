@@ -16,11 +16,11 @@ layout: "single"
 # General program submissions timeline
 |   |   |
 |:--|-------:|
-| Call for papers: | **27. November 2023 - 11. February 2024** |
-| Community voting period: | **12. February 2024 - 25. February 2024** |
-| Announce accepted talks: | **3. March 2024** |
-| Full program: | **31. March 2024** |
-| Conference: | **3. July - 5. July 2024** |
+| Call for papers: | **27 November 2023 - 11 February 2024** |
+| Community voting period: | **12 February 2024 - 25 February 2024** |
+| Announce accepted talks: | **3 March 2024** |
+| Full program: | **31 March 2024** |
+| Conference: | **3 July - 5 July 2024** |
 
 Submissions will be made through the OSGeo pretalx instance. A direct
 link will be available here as soon as the call for papers opens.
