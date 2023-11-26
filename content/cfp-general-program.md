@@ -22,8 +22,14 @@ layout: "single"
 | Full program: | **31 March 2024** |
 | Conference: | **3 July - 5 July 2024** |
 
-Submissions will be made through the OSGeo pretalx instance. A direct
-link will be available here as soon as the call for papers opens.
+<center>
+    <a href="https://talks.osgeo.org/foss4g-europe-2024/cfp"
+        class="btn btn-primary btn-lg"
+        target="blank" rel="noopener noreferrer"
+        style="background:#ff6600;border:#ff6600;padding:32px;margin-top:30px;margin-bottom:30px">
+        <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
+    <span>Submit a talk</span></a>
+</center>
 
 # Description
 Free and Open Source Software for Geospatial (FOSS4G) Europe is the regional
