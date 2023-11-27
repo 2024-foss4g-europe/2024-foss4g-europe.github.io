@@ -31,4 +31,11 @@ social:
 #  link: "#"
 ---
 
-<add bio text or delete this placeholder>
+Astrid Emde is an active member of OSGeo and the OSGeo Secretary. She
+was in the OSGeo Board of Directors from 2017 till 2021. She is an
+active member of FOSSGIS e.V. the german language Local Chapter of OSGeo
+and part of the team that is organizing the annual FOSSGIS conference.
+Astrid Emde is an Open Source Geospatial expert, actively working as a
+GIS Consultant at WhereGroup in Bonn (Germany).
+She is part of the Mapbender and OSGeoLive team. She received the Sol
+Katz Award in 2018 at the FOSS4G conference in Dar es Salaam (Tanzania).
