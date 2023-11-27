@@ -20,9 +20,9 @@ social:
 #- name: "github"
 #  icon: "fa-brands fa-github"
 #  link: "#"
-#- name: "linkedin"
-#  icon: "fa-brands fa-linkedin"
-#  link: "#"
+- name: "linkedin"
+  icon: "fa-brands fa-linkedin"
+  link: "https://www.linkedin.com/in/besfortguri/"
 #- name: "instagram"
 #  icon: "fa-brands fa-instagram"
 #  link: "#"
@@ -31,4 +31,4 @@ social:
 #  link: "#"
 ---
 
-<add bio text or delete this placeholder>
+Besfort Guri co-leads Kosovo's open-source and mapping community. As FLOSSK's President, he advocates for open-source values at home. Engaged with the OpenStreetMap Foundation and OSGeo, he represents them in Kosovo. Besfort co-leads Open Spatial Kosovo and chaired FOSS4G 2023. Through OpS-IN, his Kosovo business, he develops open-source GIS tools, demonstrating his commitment to local and global tech progress.

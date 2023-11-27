@@ -10,7 +10,7 @@ layout: "single"
 # Academic program submissions timeline
 |   |   |
 |:--|-------:|
-| Call for papers: | **27 November 2023** |
+| Call for papers: | **11 December 2023** |
 | Conference: | **3 July - 5 July 2024** |
 
 Submissions will be made through the OSGeo pretalx instance. A direct
