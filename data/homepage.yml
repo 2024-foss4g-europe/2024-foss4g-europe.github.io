@@ -274,7 +274,7 @@ sponsors:
   - name : "Powered by"
     sponsor_item:
     - name : "OSGeo"
-      logo : "images/sponsors/OSGeo_logo.svg"
+      logo : "images/sponsors/OSGeo_logo.png"
       link : "https://www.osgeo.org/"
 
   - name : "Organizing partners"
