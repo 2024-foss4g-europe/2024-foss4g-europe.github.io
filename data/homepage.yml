@@ -274,22 +274,20 @@ sponsors:
   - name : "Powered by"
     sponsor_item:
     - name : "OSGeo"
-      logo : "images/sponsors/osgeo-logo.png"
+      logo : "images/sponsors/OSGeo_logo.svg"
       link : "https://www.osgeo.org/"
 
   - name : "Organizing partners"
     sponsor_item:
+    - name : "University of Tartu, Landscape Geoinformatics Lab"
+      logo : "images/sponsors/landscape_geo_logo.png"
+      link : "https://landscape-geoinformatics.ut.ee/"
     - name : "Estonian Geoinformatics Society"
-      logo : "images/sponsors/estgis.png"
+      logo : "images/sponsors/estgis-logo.png"
       link : "https://estgis.ee/en/"
 #    - name : "University of Tartu"
 #      logo : "images/sponsors/ut-logo.png"
 #      link : "#"
-    - name : "University of Tartu, Landscape Geoinformatics Lab"
-      logo : "images/sponsors/landscape_geo_logo.png"
-      link : "https://landscape-geoinformatics.ut.ee/"
-
-
 #  - name : "Platinum Sponsors"
 #    sponsor_item:
 #    - name : "sponsor"

@@ -1001,13 +1001,13 @@
 		}
 		.image-block{
 			padding: 45px 0;
-			background: $light;
-			width: 244px;
+			background: transparent;
+			width: auto;
 			cursor: pointer;
 			transition: all .3s ease;
 			border: 1px solid transparent;
 			img{
-				height: 55px;
+				height: 70px;
 			}
 			margin-bottom: 10px;
 			&:hover{
