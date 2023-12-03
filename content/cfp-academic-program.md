@@ -99,7 +99,7 @@ conformance to the template (see below) as well as a plagiarism check using
 specialised software.
 
 Only the work of authors who submitted the extended paper (conformant to the
-template) will be included (as talks or posters/lighning talks) in the
+template) will be included (as talks or posters/lightning talks) in the
 Academic Track program. In other words, no presentation at the Academic Track
 is possible without submitting the paper.
 
