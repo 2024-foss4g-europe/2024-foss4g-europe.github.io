@@ -24,7 +24,7 @@ Submissions will be made through the OSGeo pretalx instance. A direct
 link will be available here as soon as the call for papers opens.
 
 # Description
-Following an established tradition, an Academic Track running over the days of
+Following the established tradition, an Academic Track running over the days of
 the FOSS4G Europe (FOSS4GE) is organised. The Scientific Committee of
 FOSS4GE 2024 invites original research contributions addressing any topic or
 domain connected to free and open source geospatial software, including (but not
