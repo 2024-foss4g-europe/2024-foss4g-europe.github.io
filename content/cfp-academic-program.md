@@ -1,8 +1,12 @@
 ---
 title: "Call for papers: Academic program"
 page_header_bg: "images/background/page-title-bg.jpg"
-date: 2023-10-31T20:42:35+02:00
-description: ""
+date: 2023-12-03T21:40:35+02:00
+description: "FOSS4G Europe is the regional
+flagship event of OSGeo - an open, grassroots and dynamic community. The
+Scientific Committee of FOSS4GE 2024 invites original research contributions
+addressing any topic or domain connected to free and open source geospatial
+software."
 draft: false
 layout: "single"
 ---
