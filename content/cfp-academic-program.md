@@ -69,6 +69,11 @@ evaluation (including the approach, results, concepts, reasons why it should be
 considered and why it would be interesting for the FOSS4GE Academic Track
 audience).
 
+The submitted proposals are not publicly visible until the FOSS4G Europe 2024
+[Scientific Committee]() has accepted them after a review period. Until then
+the author can share their proposal for feedback/proof-reading from colleagues
+or friends via a link that is automatically created during submission.
+
 The contributions are evaluated in the abstract review process. Submitted
 abstracts will be refereed by the members of the Scientific Committee for
 originality/scientific novelty, relevance for the FOSS4G community,
