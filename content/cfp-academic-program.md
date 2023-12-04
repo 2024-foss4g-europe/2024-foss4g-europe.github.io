@@ -25,7 +25,7 @@ link will be available here as soon as the call for papers opens.
 
 # Description
 Following the established tradition, an Academic Track running over the days of
-the FOSS4G Europe (FOSS4GE) is organised. The Scientific Committee of
+the FOSS4G Europe (FOSS4GE) is organised. The [**Scientific Committee**](../scientific-committee/) of
 FOSS4GE 2024 invites original research contributions addressing any topic or
 domain connected to free and open source geospatial software, including (but not
 limited to):
@@ -54,7 +54,7 @@ use of open source geospatial software and its impact on the work should be
 properly highlighted. Contributions from PhD students and early-stage researchers
 are particularly encouraged.
 
-In the evaluation of proposals, the Scientific Committee will pay particular
+In the evaluation of proposals, the [**Scientific Committee**](../scientific-committee/) will pay particular
 attention to the reproducibility of the research (where this is applicable).
 Reproducibility is ensured when the research makes all artefacts (input data,
 computational steps, methods and code) openly available to obtain consistent
@@ -74,12 +74,12 @@ considered and why it would be interesting for the FOSS4GE Academic Track
 audience).
 
 The submitted proposals are not publicly visible until the FOSS4G Europe 2024
-[Scientific Committee]() has accepted them after a review period. Until then
+[**Scientific Committee**](../scientific-committee/) has accepted them after a review period. Until then
 the authors can share their proposal for feedback/proof-reading with colleagues
 or friends via a link that is automatically created during submission.
 
 The contributions are evaluated in the abstract review process. Submitted
-abstracts will be refereed by the members of the Scientific Committee for
+abstracts will be refereed by the members of the [**Scientific Committee**](../scientific-committee/) for
 originality/scientific novelty, relevance for the FOSS4G community,
 presentation/clarity and overall quality.
 

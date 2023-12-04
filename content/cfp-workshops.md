@@ -59,6 +59,15 @@ be accepted.
 # Selection process
 We will have a two-week community vote on the submitted workshops.
 The result of the community vote will be taken as a recommendation, but the
-last decision lies with the volunteer Program Committee. The community vote is
+last decision lies with the volunteer [**Program Committee**](../program-committee/). The community vote is
 essential for us for assigning rooms and capacity planning for participants to
 get the best FOSS4G experience.
+
+<center>
+    <a href="https://talks.osgeo.org/foss4g-europe-2024-workshops/cfp"
+        class="btn btn-primary btn-lg"
+        target="blank" rel="noopener noreferrer"
+        style="background:#ff6600;border:#ff6600;padding:32px;margin-top:30px;margin-bottom:30px">
+        <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
+    <span>Submit a workshop</span></a>
+</center>
