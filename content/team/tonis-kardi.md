@@ -16,7 +16,7 @@ social:
   link: "https://twitter.com/tkardi"
 - name: "github"
   icon: "fa-brands fa-github"
-  link: "https://mastodon.social/@tkardi"
+  link: "https://github.com/tkardi"
 #- name: "linkedin"
 #  icon: "fa-brands fa-linkedin"
 #  link: "#"
