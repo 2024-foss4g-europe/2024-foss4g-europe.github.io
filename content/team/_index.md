@@ -65,12 +65,10 @@ enthusiasts and advocates. Who are we? Come and meet us.
 <center>
     <a href="../program-committee/"
         class="btn btn-primary btn-lg"
-        target="blank" rel="noopener noreferrer"
         style="background:#ff6600;border:#ff6600;padding:15px;margin-top:30px;margin-bottom:30px;margin-right:5px;margin-left:5px">
     <span>Program committee</span></a>
     <a href="../scientific-committee/"
         class="btn btn-primary btn-lg"
-        target="blank" rel="noopener noreferrer"
         style="background:#ff6600;border:#ff6600;padding:15px;margin-top:30px;margin-bottom:30px;margin-right:5px;margin-left:5px">
     <span>Scientific committee</span></a>
 </center>
