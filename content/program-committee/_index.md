@@ -1,8 +1,8 @@
 ---
-title : "Local Organizing Committee"
+title : "General Program Committee"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2020-11-01T12:21:24+02:00
-description : "Meet the LOC team behind the organizational matters of FOSS4G Europe 2024."
+date: 2020-12-03T22:44:24+02:00
+description : "Meet the FOSS4G Europe 2024 General Program Committee."
 draft : false
 type: "speaker"
 ---
@@ -53,24 +53,4 @@ type: "speaker"
 
 </center>
 
-## Meet the team
-
-With organizational support from the
-<u>[Estonian Geoinformatics Society](https://estgis.ee/en)</u>
-and <u>[University of Tartu](https://ut.ee/en)</u>
-<u>[Landscape Geoinformatics Lab](https://landscape-geoinformatics.ut.ee/)</u>
-the Local Organizing Committee (LOC) is a pan-European group of FOSS4G
-enthusiasts and advocates. Who are we? Come and meet us.
-
-<center>
-    <a href="../program-committee/"
-        class="btn btn-primary btn-lg"
-        target="blank" rel="noopener noreferrer"
-        style="background:#ff6600;border:#ff6600;padding:15px;margin-top:30px;margin-bottom:30px;margin-right:5px;margin-left:5px">
-    <span>Program committee</span></a>
-    <a href="../scientific-committee/"
-        class="btn btn-primary btn-lg"
-        target="blank" rel="noopener noreferrer"
-        style="background:#ff6600;border:#ff6600;padding:15px;margin-top:30px;margin-bottom:30px;margin-right:5px;margin-left:5px">
-    <span>Scientific committee</span></a>
-</center>
+## FOSS4GE 2024 General Program Committee

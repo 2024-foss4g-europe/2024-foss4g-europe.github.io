@@ -183,11 +183,13 @@ hasChildren = true
   parent = "About"
   name = "Code of Conduct"
   url = "coc/"
+  weight = 2
 
   [[menu.main]]
   parent = "About"
   name = "Organizing committee"
   url = "team/"
+  weight = 3
 
   [[menu.main]]
   parent = "Venue"
