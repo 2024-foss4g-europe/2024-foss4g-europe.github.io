@@ -196,4 +196,13 @@ conference, but please consider the following suggestions:
 FOSS4G Europe is a **community event** and therefore the main selection of talks
 will be done through an open community voting process. The highest-scoring
 ones will automatically be included in the program, while others will be
-reviewed by the volunteer Program Committee.
+reviewed by the volunteer [**Program Committee**](../program-committee/).
+
+<center>
+    <a href="https://talks.osgeo.org/foss4g-europe-2024/cfp"
+        class="btn btn-primary btn-lg"
+        target="blank" rel="noopener noreferrer"
+        style="background:#ff6600;border:#ff6600;padding:32px;margin-top:30px;margin-bottom:30px">
+        <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
+    <span>Submit a talk</span></a>
+</center>
