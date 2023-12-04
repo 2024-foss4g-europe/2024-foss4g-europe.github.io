@@ -75,7 +75,7 @@ audience).
 
 The submitted proposals are not publicly visible until the FOSS4G Europe 2024
 [**Scientific Committee**](../scientific-committee/) has accepted them after a review period. Until then
-the author can share their proposal for feedback/proof-reading from colleagues
+the authors can share their proposal for feedback/proof-reading with colleagues
 or friends via a link that is automatically created during submission.
 
 The contributions are evaluated in the abstract review process. Submitted
