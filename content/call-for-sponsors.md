@@ -78,9 +78,17 @@ something that fits your needs.
 {{< figure
     src="../images/sponsor_levels.png"
     alttext="sponsor levels"
+    link="../doc/FOSS4G-Europe-call-for-sponsors.pdf"
     width="800"
     target="blank"
     rel="noopener noreferrer"
     >}}
+
+The full sponsorship prospectus can be downloaded as a pdf file
+**{{<
+    extlink href="../doc/FOSS4G-Europe-call-for-sponsors.pdf"
+    title="here"
+    target="blank" rel="noopener noreferrer"
+>}}**.
 
 If you are interested in becoming a sponsor, please contact us at: **info-europe@foss4g.org**
