@@ -38,7 +38,7 @@ Partnership in the FOSS4G conference gives you:
 
 ### Audience
 
-Around 250-300 participants are expected to attend the conference on-site from all
+Around 300-350 participants are expected to attend the conference on-site from all
 over the Europe. Moreover, the whole conference will be streamed and recorded
 to a even larger audience.
 
@@ -68,5 +68,12 @@ each other depending on the amount of sponsorship: offerings in both types are
 the same but the latter has a little extra directly related with the type
 of support you are extending to the conference.
 
-Specific sponsorship packages will be published on this page and announced
-on the FOSS4GE social media accounts very soon. Stay tuned.
+{{< figure
+    src="../images/sponsor_levels.png"
+    alttext="sponsor levels"
+    width="800"
+    target="blank"
+    rel="noopener noreferrer"
+    >}}
+
+ If you are interested in becoming a sponsor, please contact us at: **info-europe@foss4g.org**
