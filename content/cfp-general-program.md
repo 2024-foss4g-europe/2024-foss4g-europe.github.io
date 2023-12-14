@@ -102,7 +102,7 @@ suitable for sharing experiences so we could all grow as individuals and build
 and sustain our communities better. Sharing is caring.
 
 ##### - FOSS4G “Made in Europe”
-A special track track co-organised with the European Commission to investigate
+A special track co-organised with the European Commission to investigate
 and introduce the many Free and Open Source
 software tools, data capture and collection and sharing projects carried out
 at the European Commission, European institutions or funded by them.
