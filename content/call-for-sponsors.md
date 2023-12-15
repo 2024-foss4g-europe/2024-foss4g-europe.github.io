@@ -16,7 +16,17 @@ community sprint to sum up the week.
 
 FOSS4GE 2024 will be an in-person event but we are working hard to make
 streaming of all presentations a reality in addition to recorded material which
-will later be published on the OSGeo YouTube channel and TIB-AV portal.
+will later be published on the
+**{{<
+    extlink href="https://www.youtube.com/@FOSS4G/playlists"
+    title="FOSS4G YouTube channel"
+    target="blank" rel="noopener noreferrer"
+>}}** and
+**{{<
+    extlink href="https://av.tib.eu/publisher/FOSS4G"
+    title="TIB-AV"
+    target="blank" rel="noopener noreferrer"
+>}}** portal.
 
 We are honoured to invite you to take this opportunity to be a financial partner
 for the FOSS4G Europe conference in Tartu, Estonia in 2024. By sponsoring
@@ -27,9 +37,9 @@ Your work and solutions to future customers or partners.
 
 ### Why become our partner?
 
-FOSS4G  conference partners are exposed to a highly engaged international
+FOSS4G Europe conference partners are exposed to a highly engaged international
 audience of policy makers, business representatives, and industry professionals.  
-Partnership in the FOSS4G conference gives you:
+Partnership in the FOSS4G Europe conference gives you:
 
 - Opportunity to engage with the geospatial technology industry
 - Marketing and brand exposure
@@ -60,20 +70,25 @@ Audience profile:
 
 ### Partnership packages
 
-We are preparing two types of preconfigured sponsorship packages. One is the
-traditional platinum, gold, silver, bronze and supporter tiers. The other
-with a more specific goal of helping us cover certain costs: like live-streaming,
-coffee breaks, lunch breaks, ice-breaker, etc. Both types are equatable with
-each other depending on the amount of sponsorship: offerings in both types are
-the same but the latter has a little extra directly related with the type
-of support you are extending to the conference.
+We have prepared a number of preconfigured sponsorship packages summarized
+in the following table. If for whatever reason you cannot find a package that
+suits your needs, please feel free to reach out to us so we can work out
+something that fits your needs.
 
 {{< figure
     src="../images/sponsor_levels.png"
     alttext="sponsor levels"
+    link="../doc/FOSS4G-Europe-call-for-sponsors.pdf"
     width="800"
     target="blank"
     rel="noopener noreferrer"
     >}}
 
- If you are interested in becoming a sponsor, please contact us at: **info-europe@foss4g.org**
+The full sponsorship prospectus can be downloaded as a pdf file
+**{{<
+    extlink href="../doc/FOSS4G-Europe-call-for-sponsors.pdf"
+    title="here"
+    target="blank" rel="noopener noreferrer"
+>}}**.
+
+If you are interested in becoming a sponsor, please contact us at: **info-europe@foss4g.org**
