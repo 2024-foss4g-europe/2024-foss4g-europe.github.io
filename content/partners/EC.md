@@ -2,9 +2,9 @@
 title : "European Commission"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-12-14T15:33:24+02:00
-description : "Meet the LOC team behind the organizational matters of FOSS4G Europe 2024."
+description : "The European Commission is honoured to be part of the global community of open source geospatial enthusiasts gathering from 1 to 7 July at the FOSS4G Europe 2024 conference. The European Commission is contributing to the event with a full-day dedicated track."
 designation: ""
-image: "images/sponsors/logo_european_commission.png"
+image: "images/sponsors/european-commission-logo-resize.png"
 draft : false
 type: "speaker"
 layout: "single"
