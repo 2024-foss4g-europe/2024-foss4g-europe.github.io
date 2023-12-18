@@ -26,7 +26,7 @@ layout: "single"
     <a href="https://talks.osgeo.org/foss4g-europe-2024/cfp"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
-        style="background:#ff6600;border:#ff6600;padding:32px;margin-top:30px;margin-bottom:30px">
+        style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
     <span>Submit a talk</span></a>
 </center>
@@ -203,7 +203,7 @@ reviewed by the volunteer [**Program Committee**](../program-committee/).
     <a href="https://talks.osgeo.org/foss4g-europe-2024/cfp"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
-        style="background:#ff6600;border:#ff6600;padding:32px;margin-top:30px;margin-bottom:30px">
+        style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
     <span>Submit a talk</span></a>
 </center>
