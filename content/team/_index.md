@@ -35,9 +35,7 @@ type: "speaker"
         src="../images/sponsors/landscape_geo_logo.png"
         alttext="University of Tartu Landscape Geoinformatics Lab"
         height="90"
-        link="https://landscape-geoinformatics.ut.ee/"
-        target="blank"
-        rel="noopener noreferrer"
+        link="../partners/landscape-geoinformatics-lab/"
         class="partner-logo"
     >}}
     {{<
@@ -45,9 +43,15 @@ type: "speaker"
         src="https://estgis.ee/wp-content/themes/estgis/theme/images/header-logo.png"
         alttext="Estonian Geoinformatics Society"
         height="90"
-        link="https://estgis.ee/en"
-        target="blank"
-        rel="noopener noreferrer"
+        link="../partners/estgis/"
+        class="partner-logo"
+    >}}
+    {{<
+        figure
+        src="../images/sponsors/logo_european_commission.png"
+        alttext="Estonian Geoinformatics Society"
+        height="100"
+        link="../partners/ec/"
         class="partner-logo"
     >}}
 

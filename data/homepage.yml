@@ -266,9 +266,9 @@ sponsors:
   content : "FOSS4G Europe 2024 is made possible thanks to the invaluable help
   from the following organizations"
   button:
-    enable : false
+    enable : true
     label : "Become a sponsor"
-    link : "#"
+    link : "./call-for-sponsors/"
   sponsor_group:
 
   - name : "Powered by"
@@ -281,13 +281,14 @@ sponsors:
     sponsor_item:
     - name : "University of Tartu, Landscape Geoinformatics Lab"
       logo : "images/sponsors/landscape_geo_logo.png"
-      link : "https://landscape-geoinformatics.ut.ee/"
+      link : "./partners/landscape-geoinformatics-lab/"
     - name : "Estonian Geoinformatics Society"
       logo : "images/sponsors/estgis-logo.png"
-      link : "https://estgis.ee/en/"
-#    - name : "University of Tartu"
-#      logo : "images/sponsors/ut-logo.png"
-#      link : "#"
+      link : "./partners/estgis/"
+    - name : "European Commission"
+      logo : "images/sponsors/logo_european_commission.png"
+      link : "./partners/estgis/"
+
 #  - name : "Platinum Sponsors"
 #    sponsor_item:
 #    - name : "sponsor"

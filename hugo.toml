@@ -127,15 +127,22 @@ hasChildren = true
  url = "registration/"
  weight = 4
 
-  [[menu.main]]
- name = "Sponsors"
- url = "sponsors/"
- weight = 5
+[[menu.main]]
+  name = "Sponsors"
+  url = "sponsors/"
+  weight = 5
 
   [[menu.main]]
-  parent = "Sponsors"
-  name = "Call for sponsors"
-  url = "call-for-sponsors"
+    weight = 1
+    parent = "Sponsors"
+    name = "Call for sponsors"
+    url = "call-for-sponsors/"
+
+  [[menu.main]]
+    weight = 2
+    parent = "Sponsors"
+    name = "Our partners"
+    url = "partners/"
 
 # [[menu.main]]
 # name = "Blog"
@@ -271,8 +278,8 @@ map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 name = "Department of Geography,<br> University of Tartu"
 location = "Vanemuise 46, Tartu,<br> Estonia."
-email = "tartufoss4g@gmail.com"
-link = "#"
+email = "info-europe@foss4g.org"
+link = "https://geograafia.ut.ee/en"
 
 # cookies
 [params.cookies]
