@@ -27,7 +27,7 @@ layout: "single"
     <a href="https://talks.osgeo.org/foss4g-europe-2024-workshops/cfp"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
-        style="background:#ff6600;border:#ff6600;padding:32px;margin-top:30px;margin-bottom:30px">
+        style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
     <span>Submit a workshop</span></a>
 </center>
@@ -67,7 +67,7 @@ get the best FOSS4G experience.
     <a href="https://talks.osgeo.org/foss4g-europe-2024-workshops/cfp"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
-        style="background:#ff6600;border:#ff6600;padding:32px;margin-top:30px;margin-bottom:30px">
+        style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
     <span>Submit a workshop</span></a>
 </center>

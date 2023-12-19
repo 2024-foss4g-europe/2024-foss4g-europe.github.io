@@ -13,7 +13,7 @@ type: "speaker"
     border: 1px solid #fff;
   }
   .partner-logo img:hover{
-    border-color: #ff6600;
+    border-color: #f06a36;
   }
 </style>
 
