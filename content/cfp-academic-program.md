@@ -14,10 +14,10 @@ layout: "single"
 # Academic program submissions timeline
 |   |   |
 |:--|-------:|
-| Call for papers: | **4 December 2023 - 11 February 2024** |
-| Announce accepted talks | **3 March 2024** |
-| Full program | **31 March 2024** |
-| Submission of full academic papers | **3 May 2024** |
+| Submission of abstracts: | **4 December 2023 - 11 February 2024** |
+| Announcement of accepted talks: | **3 March 2024** |
+| Full program: | **31 March 2024** |
+| Submission of full academic papers: | **3 May 2024** |
 | Conference: | **3 July - 5 July 2024** |
 
 <center>
