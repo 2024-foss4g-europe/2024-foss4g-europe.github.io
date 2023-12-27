@@ -10,7 +10,7 @@ layout: "single"
 social:
 #- name: "Homepage"
 #  icon: "fa-solid fa-house"
-#  link: "https://www.lucadelu.org/"
+#  link: "#"
 #- name: "facebook"
 #  icon: "fa-brands fa-facebook"
 #  link: "#"
