@@ -56,6 +56,11 @@ Please, keep in mind this is a Free and Open Source Software conference.
 Submissions promoting restricted license / closed source software will not
 be accepted.
 
+The FOSS4G Europe 2024 Local Organizing Committee understands the huge body of
+work that goes into preparing a successful and educative workshop. Therefore
+the accepted workshop presenters will be offered a possibility of a free 
+ticket to the conference main program.
+
 # Selection process
 We will have a two-week community vote on the submitted workshops.
 The result of the community vote will be taken as a recommendation, but the
