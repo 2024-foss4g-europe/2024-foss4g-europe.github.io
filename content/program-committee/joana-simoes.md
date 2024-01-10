@@ -46,7 +46,7 @@ social:
 #  link: "#"
 ---
 
-oana is a software engineer with more than fifteen years experience and a strong
+Joana is a software engineer with more than fifteen years experience and a strong
 expertise in the field of geospatial tech and analytics. After acquiring a PhD
 in GIS, at UCL, her drive to solve real-world problems has led her to SMEs, an
 international organisation, a research foundation and a start-up. Joana has
