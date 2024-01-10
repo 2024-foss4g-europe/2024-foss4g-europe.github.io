@@ -122,15 +122,21 @@ url = "call-for-papers/"
 weight = 3
 hasChildren = true
 
- [[menu.main]]
- name = "Registration"
- url = "registration/"
- weight = 4
+[[menu.main]]
+name = "Registration"
+url = "registration/"
+weight = 4
 
 [[menu.main]]
-  name = "Sponsors"
-  url = "sponsors/"
-  weight = 5
+name = "Schedule"
+url = "schedule/"
+weight = 5
+
+[[menu.main]]
+name = "Sponsors"
+url = "sponsors/"
+weight = 6
+hasChildren = true
 
   [[menu.main]]
     weight = 1
@@ -150,7 +156,7 @@ hasChildren = true
 # weight = 5
 
  [[menu.main]]
- weight = 6
+ weight = 7
  name = "Venue"
  hasChildren = true
 
