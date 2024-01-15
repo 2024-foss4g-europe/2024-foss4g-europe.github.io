@@ -287,7 +287,7 @@ sponsors:
       link : "./partners/estgis/"
     - name : "European Commission"
       logo : "images/sponsors/logo_european_commission.png"
-      link : "./partners/estgis/"
+      link : "./partners/ec/"
 
 #  - name : "Platinum Sponsors"
 #    sponsor_item:
