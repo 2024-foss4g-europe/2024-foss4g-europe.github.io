@@ -277,6 +277,7 @@ sponsors:
       logo : "images/sponsors/OSGeo_logo.png"
       link : "https://www.osgeo.org/"
 
+
   - name : "Organizing partners"
     sponsor_item:
     - name : "University of Tartu, Landscape Geoinformatics Lab"
@@ -290,40 +291,15 @@ sponsors:
       link : "./partners/ec/"
 
 
-#  - name : "Platinum Sponsors"
-#    sponsor_item:
-#    - name : "sponsor"
-#      logo : "images/sponsors/pt-spon-two.png"
-#      link : "#"
-#
-#    - name : "sponsor"
-#      logo : "images/sponsors/pt-spon-three.png"
-#      link : "#"
-#
-#    - name : "sponsor"
-#      logo : "images/sponsors/pt-spon-four.png"
-#      link : "#"
-#
-#    - name : "sponsor"
-#      logo : "images/sponsors/pt-spon-three.png"
-#      link : "#"
-#
   - name : "Gold Sponsors"
     sponsor_item:
     - name : "GeoCat bv"
       logo : "images/sponsors/geocat.svg"
       link : "./sponsors/gold/geocat/"
 
-#    - name : "sponsor"
-#      logo : "images/sponsors/gl-spon-three.png"
-#      link : "#"
 
-#    - name : "sponsor"
-#      logo : "images/sponsors/gl-spon-one.png"
-#      link : "#"
-
-#  - name : "Media partners"
-#    sponsor_item:
-#    - name : "ISPRS International Journal of Geo-Information"
-#      logo : "images/sponsors/IJGI_Journal_Logo_transparent.png"
-#      link : "./partners/landscape-geoinformatics-lab/"
+  - name : "Media partners"
+    sponsor_item:
+    - name : "ISPRS International Journal of Geo-Information"
+      logo : "images/sponsors/IJGI-B.png"
+      link : "./partners/landscape-geoinformatics-lab/"
