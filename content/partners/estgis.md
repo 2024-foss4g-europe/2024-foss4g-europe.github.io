@@ -1,9 +1,9 @@
 ---
 title : "Estonian Geoinformatics Society"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2020-12-14T15:33:24+02:00
+date: 2024-01-16T15:33:24+02:00
 description : "Estonian Geoinformatics Society (EstGIS) is an union that represents professionals in geographic information, cartography and other related disciplines in Estonia."
-designation: ""
+designation: "Organizing partner"
 image: "images/sponsors/estgis-logo-resize.png"
 draft : false
 type: "speaker"
