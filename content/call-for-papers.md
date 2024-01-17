@@ -11,7 +11,7 @@ layout: "single"
 ---
 
 ### Call for workshops submissions
-The call was open between 27 November 2023 - 14 January 2024, and is is now closed.
+The call was open between 27 November 2023 - 14 January 2024, and is now closed.
 
 [Proceed to commuty voting](https://talks.osgeo.org/foss4g-europe-2024-workshops/)
 
