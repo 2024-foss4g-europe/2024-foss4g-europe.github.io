@@ -11,9 +11,9 @@ layout: "single"
 ---
 
 ### Call for workshops submissions
-27 November 2023 - 14 January 2024  
+The call was open between 27 November 2023 - 14 January 2024, and is is now closed.
 
-[Proceed to call](../cfp-workshops/)
+[Proceed to commuty voting](https://talks.osgeo.org/foss4g-europe-2024-workshops/)
 
 ### Call for general program submissions
 27 November 2023 - 11 February 2024  
