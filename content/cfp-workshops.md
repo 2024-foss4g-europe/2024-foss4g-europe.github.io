@@ -24,12 +24,12 @@ layout: "single"
 
 
 <center>
-    <a href="https://talks.osgeo.org/foss4g-europe-2024-workshops/cfp"
+    <a href="https://talks.osgeo.org/foss4g-europe-2024-workshops/p/voting/signup/"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
-    <span>Submit a workshop</span></a>
+    <span>Community vote</span></a>
 </center>
 
 # Description
@@ -58,7 +58,7 @@ be accepted.
 
 The FOSS4G Europe 2024 Local Organizing Committee understands the huge body of
 work that goes into preparing a successful and educative workshop. Therefore
-the accepted workshop presenters will be offered a possibility of a free 
+the accepted workshop presenters will be offered a possibility of a free
 ticket to the conference main program.
 
 # Selection process
@@ -69,10 +69,10 @@ essential for us for assigning rooms and capacity planning for participants to
 get the best FOSS4G experience.
 
 <center>
-    <a href="https://talks.osgeo.org/foss4g-europe-2024-workshops/cfp"
+    <a href="https://talks.osgeo.org/foss4g-europe-2024-workshops/p/voting/signup/"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
-    <span>Submit a workshop</span></a>
+    <span>Community vote</span></a>
 </center>
