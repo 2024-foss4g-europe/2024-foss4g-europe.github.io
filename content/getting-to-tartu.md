@@ -13,7 +13,7 @@ layout: "single"
 
 **Air**
 
-Tartu has an airport very close by (ca 10 km away in Ülenurme) but at the moment the commercial connections have not been restored since the pandemic. Currently a tender is being prepared that would ensure a daily connection to an important European airport (e.g. Riga/Latvia or Helsinki/Finland). We will publish news when changes have been confirmed.
+Tartu has an airport (TAY) very close by (ca 10 km away in Ülenurme). The flight connection is set to resume between Tartu and the Finnish capital Helsinki (HEL) in March 31, 2024. after a long break caused by covid. There will be 12 scheduled flights per week between Tartu and Helsinki. Flights from Tartu will depart at 6.00 a.m. and 3 p.m., while those from Helsinki leave at 1.50 p.m. and 11.55 p.m. Tickets can be purchased via **{{< extlink href="https://www.finnair.com/ee-en" title="Finnair's" >}}** web page.
 
 The closest airports are:
 
