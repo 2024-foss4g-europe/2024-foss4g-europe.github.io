@@ -54,8 +54,7 @@ in Madrid using GIS in urban planning and spatial development general management
 making spatial geodatabases with urban planning information. I belong to several
 groups that support the FOSS4G development as
 [**Geoinquietos Madrid**](http://geoinquietos.org/grupos/madrid/),
-[**GeochicasOSM**](https://wiki.openstreetmap.org/wiki/ES:GeoChicas),
-AESIG and
+[**GeochicasOSM**](https://wiki.openstreetmap.org/wiki/ES:GeoChicas), and
 [**Spain QGIS Association**](http://qgis.es/), and I attempt to contribute to
 use free software and GIS, creation of Open Source Databases, as well as the
 participation in humanitarian mapping events or local communities development.  
