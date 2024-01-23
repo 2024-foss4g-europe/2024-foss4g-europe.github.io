@@ -2,7 +2,6 @@
 title: "Tartu 2024"
 page_header_bg: "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, velit."
 draft: false
 layout: "single"
 ---
@@ -23,7 +22,7 @@ If you happen to have some free time during the conference or looking for reason
     target="blank"
     rel="noopener noreferrer"
     >}}
-- From Saturday, 6 July, the **{{< extlink href="https://tartu2024.ee/en/programme/tartu-2024-autovabaduse-puiestee-1-2/" title="Car-free Avenue" >}}** will be opened. The section of Vabaduse Avenue will be free of cars for the fifth time and will be transformed into a pleasant oasis where you can relax, play and enjoy various events. 
+- From Saturday, 6 July, the **{{< extlink href="https://tartu2024.ee/en/programme/tartu-2024-autovabaduse-puiestee-1-2/" title="Car-free Avenue" >}}** will be opened. The section of Vabaduse Avenue will be free of cars for the fifth time and will be transformed into a pleasant oasis where you can relax, play and enjoy various events.
 {{< figure
     src="../images/car-free.jpg"
     alttext="carfree"
@@ -31,7 +30,7 @@ If you happen to have some free time during the conference or looking for reason
     target="blank"
     rel="noopener noreferrer"
     >}}
-- On Sunday, 7 July, the Rock Legend Bryan Adams is set to ignite the stage at the Tartu Song Festival Grounds during his tour "So Happy It Hurts". It promises to be an unforgettable evening of music and entertainment. More information:  **{{< extlink href="https://tartu2024.ee/en/programme/bryan-adams-tartu-lauluvaljak-1-2/" title="HERE" >}}** 
+- On Sunday, 7 July, the Rock Legend Bryan Adams is set to ignite the stage at the Tartu Song Festival Grounds during his tour "So Happy It Hurts". It promises to be an unforgettable evening of music and entertainment. More information:  **{{< extlink href="https://tartu2024.ee/en/programme/bryan-adams-tartu-lauluvaljak-1-2/" title="HERE" >}}**
 {{< figure
     src="../images/BryanAdams.jpg"
     alttext="Bryan Adamas"
@@ -40,7 +39,7 @@ If you happen to have some free time during the conference or looking for reason
     rel="noopener noreferrer"
     >}}
 
-Feel free to check out the official website of **{{< extlink href="https://tartu2024.ee/en" title="Tartu 2024!" >}}** 
+Feel free to check out the official website of **{{< extlink href="https://tartu2024.ee/en" title="Tartu 2024!" >}}**
 
 
 {{< figure
