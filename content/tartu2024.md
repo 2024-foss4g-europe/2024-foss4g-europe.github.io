@@ -33,7 +33,7 @@ year.
 
 What Tartu 2024 activities take place during the week of our FOSS4GE
 conference? Let's have a look at a few suggestions by the LOC members. The list
-is not exhaustive by all means an more can found at the
+is not exhaustive by all means and more can found at the
 **{{<
   extlink href="https://tartu2024.ee/en"
   title="Tartu2024"
