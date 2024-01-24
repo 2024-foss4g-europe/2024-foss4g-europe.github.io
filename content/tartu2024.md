@@ -115,7 +115,7 @@ Tickets available from
     src="../images/genialistid-last-show-banner.jpg"
     alttext="Genialistid last show. Ever."
     width="100%"
-    caption="Poster for Genialistid last show. Received in e-mail and used by permission of the band."
+    caption="Poster for Genialistid last show. Received in e-mail from and used by permission of the band."
 >}}
 
 # Car-free avenue
