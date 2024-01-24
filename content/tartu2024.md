@@ -18,7 +18,7 @@ If you happen to have some free time during the conference or looking for reason
 {{< figure
     src="../images/stencibility.jpg"
     alttext="Stencibility"
-    width="400"
+    width="100%"
     target="blank"
     rel="noopener noreferrer"
     >}}
@@ -26,7 +26,7 @@ If you happen to have some free time during the conference or looking for reason
 {{< figure
     src="../images/car-free.jpg"
     alttext="carfree"
-    width="400"
+    width="100%"
     target="blank"
     rel="noopener noreferrer"
     >}}
@@ -34,7 +34,7 @@ If you happen to have some free time during the conference or looking for reason
 {{< figure
     src="../images/BryanAdams.jpg"
     alttext="Bryan Adamas"
-    width="400"
+    width="100%"
     target="blank"
     rel="noopener noreferrer"
     >}}
@@ -45,7 +45,7 @@ Feel free to check out the official website of **{{< extlink href="https://tartu
 {{< figure
     src="../images/tartu2024.jpg"
     alttext="Tartu"
-    width="800"
+    width="100%"
     target="blank"
     rel="noopener noreferrer"
     >}}
