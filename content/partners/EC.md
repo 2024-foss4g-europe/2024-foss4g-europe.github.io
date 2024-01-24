@@ -1,9 +1,9 @@
 ---
 title : "European Commission"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2020-12-14T15:33:24+02:00
+date: 2024-01-16T15:33:24+02:00
 description : "The European Commission is honoured to be part of the global community of open source geospatial enthusiasts gathering from 1 to 7 July at the FOSS4G Europe 2024 conference. The European Commission is contributing to the event with a full-day dedicated track."
-designation: ""
+designation: "Organizing partner"
 image: "images/sponsors/european-commission-logo-resize.png"
 draft : false
 type: "speaker"

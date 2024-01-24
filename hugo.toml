@@ -147,6 +147,12 @@ hasChildren = true
   [[menu.main]]
     weight = 2
     parent = "Sponsors"
+    name = "Our sponsors"
+    url = "sponsors/"
+
+  [[menu.main]]
+    weight = 3
+    parent = "Sponsors"
     name = "Our partners"
     url = "partners/"
 
