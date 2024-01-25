@@ -37,7 +37,6 @@ If you happen to have some free time during the conference or looking for
 reasons to prolong your stay there will be loads of options for entertainment,
 cultural and culinary experiences and much more! The list
 is not exhaustive by all means and more can found at the
-
 **{{<
   extlink href="https://tartu2024.ee/en"
   title="Tartu2024"
