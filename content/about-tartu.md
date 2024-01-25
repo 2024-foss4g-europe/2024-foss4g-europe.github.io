@@ -12,11 +12,9 @@ The venue of the conference will be the home of the **UT Department of Geography
 {{< figure
     src="../images/venue.jpg"
     alttext="Venu"
-    width="800"
-    target="blank"
-    rel="noopener noreferrer"
+    width="100%"
+    caption="_Venue of the conference. ©Andres Tennus via Department of Geography_"
     >}}
-*Venue of the conference. ©Andres Tennus via Department of Geography*
 
 Tartu is situated in Southern Estonia. The capital city of Estonia is Tallinn which is 180 km to the North-West. It lies about half way down the stream on the banks of river Emajõgi, one of the largest rivers of Estonia connecting the lakes Võrtsjärv and Peipsi. Tartu is an old historic region (historically also known as Tarbatu, or Dorpat) and was first mentioned by medieval chroniclers in 1030.
 
@@ -27,14 +25,15 @@ Tartu is also home to the Ministry of Education and Research, the Estonian Natio
 {{< figure
     src="../images/tartu.jpg"
     alttext="Venu"
-    width="800"
-    target="blank"
-    rel="noopener noreferrer"
+    width="100%"
+    caption="_[**Aerial view to the city centre. ©Kaarel Kõvatu**](https://www.flickr.com/photos/visittartu/51705638126/in/album-72157720176411983/) via [**visittartu.com**](https://visittartu.com/en)_"
     >}}
-*Aerial view to the city centre. ©Kaarel Kõvatu via visittartu.com*
 
 Everything in Tartu is within a 10-20 minute walking distance and therefore you do not need a car nor public transport to get around to most places. In addition, Tartu has a very efficient bike-share system which also gets to the suburbs of Tartu.
 
 At every corner in Tartu, there are concert venues, exhibition halls, theaters, churches, museums and charming little cafés as well as various pubs and restaurants. An inseparable part of the city is its students who comprise around a quarter of the population and generate a lot of fun and energy.
 
-In 2024, Tartu will be one of the European Capitals of Culture, so we expect a lot to be happening in the city in the weeks leading up to, during, and after FOSS4G Europe 2024.
+In 2024, Tartu will be one of the European Capitals of Culture, so we expect a
+lot to be happening in the city in the weeks leading up to, during, and after
+FOSS4G Europe 2024. Some of the hand-picked activities by the LOC are
+available [**HERE**](../tartu2024/)
