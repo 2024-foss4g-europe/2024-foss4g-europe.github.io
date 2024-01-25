@@ -28,14 +28,14 @@ year.
     src="../images/tartu2024.jpg"
     alttext="Tartu"
     width="100%"
+    caption="[**Tartu 2024 Team and Town Hall © Kiur Kaasik**](https://www.flickr.com/photos/visittartu/51706526710/in/album-72157720176411983/) via [**visittartu.com**](https://visittartu.com/)"
 >}}
-*Tartu 2024 Team and Town Hall © Kiur Kaasik*
 
 What Tartu 2024 activities take place during the week of our FOSS4GE
-conference? Let's have a look at a few suggestions by the LOC members.
+conference? Let's have a look at a few suggestions by the FOSS4GE 2024 LOC members.
 If you happen to have some free time during the conference or looking for
 reasons to prolong your stay there will be loads of options for entertainment,
-cultural and culinary experiences and much more! The list
+cultural and culinary experiences, and much more! The list
 is not exhaustive by all means and more can found at the
 **{{<
   extlink href="https://tartu2024.ee/en"
