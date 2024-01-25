@@ -32,8 +32,12 @@ year.
 *Tartu 2024 Team and Town Hall © Kiur Kaasik*
 
 What Tartu 2024 activities take place during the week of our FOSS4GE
-conference? Let's have a look at a few suggestions by the LOC members. The list
+conference? Let's have a look at a few suggestions by the LOC members.
+If you happen to have some free time during the conference or looking for
+reasons to prolong your stay there will be loads of options for entertainment,
+cultural and culinary experiences and much more! The list
 is not exhaustive by all means and more can found at the
+
 **{{<
   extlink href="https://tartu2024.ee/en"
   title="Tartu2024"
@@ -43,10 +47,6 @@ is not exhaustive by all means and more can found at the
 
 
 # Stencibility
-
-If you happen to have some free time during the conference or looking for
-reasons to prolong your stay there will be loads of options for entertainment,
-cultural and culinary experiences and much more! Some examples:
 
 **{{<
   extlink href="https://tartu2024.ee/en/programme/stencibility-tanavakunsti-festival-2024-1-2/"
