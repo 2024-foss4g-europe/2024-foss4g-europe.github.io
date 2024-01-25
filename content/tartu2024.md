@@ -29,7 +29,7 @@ year.
     alttext="Tartu"
     width="100%"
 >}}
-*Town Hall Square of Tartu*
+*Tartu 2024 Team and Town Hall © Kiur Kaasik*
 
 What Tartu 2024 activities take place during the week of our FOSS4GE
 conference? Let's have a look at a few suggestions by the LOC members. The list
