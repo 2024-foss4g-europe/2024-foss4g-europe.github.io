@@ -230,6 +230,11 @@ hasChildren = true
   name = "About Tartu"
   url = "about-tartu/"
 
+  [[menu.main]]
+  parent = "Registration"
+  name = "Travel Grant"
+  url = "travel-grant/"
+
 #  [[menu.main]]
 #  parent = "Pages"
 #  name = "Pricing"
