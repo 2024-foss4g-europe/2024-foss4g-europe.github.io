@@ -3,7 +3,7 @@ title : "SunGIS"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2024-01-14T20:22:24+02:00
 designation: "Silver"
-image: "images/sponsors/sungis.svg"
+image: "images/sponsors/SunGIS_logo.png"
 draft : false
 type: "sponsor"
 layout: "single"
