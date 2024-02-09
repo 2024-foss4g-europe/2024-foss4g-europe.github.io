@@ -22,15 +22,7 @@ layout: "single"
 | Full program: | **31 March 2024** |
 | Workshops: | **1 July - 2 July 2024** |
 
-
-<center>
-    <a href="https://talks.osgeo.org/foss4g-europe-2024-workshops/p/voting/signup/"
-        class="btn btn-primary btn-lg"
-        target="blank" rel="noopener noreferrer"
-        style="padding:32px;margin-top:30px;margin-bottom:30px">
-        <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
-    <span>Community vote</span></a>
-</center>
+Community vote is closed. The accepted workshops will published soon.
 
 # Description
 Workshops are the practical hands-on sessions to acquire new know-how in the
@@ -67,12 +59,3 @@ The result of the community vote will be taken as a recommendation, but the
 last decision lies with the volunteer [**Program Committee**](../program-committee/). The community vote is
 essential for us for assigning rooms and capacity planning for participants to
 get the best FOSS4G experience.
-
-<center>
-    <a href="https://talks.osgeo.org/foss4g-europe-2024-workshops/p/voting/signup/"
-        class="btn btn-primary btn-lg"
-        target="blank" rel="noopener noreferrer"
-        style="padding:32px;margin-top:30px;margin-bottom:30px">
-        <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
-    <span>Community vote</span></a>
-</center>
