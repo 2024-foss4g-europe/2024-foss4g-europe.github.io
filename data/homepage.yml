@@ -304,6 +304,9 @@ sponsors:
     - name : "SunGIS SIA"
       logo : "images/sponsors/sungis.svg"
       link : "./sponsors/silver/sungis/"
+    - name : "NextGIS"
+      logo : "images/sponsors/nextgis.svg"
+      link : "./sponsors/silver/nextgis/"
 
 
   - name : "Media partners"
