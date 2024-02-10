@@ -32,8 +32,3 @@ designed for:
 Under a unified subscription, you gain access to cloud-based Web GIS,
 online geoprocessing tools, a mobile application for collaborative geodata work,
 and additional tools for creating custom mapping web applications.
-
-By subscribing to our platform, you gain access to a powerful suite of tools
-including cloud-based Web GIS, online geoprocessing tools, a mobile application
-for collaborative geodata work, and additional tools for creating custom
-mapping web applications.
