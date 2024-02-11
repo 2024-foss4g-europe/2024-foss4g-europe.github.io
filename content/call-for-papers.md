@@ -16,7 +16,7 @@ layout: "single"
 [Proceed to call](../cfp-general-program/)
 
 ### Call for academic program submissions
-27 November 2023 - 11 February 2024
+27 November 2023 - ~~11 February~~ 25 February 2024
 
 [Proceed to call](../cfp-academic-program/)
 
