@@ -72,13 +72,9 @@ The submission procedure is divided in two steps. Note that both steps are
 mandatory in order for authors to be able to present their work at the
 FOSS4GE conference.
 
-<<<<<<< HEAD
+
 ## Step 1
 **Deadline** ~~11 February~~ **25 February**
-=======
-## Step 1
-**Deadline 25 February**
->>>>>>> dc9ca6b (changes re: Marco M. remarks to academic CfP)
 
 As a first step, authors are invited to submit abstracts written in English,
 comprising between 800 and 1000 words and containing sufficient details for
