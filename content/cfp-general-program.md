@@ -23,12 +23,12 @@ layout: "single"
 | Conference: | **3 July - 5 July 2024** |
 
 <center>
-    <a href="https://talks.osgeo.org/foss4g-europe-2024/cfp"
+    <a href="https://talks.osgeo.org/foss4g-europe-2024/p/voting/signup/"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
-    <span>Submit a talk</span></a>
+    <span>Community vote</span></a>
 </center>
 
 # Description
@@ -200,10 +200,10 @@ ones will automatically be included in the program, while others will be
 reviewed by the volunteer [**Program Committee**](../program-committee/).
 
 <center>
-    <a href="https://talks.osgeo.org/foss4g-europe-2024/cfp"
+    <a href="https://talks.osgeo.org/foss4g-europe-2024/p/voting/signup/"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
-    <span>Submit a talk</span></a>
+    <span>Community vote</span></a>
 </center>

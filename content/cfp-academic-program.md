@@ -15,7 +15,7 @@ layout: "single"
 |   |   |
 |:--|-------:|
 | Submission of abstracts: | **4 December 2023 -** ~~11 February~~ **25 February 2024** |
-| Announcement of accepted talks: | **17 March 2024** |
+| Announcement of accepted talks: | ~~3 March~~ **17 March 2024** |
 | Full program: | **31 March 2024** |
 | Submission of full academic papers: | **3 May 2024** |
 | Conference: | **3 July - 5 July 2024** |
@@ -72,7 +72,8 @@ The submission procedure is divided in two steps. Note that both steps are
 mandatory in order for authors to be able to present their work at the
 FOSS4GE conference.
 
-## Step 1 
+
+## Step 1
 **Deadline** ~~11 February~~ **25 February**
 
 As a first step, authors are invited to submit abstracts written in English,
@@ -96,7 +97,7 @@ evaluation criteria (see above). Authors will receive feedback and
 (for accepted abstracts) suggestions for improvement to be used for preparing
 their papers, to be submitted in Step 2.
 
-## Step 2 
+## Step 2
 **Deadline 3 May**  
 
 If the abstract is accepted, the authors are invited to submit an extended

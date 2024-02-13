@@ -10,15 +10,17 @@ draft: false
 layout: "single"
 ---
 
-### Call for general program submissions
-27 November 2023 - 11 February 2024  
-
-[Proceed to call](../cfp-general-program/)
-
 ### Call for academic program submissions
 27 November 2023 - ~~11 February~~ 25 February 2024
 
-[Proceed to call](../cfp-academic-program/)
+[**Proceed to call**](../cfp-academic-program/)
+
+### Call for general program submissions
+The call was open between 27 November 2023 - 11 February 2024, and is now closed.
+
+Currently it's community voting period 12 February 2024 - 25 February 2024.
+
+[**Proceed to community vote**](https://talks.osgeo.org/foss4g-europe-2024/p/voting/signup/)
 
 ### Call for workshops submissions
 The call was open between 27 November 2023 - 14 January 2024, and is now closed.
