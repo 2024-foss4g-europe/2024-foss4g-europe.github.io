@@ -49,7 +49,7 @@ Price per night ranging from 30€ to 35€. Note that it's a dormitory where 3 
 
 ---
 
-### **{{< extlink href="" title="6. Hostel of University of Life Sciences" >}}**
+### **{{< extlink href="https://dorm.emu.ee/en/hostel/" title="6. Hostel of University of Life Sciences" >}}**
 Book a room by using the code **FOSS4G** by writing to piret.kytt@emu.ee.
 Price per night ranging from 20€ to 40€. Please note that it's a dormitory of rooms that share a kitchen, toilet and a shower. No breakfast is included.  
 *{{< extlink href="https://www.google.ee/maps/dir/EM%C3%9C+%C3%BChiselamu+Torn,+Friedrich+Reinhold+Kreutzwaldi,+Tartu/Vanemuise+46,+Vanemuise,+Tartu/@58.3807381,26.695755,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x46eb36f92728f203:0xf7fcf63c232db5fa!2m2!1d26.6955238!2d58.387622!1m5!1m1!1s0x46eb371fbd6f367b:0x78a41ede2f6ccf04!2m2!1d26.7167174!2d58.3739346!3e2?entry=ttu" title="Location & directions to venue (31 min walk)." >}}*
