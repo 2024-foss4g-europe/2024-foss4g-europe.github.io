@@ -146,6 +146,12 @@ weight = 5
 
 
 [[menu.main]]
+parent = "Schedule"
+name = "Additional events"
+url = "additional-events/"
+
+
+[[menu.main]]
 name = "Sponsors"
 url = "sponsors/"
 weight = 6
@@ -233,10 +239,11 @@ hasChildren = true
   name = "Attendee guidelines"
   url = "attendee-guidelines/"
 
-    [[menu.main]]
+  [[menu.main]]
   parent = "Venue"
   name = "Tartu 2024 - European Capital of Culture"
   url = "tartu2024/"
+
 
   [[menu.main]]
   parent = "Venue"
