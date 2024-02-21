@@ -7,7 +7,6 @@ draft : false
 layout : "single"
 ---
 
-
 <style type="text/css">
   .container{ max-width: 72% !important;}
     .tg  {border-collapse:collapse;border-spacing:0; width:100%;font-family: "Montserrat", sans-serif;font-variant-ligatures: none;}
@@ -35,8 +34,7 @@ layout : "single"
     </thead>
     <tbody>
       <tr style="height:200px;">
-        <td class="tg-body"><h6  style="color: rgb(177, 81, 81);">Workshops</h6></td>
-        <td class="tg-body"><h6  style="color: rgb(177, 81, 81);">Workshops</h6></td>
+        <td class="tg-body" colspan="2"><a href="./workshops"><h6 style="color: rgb(177, 81, 81);"><b>Workshops</b></h6></a></td>
         <td class="tg-body" colspan="3"><h6 style="color: darkblue;">Main Conference</h6></td>
         <td class="tg-body" rowspan="2"><h6 style="color: darkgreen;">Community Sprint / Excursion to Setomaa</h6></td>
         <td class="tg-body" rowspan="2"><h6 style="color: darkgreen;">Community Sprint</h6></td>

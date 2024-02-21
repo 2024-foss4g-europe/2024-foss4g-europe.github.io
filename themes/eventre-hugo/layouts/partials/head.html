@@ -38,7 +38,7 @@ AUTHOR WEBSITE: https://themefisher.com
   <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
   {{ end }}
   {{ end }}
-  
+
   {{ $me := index (where site.Params.social "title" "mastodon") 0 }}
   <link rel="me" href="{{ index $me "link" }}">
   {{ with .Params.Image }}
@@ -48,5 +48,7 @@ AUTHOR WEBSITE: https://themefisher.com
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/google_analytics.html" . }}
   {{ template "_internal/google_analytics_async.html" . }}
-
+  {{ if .Params.pretalx }}
+  <script type="text/javascript" src="https://talks.osgeo.org/{{ .Params.pretalx }}/schedule/widget/v2.en.js"></script>
+  {{ end }}
 </head>
