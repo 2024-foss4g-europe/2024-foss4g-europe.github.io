@@ -132,6 +132,19 @@ name = "Schedule"
 url = "schedule/"
 weight = 5
 
+  [[menu.main]]
+    weight = 1
+    parent = "Schedule"
+    name = "Overview"
+    url = "schedule/"
+
+  [[menu.main]]
+    weight = 1
+    parent = "Schedule"
+    name = "Workshop schedule"
+    url = "schedule/workshops/"
+
+
 [[menu.main]]
 name = "Sponsors"
 url = "sponsors/"
