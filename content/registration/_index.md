@@ -76,14 +76,24 @@ and work on mapping projects which benefit women. Our main focus as a group is
 to help close the gender gap in the OSM community across participation, data
 creation and curation.
 
-Everyone is welcome to join the Geochicas Take Tartu event on 2 July after the
-B2B meeting in a closeby venue called Salong. It's an event where to meet other
-women and allies attending FOSS4GE 2024 who are interested in closing the gender
-gap and working towards diversity in our communities. First hour is only for
-women but afterwards everyone is awaited!
+Everyone is welcome to join the GeoChicas Take Tartu event on 2 July after the
+B2B meeting in a closeby venue called
+**{{<
+    extlink href="https://www.facebook.com/kultuuriklubiSalong/"
+    title="Salong"
+    target="blank"
+    rel="noopener noreferrer"
+>}}**, a culture club known as the place of mainstream, side-stream, direct and
+alternating current parties, concerts, movie evenings, quizes, exhibitions, and
+lectures for all, regardless of age or other peculiarities.
 
-We’ll try to break the ice and get off to a great start at FOSS4GE while having
-fun and doing karaoke! First drink is on us!
+GeoChicas Take Tartu is an event where to meet other women and allies attending
+FOSS4GE 2024 who are interested in closing the gender gap and working towards
+diversity in our communities. First hour is only for women and people
+identifying as women but afterwards everyone is welcome!
+
+We’ll try to break the ice and get off to a great start at FOSS4G Europe 2024
+while having fun and doing karaoke! First drink is on us!
 
 ### Ice-Breaker
 **Wednesday, 3 July, 2024**
