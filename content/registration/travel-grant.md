@@ -59,10 +59,12 @@ Please consider applying for a smaller grant (up to 300€). It would score you
 more ranking points and also leave the committee more funds for additional
 grants.
 
-### Criteria for selection
+### Scoring principles
 
 - **2 points** if you apply for a smaller grant (up to 300€)
 - **2 points** if you have accepted talk(s) or workshop(s)
+- **2 points** for previous proven involvement in OSGeo projects or community
+building activities
 - **1 point** if you proposed talk(s) and/or workshop(s) but they were not accepted
 - **1 point** of being enrolled as a student (including PhD student)
 - **1 point** for permanent residence in any European country NOT defined as a
@@ -76,8 +78,6 @@ high-income economy.
 data puts the following 15 countries into this group: Albania, Armenia,
 Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Georgia, Kazakhstan,
 Kosovo, Moldova, Montenegro, North Macedonia, Russia, Serbia, Türkiye.
-- Additional points (up to **2 points**) could be earned for previous involvement
-in FOSS4G software, data or community.
 
 ### Payment
 We expect grantees to  be able to fund the direct costs of travelling to the
@@ -85,17 +85,18 @@ FOSS4G Europe conference. Successful applicants will receive conference passes
 and will become eligible for reimbursement of expenses up to the limit of the
 travel grant. Paying out the monetary part of TGP will be carried out
 during/after the conference by direct transfer to the recipient’s bank account
-only based on the actual expenses, meaning that you need to submit your
-flight/bus/train tickets/invoices and accommodation invoices. Details will be
-managed at check-in time at the conference registration desk.
+only based on the actual expenses up to the total grant limit, meaning that you
+need to submit your train/bus/flight tickets/invoices and accommodation invoices
+that you want to have covered. Details will be managed at check-in time at the
+conference registration desk.
 
 For exceptional cases when the monetary grant will be needed in advance or
 specific costs need to be covered directly, please contact the organisers of
 the conference.
 
-Receivers of travel grants need to arrange necessary visas and other documents
-needed to enter Estonia to attend the conference themselves. You can get more
-info on visas from the
+**Please note!** Receivers of travel grants need to arrange necessary visas and
+other documents needed to enter Estonia to attend the conference themselves.
+You can get more information on visas from the
 **{{<
     extlink href="https://www.vm.ee/en/consular-visa-and-travel-information/visa-information/who-does-not-need-visa-visit-estonia"
     title="Estonian Ministry of Foreign Affairs"
