@@ -129,13 +129,12 @@ An easy way to support is to purchase **_sponsor ticket(s)_** during your own
 [**registration**](../../registration/) to the event. The
 proceeds from the sales of **_sponsor tickets_** will be used to cover costs
 for workshop presenters and TGP applicants gratis entrance. With at least one
-sponsor ticket you will be included as an honourable mention in our conference
-channels. If you buy more you also apply to our different sponsorship levels
-which you can find in the FOSS4GE 2024
+**_sponsor ticket_** you will be included as an honourable mention in our
+conference channels. If you buy more you also apply to our different
+sponsorship levels which you can find in the FOSS4GE 2024
 [**Call for Sponsors**](../../call-for-sponsors/).
 
 ### About the TGP
-
 The FOSS4G Travel Grant Program initiative was established in 2017 by the OSGeo
 Board to facilitate accessibility and diversity at the global and regional
 FOSS4G events.
