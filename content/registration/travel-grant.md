@@ -32,21 +32,12 @@ available to residents of
     target="blank"
     rel="noopener noreferrer"
 >}}**. This is a regional conference and
-a chance to attract more Europeans to the FOSS4G community.
+a chance to attract more Europeans to the free and open source community.
 - Although Estonia is located in Europe, permanent residents of Estonia are not
-eligible to receive travel grants. But do not feel discarded, Estonians are
-encouraged to apply
-**{{<
-    extlink href="https://forms.gle/thvifTJzsoqrd3mt5"
-    title="here"
-    target="blank"
-    rel="noopener noreferrer"
->}}**
-to register as a volunteer and receive a free
-conference pass for their contribution.
+eligible to receive travel grants.
 - Everyone receiving a travel grant is expected to do volunteer work for at
 least 12 hours during the conference. This is a way to strengthen the OSGeo
-community and will create a better conference for everyone.
+community and will help to create a better conference experience for everyone.
 
 The purpose of the travel grant programme is to enhance diversity at the
 conference. We might reserve a few programme spots for people with unique and
