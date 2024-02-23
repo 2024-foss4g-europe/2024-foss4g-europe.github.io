@@ -130,7 +130,7 @@ weight = 4
   [[menu.main]]
   weight = 1
   parent = "Registration"
-  name = "Overview"
+  name = "Registration overview"
   url = "registration/"
 
   [[menu.main]]
@@ -147,7 +147,7 @@ weight = 5
   [[menu.main]]
     weight = 1
     parent = "Schedule"
-    name = "Overview"
+    name = "Schedule overview"
     url = "schedule/"
 
   [[menu.main]]
