@@ -7,7 +7,7 @@
         {{.Content}}
 			</div>
 		</div>
-		{{ range $lvl := slice "" "Gold" "" "" "" }}
+		{{ range $lvl := slice "" "Gold" "Silver" "" "" }}
 		  {{ if ne $lvl "" }}
 			<div class="row">
 				<div class="col-12 section-title">
@@ -15,9 +15,8 @@
 				</div>
 			</div>
 			{{ end }}
-		  {{ range $page := (where site.RegularPages "Type" "sponsor") }}
-  		{{ if eq $page.Params.designation $lvl }}
 			<div class="row">
+		  {{ range $page := sort (where (where site.RegularPages "Type" "sponsor") "Params.designation" $lvl) "Params.date" }}
 	  		<div class="col-lg-3 col-md-4 col-sm-6">
 		  		<div class="speaker-item">
 			  		<div class="image">
@@ -36,9 +35,10 @@
 					  </div>
 				  </div>
         </div>
+
+
+			{{ end }}
 		  </div>
-			{{ end }}
-			{{ end }}
     {{ end }}
   </div>
 </section>

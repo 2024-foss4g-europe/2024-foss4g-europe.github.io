@@ -144,6 +144,25 @@ name = "Schedule"
 url = "schedule/"
 weight = 5
 
+  [[menu.main]]
+    weight = 1
+    parent = "Schedule"
+    name = "Overview"
+    url = "schedule/"
+
+  [[menu.main]]
+    weight = 2
+    parent = "Schedule"
+    name = "Workshop schedule"
+    url = "schedule/workshops/"
+
+  [[menu.main]]
+    weight = 3
+    parent = "Schedule"
+    name = "Excursion"
+    url = "schedule/excursion/"
+
+
 [[menu.main]]
 name = "Sponsors"
 url = "sponsors/"
@@ -232,10 +251,11 @@ hasChildren = true
   name = "Attendee guidelines"
   url = "attendee-guidelines/"
 
-    [[menu.main]]
+  [[menu.main]]
   parent = "Venue"
   name = "Tartu 2024 - European Capital of Culture"
   url = "tartu2024/"
+
 
   [[menu.main]]
   parent = "Venue"
@@ -340,3 +360,8 @@ link = "https://github.com/2024-foss4g-europe/2024-foss4g-europe.github.io"
 title = "linkedin"
 icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
 link = "https://www.linkedin.com/company/foss4g-europe"
+
+[[params.social]]
+title = "facebook"
+icon = "fa-facebook"
+link = "https://www.facebook.com/events/783688126985977"
