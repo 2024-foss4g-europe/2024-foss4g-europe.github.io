@@ -43,7 +43,7 @@ layout : "single"
         <td class="tg-body"><h6> Free city tour</h6></td>
         <td class="tg-body"><h6>B2B / Free city tour <hr> Geochicas Take Tartu</h6></td>
         <td class="tg-body"><h6>Ice-Breaker</h6></td>
-        <td class="tg-body"><h6>Gala Evening</h6></td>
+        <td class="tg-body"><h6>Social Bytes</h6></td>
         <td></td>
       </tr>
     </tbody>
