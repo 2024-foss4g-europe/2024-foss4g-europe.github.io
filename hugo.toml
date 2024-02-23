@@ -148,7 +148,7 @@ weight = 5
     weight = 3
     parent = "Schedule"
     name = "Excursion"
-    url = "excursion/"
+    url = "schedule/excursion/"
 
 
 [[menu.main]]
