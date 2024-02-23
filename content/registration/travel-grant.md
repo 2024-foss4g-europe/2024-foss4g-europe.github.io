@@ -105,7 +105,7 @@ info on visas from the
 
 ### Supporting the TGP
 The funding of travel grants comes from:
-- [**Conference sponsors**](https://2024.europe.foss4g.org/sponsors/)
+- [**Conference sponsors**](../../sponsors/)
 - **{{<
     extlink href="https://www.osgeo.org/sponsors/"
     title="Sponsors of OSGeo"
@@ -116,7 +116,7 @@ The funding of travel grants comes from:
 
 You can help make the FOSS4G conferences more accessible and increase the
 diversity of attendees by
-[**becoming a sponsor of the conference**](https://2024.europe.foss4g.org/call-for-sponsors/)
+[**becoming a sponsor of the conference**](../../call-for-sponsors/)
 or by
 **{{<
     extlink href="https://www.osgeo.org/about/how-to-become-a-sponsor/"
