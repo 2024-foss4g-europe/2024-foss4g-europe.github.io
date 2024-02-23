@@ -20,7 +20,7 @@ layout : "single"
     >}}
 
 **Registration fee includes**
- 
+
 
 - Workshops (1 & 2 June)  
 Workshops are held in a 4-hour format. Experienced community members guide participants in a hands-on manner through the secrets of the presented project. Everyone is invited to use their own computer. Lunch is provided during the workshop days to registered participants. **Important note! The cost is related to a single workshop.**
@@ -40,7 +40,7 @@ In the unlikely case that the FOSS4GE 2024 cannot be held in whole or in part du
 
 
 #### Other events
- 
+
 
 **Business to Business**  
 
@@ -66,7 +66,7 @@ Food and drinks will be offered to all registered participants in Aparaaditehas 
     >}}
 
 - Gala Evening - Thursday, 4 July 2024 - 19:00
-For the main party on Thursday evening we will head to Lodjakoda (“Barge hall”) for a glimpse of Estonian culture. Lodjakoda is a traditional wooden ship building yard where a new two mast river barge is currently built. 
+For the main party on Thursday evening we will head to Lodjakoda (“Barge hall”) for a glimpse of Estonian culture. Lodjakoda is a traditional wooden ship building yard where a new two mast river barge is currently built.
 
 {{< figure
     src="../images/lodjakoda.jpg"
