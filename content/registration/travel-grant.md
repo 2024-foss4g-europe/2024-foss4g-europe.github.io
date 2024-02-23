@@ -20,11 +20,11 @@ cooperation with OSGeo also for FOSS4G Europe 2024.
 ### Travel Grants
 Every grant includes a free conference pass, one free workshop, and a grant
 fund of up to 400€ that can be used for travelling and/or accommodation expenses.
-The number and size of grants may be adjusted by the Conference Committee based
-on the amount of funds raised for TGP.
+The number and size of grants may be adjusted by the FOSS4GE 2024
+Travel Grant Committee based on the amount of funds raised for TGP.
 
 Applying to travel grants is open to everyone with only a few rules:
-- Being a regional conference, travel grants for FOSS4G Europe are only
+- Being a regional conference, travel grants for FOSS4G Europe 2024 are only
 available to residents of
 **{{<
     extlink href="https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_Europe"
@@ -134,5 +134,5 @@ The FOSS4G Travel Grant Program initiative was established in 2017 by the OSGeo
 Board to facilitate accessibility and diversity at the global and regional
 FOSS4G events.
 
-The travel grant program is managed by the Conference Committee, in
+The travel grant program is managed by the OSGeo Conference Committee, in
 collaboration with representatives from each FOSS4G event.
