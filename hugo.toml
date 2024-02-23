@@ -127,6 +127,18 @@ name = "Registration"
 url = "registration/"
 weight = 4
 
+  [[menu.main]]
+  weight = 1
+  parent = "Registration"
+  name = "Overview"
+  url = "registration/"
+
+  [[menu.main]]
+  weight = 2
+  parent = "Registration"
+  name = "Travel Grant"
+  url = "registration/travel-grant/"
+
 [[menu.main]]
 name = "Schedule"
 url = "schedule/"
@@ -229,11 +241,6 @@ hasChildren = true
   parent = "Venue"
   name = "About Tartu"
   url = "about-tartu/"
-
-  [[menu.main]]
-  parent = "Registration"
-  name = "Travel Grant"
-  url = "travel-grant/"
 
 #  [[menu.main]]
 #  parent = "Pages"
