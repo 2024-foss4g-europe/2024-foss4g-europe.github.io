@@ -70,6 +70,13 @@ data puts the following 15 countries into this group: Albania, Armenia,
 Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Georgia, Kazakhstan,
 Kosovo, Moldova, Montenegro, North Macedonia, Russia, Serbia, Türkiye.
 
+### Important dates
+- **_February 2024_** - FOSS4G Europe 2024 TGP opens, start sending your applications
+- **_31 March_** - Deadline for applying
+- **_17 April_** - Grant applications are evaluated by the committee, receivers
+of grants are contacted by email
+- **_1 July 2024_** - Start of the conference
+
 ### Payment
 We expect grantees to  be able to fund the direct costs of travelling to the
 FOSS4G Europe conference. Successful applicants will receive conference passes
