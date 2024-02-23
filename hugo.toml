@@ -139,16 +139,16 @@ weight = 5
     url = "schedule/"
 
   [[menu.main]]
-    weight = 1
+    weight = 2
     parent = "Schedule"
     name = "Workshop schedule"
     url = "schedule/workshops/"
 
-
-[[menu.main]]
-parent = "Schedule"
-name = "Excursion"
-url = "excursion/"
+  [[menu.main]]
+    weight = 3
+    parent = "Schedule"
+    name = "Excursion"
+    url = "excursion/"
 
 
 [[menu.main]]
