@@ -56,7 +56,6 @@ consequential damage.
 
 
 ## Other events
-
 ### Business to Business (B2B)
 **Tuesday, 2 July 2024**
 
@@ -67,9 +66,24 @@ right before the main conference starts so that you have lots more opportunities
 to strengthen your network!
 
 
-### Geochicas Take Tartu
+### GeoChicas Take Tartu
 **Tuesday, 2 July 2024**
 
+GeoChicas are an international women’s mapping community with members in more
+than 12 different countries. Our aim is for women to have a greater presence and
+participation in key OSM events, increase female participation and leadership,
+and work on mapping projects which benefit women. Our main focus as a group is
+to help close the gender gap in the OSM community across participation, data
+creation and curation.
+
+Everyone is welcome to join the Geochicas Take Tartu event on 2 July after the
+B2B meeting in a closeby venue called Salong. It's an event where to meet other
+women and allies attending FOSS4GE 2024 who are interested in closing the gender
+gap and working towards diversity in our communities. First hour is only for
+women but afterwards everyone is awaited!
+
+We’ll try to break the ice and get off to a great start at FOSS4GE while having
+fun and doing karaoke! First drink is on us!
 
 ### Ice-Breaker
 **Wednesday, 3 July, 2024**
