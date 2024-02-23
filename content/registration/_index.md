@@ -23,15 +23,15 @@ layout : "single"
 Registration fee includes:
 
 - Workshops (1 & 2 June)  
-Workshops are held in a 4-hour format. Experienced community members guide
+Workshops are held in 4-hour / 2-hour formats. Experienced community members guide
 participants in a hands-on manner through the secrets of the presented project.
 Everyone is invited to use their own computer. Lunch is provided during the
 workshop days to registered participants.
-**Important note! The cost is related to a single workshop.**
+**Important note! One ticket grants access to a single specific workshop.**
 
 - FOSS4G Europe Conference (3 - 5 July)  
 Access to 3 conference days (plenary session, conference tracks, lunch,
-coffee breaks), Ice-Breaker on 3 July, Gala Evening on 4 July.  
+coffee breaks), Ice-Breaker on 3 July, and Social Bytes on 4 July.  
 
 - FOSS4G 2023 Community Sprint (6 & 7 July)  
 The Community Sprint is a complimentary event to which everyone is invited to
@@ -58,7 +58,7 @@ consequential damage.
 ## Other events
 
 ### Business to Business (B2B)
-Tuesday, 2 July 2024.
+**Tuesday, 2 July 2024**
 
 B2B offers a possibility to network and connect with businesses and participants
 on the spot. In addition, the sponsors get a chance to present themselves.
@@ -66,13 +66,19 @@ Appetizers, snacks and beverages will be provided at the event. All this happens
 right before the main conference starts so that you have lots more opportunities
 to strengthen your network!
 
-### Ice-Breaker
-Wednesday, 3 July, 2024.
 
-Food and drinks will be offered to all registered participants in Aparaaditehas
-(“Widget Factory”). Housed in a former factory building it has been converted
-into a space for cafes, restaurants, events, exhibitions, workshops, and
-performances.
+### Geochicas Take Tartu
+**Tuesday, 2 July 2024**
+
+
+### Ice-Breaker
+**Wednesday, 3 July, 2024**
+
+Food and drinks will be offered to all registered participants in _Aparaaditehas_
+(“Widget Factory”). Situated in a former factory complex which used to house
+manufacturies for producing parts for Soviet submarines, zippers, and
+non-functional umbrellas, it has now been converted into a space for
+cafes, restaurants, events, exhibitions, workshops, and performances.
 
 {{< figure
     src="../images/aparaaditehas.jpg"
@@ -81,15 +87,23 @@ performances.
     width="100%"
     target="blank"
     rel="noopener noreferrer"
-    caption="some text"
+    caption="Aparaaditehas (“Widget Factory”) courtyard via [**aparaaditehas.ee/en**](https://www.aparaaditehas.ee/en)"
     >}}
 
-### Gala Evening
-Thursday, 4 July 2024.
+### Social Bytes
+**Thursday, 4 July 2024**
 
-For the main party on Thursday evening we will head to Lodjakoda (“Barge hall”)
-for a glimpse of Estonian culture. Lodjakoda is a traditional wooden ship
-building yard where a new two mast river barge is currently built.
+For the main party on Thursday evening we will head to _Lodjakoda_ (“Barge hall”)
+for a glimpse of Estonian culture, some food, and beverages. Lodjakoda is a
+traditional wooden ship building yard where
+**{{<
+    extlink href="https://www.youtube.com/@hansalodi"
+    title="a new two mast river barge is currently built"
+    target="blank"
+    rel="noopener noreferrer"
+>}}**. By all calculations it will be launched in the end of
+April 2024. So if everything goes by plan we should be able to fit in the hall
+comfortably.
 
 {{< figure
     src="../images/lodjakoda.jpg"
@@ -98,4 +112,5 @@ building yard where a new two mast river barge is currently built.
     width="100%"
     target="blank"
     rel="noopener noreferrer"
+    caption="[**Barge Chamber and River Emajõgi © Ragnar Vutt**](https://www.flickr.com/photos/visittartu/51764618966/) via [**visittartu.com**](https://visittartu.com/)"
 >}}
