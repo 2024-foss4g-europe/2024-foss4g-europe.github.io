@@ -22,7 +22,11 @@ layout: "single"
 | Full program: | **31 March 2024** |
 | Workshops: | **1 July - 2 July 2024** |
 
-Community vote is closed. The accepted workshops will published soon.
+<hr>
+
+We're go! The [**workshops schedule is available**](../schedule/workshops/)
+
+<hr>
 
 # Description
 Workshops are the practical hands-on sessions to acquire new know-how in the

@@ -22,14 +22,22 @@ layout: "single"
 | Full program: | **31 March 2024** |
 | Conference: | **3 July - 5 July 2024** |
 
-<center>
+<!--center>
     <a href="https://talks.osgeo.org/foss4g-europe-2024/p/voting/signup/"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
     <span>Community vote</span></a>
-</center>
+</center-->
+<hr>
+
+The community vote for the general program was open 12 February - 25 February
+2024, and is now closed.
+
+The accepted talks will be published soon.
+
+<hr>
 
 # Description
 Free and Open Source Software for Geospatial (FOSS4G) Europe is the regional
@@ -198,12 +206,3 @@ FOSS4G Europe is a **community event** and therefore the main selection of talks
 will be done through an open community voting process. The highest-scoring
 ones will automatically be included in the program, while others will be
 reviewed by the volunteer [**Program Committee**](../program-committee/).
-
-<center>
-    <a href="https://talks.osgeo.org/foss4g-europe-2024/p/voting/signup/"
-        class="btn btn-primary btn-lg"
-        target="blank" rel="noopener noreferrer"
-        style="padding:32px;margin-top:30px;margin-bottom:30px">
-        <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
-    <span>Community vote</span></a>
-</center>

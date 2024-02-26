@@ -20,14 +20,21 @@ layout: "single"
 | Submission of full academic papers: | **3 May 2024** |
 | Conference: | **3 July - 5 July 2024** |
 
-<center>
+<!--center>
     <a href="https://talks.osgeo.org/foss4g-europe-2024-academic-track/cfp"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
     <span>Submit an academic proposal</span></a>
-</center>
+</center-->
+
+<hr>
+
+Academic program abstracts review is under way. Stay tuned for accepted papers
+announcement.
+
+<hr>
 
 # Description
 Following the established tradition, an Academic Track running over the days of
