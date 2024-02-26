@@ -9,7 +9,7 @@ layout : "single"
 
 ## Registration
 
-**Registration will open in February 2024**
+**Registration will open very soon! Stay tuned**
 
 {{< figure
     src="../images/pricing.png"
