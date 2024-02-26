@@ -307,7 +307,9 @@ sponsors:
     - name : "NextGIS"
       logo : "images/sponsors/nextgis.svg"
       link : "./sponsors/silver/nextgis/"
-
+    - name : "Gis3W"
+      logo : "images/sponsors/gis3w-logo.png"
+      link : "./sponsors/silver/gis3w/"
 
   - name : "Bronze Sponsors"
     sponsor_item:
