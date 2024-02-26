@@ -309,6 +309,13 @@ sponsors:
       link : "./sponsors/silver/nextgis/"
 
 
+  - name : "Bronze Sponsors"
+    sponsor_item:
+    - name : "Septima"
+      logo : "images/sponsors/septima-logo.png"
+      link : "./sponsors/bronze/septima/"
+
+
   - name : "Media partners"
     sponsor_item:
     - name : "ISPRS International Journal of Geo-Information"
