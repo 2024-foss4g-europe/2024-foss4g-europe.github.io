@@ -44,5 +44,5 @@ who would like to support the conference but for whom the existing
 With _Adopt-a-ticket_ you can purchase any number of extra tickets. In return
 we would like to show our gratitude by having you included in the
 [**Honorable mentions**](#) section of the conference homepage. If you buy
-more one ticket then you would also be eligible to any of the predefined
-[**sponsor packages**](../../call-for-sponsors/)
+more than one extra ticket with _adopt-a-ticket_ then you would also be eligible
+to any of the predefined [**sponsor packages**](../../call-for-sponsors/).
