@@ -1,9 +1,9 @@
 ---
-title : ""
+title : "Alexander Kotsev"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-11-01T15:40:24+02:00
-designation: ""
-image: "images/team/generic.jpg"
+designation: "Scientific committee"
+image: "images/team/Alexander_Kotsev.jpg"
 draft : false
 type: "speaker"
 layout: "single"
@@ -34,4 +34,7 @@ social:
 #  link: "#"
 ---
 
-<add bio text or delete this placeholder>
+Affiliation: European Commission, JRC
+
+Field of expertise: sensor networks, interoperability, standards, SDIs, data
+spaces

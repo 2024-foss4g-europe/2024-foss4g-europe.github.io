@@ -1,9 +1,9 @@
 ---
-title : ""
+title : "Ewa Grabska-Szwagrzyk"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-11-01T15:40:24+02:00
-designation: ""
-image: "images/team/generic.jpg"
+designation: "Scientific committee"
+image: "images/team/Ewa_Grabska_Szwagrzyk.jpg"
 draft : false
 type: "speaker"
 layout: "single"
@@ -33,5 +33,6 @@ social:
 #  icon: "fa-brands fa-skype"
 #  link: "#"
 ---
+Affiliation: Jagellonian University, Poland
 
-<add bio text or delete this placeholder>
+Field of expertise: remote sensing, vegetation mapping

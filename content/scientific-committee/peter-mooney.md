@@ -1,9 +1,9 @@
 ---
-title : ""
+title : "Peter Mooney"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-11-01T15:40:24+02:00
-designation: ""
-image: "images/team/generic.jpg"
+designation: "Scientific committee"
+image: "images/team/Peter_Mooney.png"
 draft : false
 type: "speaker"
 layout: "single"
@@ -34,4 +34,7 @@ social:
 #  link: "#"
 ---
 
-<add bio text or delete this placeholder>
+Affiliation: Maynooth University, Ireland
+
+Field of expertise: Volunteered Geographic Information, Geocomputation,
+Geospatial Statistics, FOSS4G, Open Data, Sustainability
