@@ -1,9 +1,9 @@
 ---
-title : ""
+title : "Desalew Meseret Moges"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-11-01T15:40:24+02:00
-designation: ""
-image: "images/team/generic.jpg"
+designation: "Scientific committee"
+image: "images/team/Desalew_Meseret.png"
 draft : false
 type: "speaker"
 layout: "single"
@@ -34,4 +34,8 @@ social:
 #  link: "#"
 ---
 
-<add bio text or delete this placeholder>
+Affiliation: University of Tartu, Estonia
+
+Field of expertise: Land use and climate changes, Hydrological modeling
+(surface hydrology), Soil erosion modeling and conservation, Remote sensing in
+hydrology

@@ -1,9 +1,9 @@
 ---
-title : ""
+title : "Alessandro Sarretta"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-11-01T15:40:24+02:00
-designation: ""
-image: "images/team/generic.jpg"
+designation: "Scientific committee"
+image: "images/team/Alessandro_Sarretta.jpg"
 draft : false
 type: "speaker"
 layout: "single"
@@ -34,4 +34,8 @@ social:
 #  link: "#"
 ---
 
-<add bio text or delete this placeholder>
+Affiliation: National Research Council, Italy
+
+Field of expertise: spatial data infrastructures; interoperability; decision
+support tools; open/participatory science; VGI; maritime spatial planning;
+marine and coastal environment; hydro-geomorphology; natural risks

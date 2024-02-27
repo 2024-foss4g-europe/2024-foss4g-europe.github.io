@@ -2,7 +2,7 @@
 title : "Marco Ciolli"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-11-01T15:40:24+02:00
-designation: "Academic program co-chair"
+designation: "Scientific committee co-chair"
 image: "images/team/Marco_C.jpg"
 draft : false
 type: "speaker"

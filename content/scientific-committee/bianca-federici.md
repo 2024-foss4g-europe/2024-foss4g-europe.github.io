@@ -1,9 +1,9 @@
 ---
-title : ""
+title : "Bianca Federici"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-11-01T15:40:24+02:00
-designation: ""
-image: "images/team/generic.jpg"
+designation: "Scientific committee"
+image: "images/team/Bianca_Federici.jpg"
 draft : false
 type: "speaker"
 layout: "single"
@@ -34,4 +34,6 @@ social:
 #  link: "#"
 ---
 
-<add bio text or delete this placeholder>
+Affiliation: University of Genova, Italy
+
+Field of expertise: GIS applications, traditional topography, GNSS, optical images

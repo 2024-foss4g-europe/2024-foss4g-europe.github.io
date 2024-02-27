@@ -1,9 +1,9 @@
 ---
-title : ""
+title : "Maria Antonia Brovelli"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-11-01T15:40:24+02:00
-designation: ""
-image: "images/team/generic.jpg"
+designation: "Scientific committee"
+image: "images/team/Maria_Brovelli.png"
 draft : false
 type: "speaker"
 layout: "single"
@@ -34,4 +34,6 @@ social:
 #  link: "#"
 ---
 
-<add bio text or delete this placeholder>
+Affiliation: Politecnico di Milano, Italy
+
+Field of expertise: GEOAI, Citizen Science, Digital Twin Earth
