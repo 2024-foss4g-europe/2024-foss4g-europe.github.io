@@ -7,11 +7,11 @@
         {{.Content}}
 			</div>
 		</div>
-		{{ range $lvl := slice "" "Gold" "Silver" "Bronze" "" }}
+		{{ range $lvl := slice "" "Gold" "Silver" "Bronze" "Supporter" }}
 		  {{ if ne $lvl "" }}
 			<div class="row">
 				<div class="col-12 section-title">
-					<h3>{{ $lvl }} sponsors</h3>
+					<h3>{{ $lvl }}</h3>
 				</div>
 			</div>
 			{{ end }}

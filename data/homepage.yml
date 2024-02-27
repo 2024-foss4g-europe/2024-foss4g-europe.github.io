@@ -291,7 +291,7 @@ sponsors:
       link : "./partners/ec/"
 
 
-  - name : "Gold Sponsors"
+  - name : "Gold"
     sponsor_item:
     - name : "GeoCat bv"
       logo : "images/sponsors/geocat.svg"
@@ -299,7 +299,7 @@ sponsors:
 
 
 
-  - name : "Silver Sponsors"
+  - name : "Silver"
     sponsor_item:
     - name : "SunGIS SIA"
       logo : "images/sponsors/sungis.svg"
@@ -311,11 +311,17 @@ sponsors:
       logo : "images/sponsors/gis3w-logo.png"
       link : "./sponsors/silver/gis3w/"
 
-  - name : "Bronze Sponsors"
+  - name : "Bronze"
     sponsor_item:
     - name : "Septima"
       logo : "images/sponsors/septima-logo.png"
       link : "./sponsors/bronze/septima/"
+
+  - name : "Supporter"
+    sponsor_item:
+    - name : "QGIS España"
+      logo : "images/sponsors/qgises-logo.png"
+      link : "./sponsors/supporter/qgises/"
 
 
   - name : "Media partners"
