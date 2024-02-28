@@ -41,5 +41,5 @@ In case of questions, please reach out via contact email info-europe@foss4g.org 
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
-    <span>Submit your poster proposal</span></a>
+    <span>Submit your map proposal</span></a>
 </center>
