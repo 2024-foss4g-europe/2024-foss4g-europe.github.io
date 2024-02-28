@@ -41,11 +41,21 @@ h6{
 	font-size: 1.25rem; //20px
 }
 // Others 
-p, a, li, blockquote, label{
+p, li, blockquote, label{
 	font-size: 1rem;
 	line-height: 26px;
 	color: black;
 	margin-bottom: 0;
+}
+
+a {
+	font-size: 1rem;
+	line-height: 26px;
+	color: #ef6530;
+	margin-bottom: 0;
+	&:hover {
+		color: ee581e;
+	}
 }
 
 // Placeholder Color Change

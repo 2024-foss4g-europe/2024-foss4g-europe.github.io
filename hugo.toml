@@ -213,6 +213,11 @@ hasChildren = true
   url = "cfp-academic-program"
 
   [[menu.main]]
+  parent = "Call for papers"
+  name = "Map Gallery Submission"
+  url = "map-gallery-submission"
+
+  [[menu.main]]
   parent = "Venue"
   name = "Accommodation"
   url = "accommodation/"
