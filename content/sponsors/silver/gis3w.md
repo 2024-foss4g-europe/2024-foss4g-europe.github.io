@@ -27,29 +27,40 @@ social:
 
 [**Gis3W**](https://gis3w.it/) is an Italian company founded in 2009 that
 offers exclusively open-type GIS and WebGis solutions.
-
-Gis3W is the main developer of the OS [**G3WSUITE**](https://g3wsuite.it/)
+<br><br>
+Gis3W is the main developer of the OS [**G3W-SUITE**](https://g3wsuite.it/)
 framework, an application, based on QGIS-Server and integrated with the
 [**QGIS**](https://qgis.org/) API, dedicated to the preparation
 of cartographic web tools for the dissemination, for the structured management
 and analysis of territorial data in web environment.
-
-G3W-SUITE is an OS project born in 2016 and available under **GPL license** on
+<br><br>
+G3W-SUITE is an OS project born in 2016 and available under **MPL license** on
 [**GitHub**](https://github.com/g3w-suite).
-
+<br><br>
 Gis3W has a proven experience in the development of geospatial solutions and
 products thanks to the skills acquired over the years and the high
 adaptability of its product.
-
+<br><br>
 Among the users of the suite, we recall the numbers of Regional and Local
 Public Authorities, National Parks, MultiUtilities and engineering studies that
 use our applications to organize, manage and disclose their geographic
 information.
-
+<br><br>
 Gis3W provides **training on QGIS, GeoDB and WebGis applications**, for the
 training of simple geographic software users and for those who need to create
 SIT with a strong Web component.
-
+<br><br>
 It organizes courses on behalf of public bodies, companies or individuals,
 provides training and assistance for the use of software and for the updating
 of the geographic systems created.
+<br><br>
+**{{<
+    extlink href="https://g3wsuite.it/"
+    title="https://g3wsuite.it/"
+    target="blank" rel="noopener noreferrer"
+>}}**<br>
+**{{<
+    extlink href="https://gis3w.it/"
+    title="https://gis3w.it/"
+    target="blank" rel="noopener noreferrer"
+>}}**
