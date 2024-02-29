@@ -153,11 +153,53 @@ weight = 5
   [[menu.main]]
     weight = 2
     parent = "Schedule"
-    name = "Workshop schedule"
+    name = "Workshops"
     url = "schedule/workshops/"
 
+#  [[menu.main]]
+#    weight = 3
+#    parent = "Schedule"
+#    name = "Talks"
+#    url = "schedule/talks/"
+
   [[menu.main]]
-    weight = 3
+    weight = 4
+    parent = "Schedule"
+    name = "Business-to-business"
+    url = "schedule/b2b/"
+
+  [[menu.main]]
+    weight = 5
+    parent = "Schedule"
+    name = "GeoChicas Take Tartu!"
+    url = "schedule/geochicas-take-tartu/"
+
+  [[menu.main]]
+    weight = 6
+    parent = "Schedule"
+    name = "Ice-Breaker"
+    url = "schedule/icebreaker/"
+
+  [[menu.main]]
+    weight = 7
+    parent = "Schedule"
+    name = "Social Bytes"
+    url = "schedule/social-bytes/"
+
+#  [[menu.main]]
+#    weight = 8
+#    parent = "Schedule"
+#    name = "Birds of a Feather"
+#    url = "schedule/bof/"
+
+#  [[menu.main]]
+#    weight = 9
+#    parent = "Schedule"
+#    name = "Community Sprint"
+#    url = "schedule/community-sprint/"
+
+  [[menu.main]]
+    weight = 10
     parent = "Schedule"
     name = "Excursion"
     url = "schedule/excursion/"
@@ -198,8 +240,14 @@ hasChildren = true
  hasChildren = true
 
   [[menu.main]]
+  weight = 1
   parent = "Call for papers"
-  name = "Workshops"
+  name = "Map Gallery Submission"
+  url = "map-gallery-submission"
+
+  [[menu.main]]
+  parent = "Call for papers"
+  name = "Workshop program"
   url = "cfp-workshops"
 
   [[menu.main]]
@@ -211,11 +259,6 @@ hasChildren = true
   parent = "Call for papers"
   name = "Academic program"
   url = "cfp-academic-program"
-
-  [[menu.main]]
-  parent = "Call for papers"
-  name = "Map Gallery Submission"
-  url = "map-gallery-submission"
 
   [[menu.main]]
   parent = "Venue"
