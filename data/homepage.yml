@@ -310,6 +310,9 @@ sponsors:
     - name : "Gis3W"
       logo : "images/sponsors/gis3w-logo.png"
       link : "./sponsors/silver/gis3w/"
+    - name : "MapTiler"
+      logo : "images/sponsors/maptiler-logo-vertical.png"
+      link : "./sponsors/silver/maptiler/"
 
   - name : "Bronze"
     sponsor_item:
