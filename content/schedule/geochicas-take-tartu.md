@@ -2,6 +2,7 @@
 title: "GeoChicas Take Tartu"
 page_header_bg: "images/background/page-title-bg.jpg"
 date: 2024-02-29T16:52:24+06:00
+image: "images/geochicas-take-tartu.jpg"
 draft: false
 layout: "single"
 ---
