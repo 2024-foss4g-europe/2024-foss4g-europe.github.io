@@ -1,4 +1,19 @@
 {{ define "main" }}
+<section class="section">
+  <div class="container">
+    <div class="block">
+      <div class="row">
+        <div class="col-lg-7 col-md-6 align-self-center">
+          <div class="content-block">
+            <div class="details">
+              {{ .Content }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 <pretalx-schedule event-url="https://talks.osgeo.org/{{ .Params.pretalx }}/" locale="en" format="grid" style="--pretalx-clr-primary: #F06A36"></pretalx-schedule>
 <noscript>

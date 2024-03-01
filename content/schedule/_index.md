@@ -35,15 +35,15 @@ layout : "single"
     <tbody>
       <tr style="height:200px;">
         <td class="tg-body" colspan="2"><a href="./workshops"><h6 style="color: rgb(177, 81, 81);"><b>Workshops</b></h6></a></td>
-        <td class="tg-body" colspan="3"><h6 style="color: darkblue;">Main Conference</h6></td>
+        <td class="tg-body" colspan="3"><a href="./talks"><h6 style="color: darkblue;"><b>Main Conference</b></h6></td>
         <td class="tg-body" rowspan="2"><h6 style="color: darkgreen;">Community Sprint / </h6><a href="./excursion"><h6 style="color: darkgreen;"><b>Excursion to Setomaa</b></h6></a></td>
         <td class="tg-body" rowspan="2"><h6 style="color: darkgreen;">Community Sprint</h6></td>
       </tr>
       <tr>
-        <td class="tg-body"><h6> Free city tour</h6></td>
-        <td class="tg-body"><h6>B2B / Free city tour <hr> Geochicas Take Tartu</h6></td>
-        <td class="tg-body"><h6>Ice-Breaker</h6></td>
-        <td class="tg-body"><h6>Social Bytes</h6></td>
+        <td class="tg-body"><h6><a href="./city-tour/"><b>Free city tour</b></a></h6></td>
+        <td class="tg-body"><h6><a href="./b2b/"><b>B2B</b></a> / <a href="./city-tour/"><b>Free city tour</b></a><hr> <a href="./geochicas-take-tartu/"><b>Geochicas Take Tartu</b></a></h6></td>
+        <td class="tg-body"><b>BoF</b><hr><h6><a href="./ice-breaker/"><b>Ice-Breaker</b></a></h6></td>
+        <td class="tg-body"><b>BoF</b><hr><h6><a href="./social-bytes/"><b>Social Bytes</b></a></h6></td>
         <td></td>
       </tr>
     </tbody>
