@@ -190,7 +190,7 @@ weight = 5
     weight = 7
     parent = "Schedule"
     name = "Ice-Breaker"
-    url = "schedule/icebreaker/"
+    url = "schedule/ice-breaker/"
 
   [[menu.main]]
     weight = 8
