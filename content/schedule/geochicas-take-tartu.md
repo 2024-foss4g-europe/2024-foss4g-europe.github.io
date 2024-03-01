@@ -23,7 +23,7 @@ B2B meeting in a closeby venue called
     title="Salong"
     target="blank"
     rel="noopener noreferrer"
->}}**, a culture club known as the place of mainstream, side-stream, direct and
+>}}**, a culture club known as the place of mainstream, side-stream, direct, and
 alternating current parties, concerts, movie evenings, quizes, exhibitions, and
 lectures for all, regardless of age or other peculiarities.
 
@@ -34,3 +34,13 @@ identifying as women but afterwards everyone is welcome!
 
 We’ll try to break the ice and get off to a great start at FOSS4G Europe 2024
 while having fun and doing karaoke! First drink is on us!
+
+{{< figure
+    src="../../images/geochicas-take-tartu.jpg"
+    alttext="GeoChicas take Tartu! banner"
+    link="../../images/geochicas-take-tartu.jpg"
+    width="100%"
+    target="blank"
+    rel="noopener noreferrer"
+    caption="GeoChicas take Tartu! banner"
+    >}}
