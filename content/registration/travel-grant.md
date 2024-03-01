@@ -124,13 +124,14 @@ or by
     rel="noopener noreferrer"
 >}}** .
 
-An easy way to support is to purchase **_sponsor ticket(s)_** during your own
+An easy way to support is to
+[**Adopt-a-ticket**](../../registration/adopt-a-ticket/) during your own
 [**registration**](../../registration/) to the event. The
-proceeds from the sales of **_sponsor tickets_** will be used to cover costs
+proceeds from **adopt-a-ticket** will be used to cover costs
 for workshop presenters and TGP applicants gratis entrance. With at least one
-**_sponsor ticket_** you will be included as an honourable mention in our
-conference channels. If you buy more you also apply to our different
-sponsorship levels which you can find in the FOSS4GE 2024
+_ticket adoption_ you will be included as an honourable mention in our
+conference channels. If you buy more, you are instead eligible to one of the
+different sponsorship levels at equal value which you can find in the FOSS4GE 2024
 [**Call for Sponsors**](../../call-for-sponsors/).
 
 ### About the TGP

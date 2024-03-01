@@ -25,8 +25,8 @@ giving away free tickets to all workshop instructors.
 
 We do this because we believe this is the right thing to do.
 
-But this also means that the conference will miss out on some of the funds
-although we still need to cover the expenses (lunches, coffee-breaks, etc).
+But this also means that the conference will miss out on some of the income funds
+although we still need to cover the related expenses (lunches, coffee-breaks, etc).
 This is where we would appreciate your help. Instead of increasing the ticket
 cost for all we chose to allow you make a conscious choice.
 
@@ -43,6 +43,7 @@ who would like to support the conference but for whom the existing
 ## What's in it for you?
 With _Adopt-a-ticket_ you can purchase any number of extra tickets. In return
 we would like to show our gratitude by having you included in the
-[**Honorable mentions**](#) section of the conference homepage. If you buy
-more than one extra ticket with _adopt-a-ticket_ then you would instead be
-eligible to any of the predefined [**sponsor packages**](../../call-for-sponsors/).
+[**Honorable mentions**](../../sponsors/honorable-mentions/) section of the
+conference homepage. If you buy more than one extra ticket with _adopt-a-ticket_
+then you would instead be eligible to any of the predefined
+[**sponsor packages**](../../call-for-sponsors/) in equal amount.

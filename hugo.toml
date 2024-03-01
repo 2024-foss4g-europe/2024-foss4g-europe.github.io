@@ -136,6 +136,12 @@ weight = 4
   [[menu.main]]
   weight = 2
   parent = "Registration"
+  name = "Adopt-a-ticket"
+  url = "registration/adopt-a-ticket/"
+
+  [[menu.main]]
+  weight = 2
+  parent = "Registration"
   name = "Travel Grant"
   url = "registration/travel-grant/"
 
