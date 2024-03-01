@@ -39,6 +39,10 @@ participate and contribute with their point of view, ideas, open mindset and
 positive aura. Beverages and lunch are provided to support participants.
 **Registration information to the Community Sprint will be shared separately.**
 
+## Schedule
+A more in-depth overview of the schedule and various events taking place during
+the conference can be found under [**Schedule**](../schedule/)
+
 #### CANCELLATION POLICY
 
 The cancellation should be directed to **info-europe@foss4g.org** in writing

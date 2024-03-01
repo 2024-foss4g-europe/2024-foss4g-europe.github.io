@@ -156,11 +156,11 @@ weight = 5
     name = "Workshops"
     url = "schedule/workshops/"
 
-#  [[menu.main]]
-#    weight = 3
-#    parent = "Schedule"
-#    name = "Talks"
-#    url = "schedule/talks/"
+  [[menu.main]]
+    weight = 3
+    parent = "Schedule"
+    name = "Talks"
+    url = "schedule/talks/"
 
   [[menu.main]]
     weight = 4
@@ -178,7 +178,7 @@ weight = 5
     weight = 6
     parent = "Schedule"
     name = "Ice-Breaker"
-    url = "schedule/icebreaker/"
+    url = "schedule/ice-breaker/"
 
   [[menu.main]]
     weight = 7
