@@ -1,7 +1,7 @@
 ---
 title : "Codrina Maria Ilie"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2020-11-01T15:40:24+02:00
+date: 2024-03-01T11:40:24+02:00
 designation: "Program committee co-chair"
 image: "images/team/Codrina.png"
 draft : false
