@@ -40,8 +40,8 @@ layout : "single"
         <td class="tg-body" rowspan="2"><h6 style="color: darkgreen;">Community Sprint</h6></td>
       </tr>
       <tr>
-        <td class="tg-body"><h6> Free city tour</h6></td>
-        <td class="tg-body"><h6><a href="./b2b/"><b>B2B</b></a> / Free city tour <hr> <a href="./geochicas-take-tartu/"><b>Geochicas Take Tartu</b></a></h6></td>
+        <td class="tg-body"><h6><a href="./city-tour/"><b>Free city tour</b></a></h6></td>
+        <td class="tg-body"><h6><a href="./b2b/"><b>B2B</b></a> / <a href="./city-tour/"><b>Free city tour</b></a><hr> <a href="./geochicas-take-tartu/"><b>Geochicas Take Tartu</b></a></h6></td>
         <td class="tg-body"><b>BoF</b><hr><h6><a href="./ice-breaker/"><b>Ice-Breaker</b></a></h6></td>
         <td class="tg-body"><b>BoF</b><hr><h6><a href="./social-bytes/"><b>Social Bytes</b></a></h6></td>
         <td></td>
