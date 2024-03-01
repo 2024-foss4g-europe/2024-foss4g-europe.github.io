@@ -2,6 +2,7 @@
 title: "Free city tour"
 page_header_bg: "images/background/page-title-bg.jpg"
 date: 2024-03-01T12:55:24+06:00
+image: "images/city-tour.png"
 draft: false
 layout: "single"
 ---
