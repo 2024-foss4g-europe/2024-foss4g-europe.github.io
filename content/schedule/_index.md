@@ -34,7 +34,7 @@ layout : "single"
     </thead>
     <tbody>
       <tr style="height:200px;">
-        <td class="tg-body" colspan="2"><a href="./workshops"><h6 style="color: rgb(177, 81, 81);"><b>Workshops</b></h6></a></td>
+        <td class="tg-body" colspan="2"><a href="./workshops"><h6 style="color: rgb(177, 81, 81);"><b>Workshops</b></h6></a> / <a href="./ogc-euidays/"><h6><b>OGC iDays-EU</b></h6></a></td>
         <td class="tg-body" colspan="3"><a href="./talks"><h6 style="color: darkblue;"><b>Main Conference</b></h6></td>
         <td class="tg-body" rowspan="2"><h6 style="color: darkgreen;">Community Sprint / </h6><a href="./excursion"><h6 style="color: darkgreen;"><b>Excursion to Setomaa</b></h6></a></td>
         <td class="tg-body" rowspan="2"><h6 style="color: darkgreen;">Community Sprint</h6></td>

@@ -183,35 +183,41 @@ weight = 5
   [[menu.main]]
     weight = 6
     parent = "Schedule"
+    name = "OGC EUiDays"
+    url = "schedule/ogc-euidays/"
+
+  [[menu.main]]
+    weight = 7
+    parent = "Schedule"
     name = "Free city tour"
     url = "schedule/city-tour/"
 
   [[menu.main]]
-    weight = 7
+    weight = 8
     parent = "Schedule"
     name = "Ice-Breaker"
     url = "schedule/icebreaker/"
 
   [[menu.main]]
-    weight = 8
+    weight = 9
     parent = "Schedule"
     name = "Social Bytes"
     url = "schedule/social-bytes/"
 
 #  [[menu.main]]
-#    weight = 9
+#    weight = 10
 #    parent = "Schedule"
 #    name = "Birds of a Feather"
 #    url = "schedule/bof/"
 
 #  [[menu.main]]
-#    weight = 10
+#    weight = 11
 #    parent = "Schedule"
 #    name = "Community Sprint"
 #    url = "schedule/community-sprint/"
 
   [[menu.main]]
-    weight = 11
+    weight = 12
     parent = "Schedule"
     name = "Excursion"
     url = "schedule/excursion/"
