@@ -15,7 +15,15 @@ its conferences to increase the accessibility and diversity of FOSS4G events.
 The Tartu local organising committee is happy to provide travel grants in
 cooperation with OSGeo also for FOSS4G Europe 2024.
 
-**Stay tuned, applying to travel grants will be possible soon.**
+<center>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeF-Fpu-JmScQoWNCdorjRpQtxbZtyc0Arr1Cn6ghFTSqiaNw/viewform"
+        class="btn btn-primary btn-lg"
+        target="blank" rel="noopener noreferrer"
+        style="padding:32px;margin-top:30px;margin-bottom:30px">
+        <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="TGP application form">
+    <span>Submit a TGP application</span></a>
+</center>
+<hr>
 
 ### Travel Grants
 Every grant includes a free conference pass, one free workshop, and a grant
@@ -141,3 +149,14 @@ FOSS4G events.
 
 The travel grant program is managed by the OSGeo Conference Committee, in
 collaboration with representatives from each FOSS4G event.
+
+<hr>
+<center>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeF-Fpu-JmScQoWNCdorjRpQtxbZtyc0Arr1Cn6ghFTSqiaNw/viewform"
+        class="btn btn-primary btn-lg"
+        target="blank" rel="noopener noreferrer"
+        style="padding:32px;margin-top:30px;margin-bottom:30px">
+        <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="TGP application form">
+    <span>Submit a TGP application</span></a>
+</center>
+<hr>
