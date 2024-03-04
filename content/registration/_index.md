@@ -3,13 +3,22 @@ title : "Registration"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 description : "Registration information"
+pretix: "foss4ge2024/tartu"
 draft : false
 layout : "single"
 ---
 
-## Registration
+<center>
+    <a href="./register/"
+        class="btn btn-primary btn-lg"
+        target="blank" rel="noopener noreferrer"
+        style="padding:32px;margin-top:30px;margin-bottom:30px">
+        <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="Get your ticket!">
+    <span>Get your ticket here!</span></a>
+</center>
+<hr>
 
-**Registration will open very soon! Stay tuned**
+## Registration
 
 {{< figure
     src="../images/pricing.png"
@@ -62,3 +71,13 @@ due to any event beyond the Organisers’ control or *force majeure*, the
 Conference Organisers cannot be held liable for any damage, cost, or loss
 incurred, such as registration fee or any other direct or indirect loss or
 consequential damage.
+
+<hr>
+<center>
+    <a href="./register/"
+        class="btn btn-primary btn-lg"
+        target="blank" rel="noopener noreferrer"
+        style="padding:32px;margin-top:30px;margin-bottom:30px">
+        <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="Get your ticket!">
+    <span>Get your ticket here!</span></a>
+</center>
