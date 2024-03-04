@@ -313,6 +313,9 @@ sponsors:
     - name : "MapTiler"
       logo : "images/sponsors/maptiler-logo-vertical.png"
       link : "./sponsors/silver/maptiler/"
+    - name : "Mergin Maps"
+      logo : "images/sponsors/mergin-maps-logo.png"
+      link : "./sponsors/silver/mergin-maps/"
 
   - name : "Bronze"
     sponsor_item:
