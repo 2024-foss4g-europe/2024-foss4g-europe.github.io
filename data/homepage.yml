@@ -320,7 +320,7 @@ sponsors:
   - name : "Bronze"
     sponsor_item:
     - name : "Septima"
-      logo : "images/sponsors/septima-logo.png"
+      logo : "images/sponsors/septima-logo-1.png"
       link : "./sponsors/bronze/septima/"
 
   - name : "Supporter"
