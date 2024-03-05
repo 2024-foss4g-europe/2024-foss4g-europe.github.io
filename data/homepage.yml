@@ -333,5 +333,8 @@ sponsors:
   - name : "Media partners"
     sponsor_item:
     - name : "ISPRS International Journal of Geo-Information"
-      logo : "images/sponsors/IJGI-B.png"
+      logo : "images/partners/IJGI-B.png"
       link : "./partners/ijgi-journal/"
+    - name : "GISWorld"
+      logo : "images/partners/gisworld.png"
+      link : "./partners/gisworld/"
