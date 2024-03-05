@@ -84,6 +84,8 @@ something that fits your needs.
     rel="noopener noreferrer"
     >}}
 
+*Since the expo space is limited please talk to us about your needs 
+
 The full sponsorship prospectus can be downloaded as a pdf file
 **{{<
     extlink href="../doc/FOSS4G-Europe-call-for-sponsors.pdf"
