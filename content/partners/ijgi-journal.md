@@ -3,7 +3,7 @@ title : "International Journal of Geo-Information"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-12-14T15:33:24+02:00
 designation: "Media partner"
-image: "images/sponsors/IJGI_Journal_Logo_resize.png"
+image: "images/partners/IJGI_Journal_Logo_resize.png"
 draft : false
 type: "speaker"
 layout: "single"
