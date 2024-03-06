@@ -50,7 +50,8 @@
 							border: 1px solid $border-color;
 							text-align: center;
 							i{
-								line-height: 40px;
+								line-height: 40px;;
+                color: #44586e;
 							}
 							&:hover{
 								background: $primary-color;
@@ -61,7 +62,7 @@
 					}
 				}
 			}
-		}	
+		}
 	}
 
 	.block-2{
@@ -97,7 +98,7 @@
 					    content: "\f10c";
 					    font-family: FontAwesome;
 					    color: $primary-color;
-					    
+
 					}
 				}
 			}
@@ -116,7 +117,7 @@
 							font-family: $secondary-font;
 							float: right;
 							margin-top: -20px;
-							color: $black;							
+							color: $black;
 						}
 					}
 				}
@@ -188,7 +189,7 @@
 			&:before{
 				content: '\f104';
 			}
-			
+
 		}
 		.slick-next{
 			right: 60px;
@@ -210,7 +211,7 @@
 			&:before {
 				color: $primary-color;
 				font-family: $icon-font;
-			}		
+			}
 		}
 	}
 }
