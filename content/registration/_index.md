@@ -3,22 +3,19 @@ title : "Registration"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 description : "Registration information"
-pretix: "foss4ge2024/tartu"
 draft : false
 layout : "single"
 ---
 
 <center>
-    <a href="./register/"
+    <a href="https://pretix.eu/foss4ge2024/tartu/"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
-        <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="Get your ticket!">
+        <img src="https://2024.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
     <span>Get your ticket here!</span></a>
 </center>
 <hr>
-
-## Registration
 
 {{< figure
     src="../images/pricing.png"
@@ -74,10 +71,10 @@ consequential damage.
 
 <hr>
 <center>
-    <a href="./register/"
+    <a href="https://pretix.eu/foss4ge2024/tartu/"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
-        <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="Get your ticket!">
+        <img src="https://2024.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
     <span>Get your ticket here!</span></a>
 </center>
