@@ -51,4 +51,8 @@ AUTHOR WEBSITE: https://themefisher.com
   {{ if .Params.pretalx }}
   <script type="text/javascript" src="https://talks.osgeo.org/{{ .Params.pretalx }}/schedule/widget/v2.en.js"></script>
   {{ end }}
+  {{ if .Params.pretix }}
+  <link rel="stylesheet" type="text/css" href="https://pretix.eu/{{ .Params.pretix }}/widget/v1.css">
+  <script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
+  {{ end }}
 </head>

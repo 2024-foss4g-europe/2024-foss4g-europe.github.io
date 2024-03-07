@@ -2,14 +2,21 @@
 title : "Registration"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-description : "Registration information"
+description : "Registration overview for the FOSS4G Europe 2024 conference
+taking place in Tartu, Estonia 1-7 July 2024."
 draft : false
 layout : "single"
 ---
 
-## Registration
-
-**Registration will open very soon! Stay tuned**
+<center>
+    <a href="https://pretix.eu/foss4ge2024/tartu/"
+        class="btn btn-primary btn-lg"
+        target="blank" rel="noopener noreferrer"
+        style="padding:32px;margin-top:30px;margin-bottom:30px">
+        <img src="https://2024.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
+    <span>Get your ticket here!</span></a>
+</center>
+<hr>
 
 {{< figure
     src="../images/pricing.png"
@@ -62,3 +69,13 @@ due to any event beyond the Organisers’ control or *force majeure*, the
 Conference Organisers cannot be held liable for any damage, cost, or loss
 incurred, such as registration fee or any other direct or indirect loss or
 consequential damage.
+
+<hr>
+<center>
+    <a href="https://pretix.eu/foss4ge2024/tartu/"
+        class="btn btn-primary btn-lg"
+        target="blank" rel="noopener noreferrer"
+        style="padding:32px;margin-top:30px;margin-bottom:30px">
+        <img src="https://2024.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
+    <span>Get your ticket here!</span></a>
+</center>

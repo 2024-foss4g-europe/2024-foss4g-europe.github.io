@@ -2,7 +2,7 @@
 title : "Schedule"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2024-01-09T15:40:24+06:00
-description : "Schedule"
+description : "FOSS4G Europe 2024 schedule overview."
 draft : false
 layout : "single"
 ---
@@ -52,3 +52,13 @@ layout : "single"
     <div><h5>The full program will be published on the 31st of March.</h5></div>
 </div>
 </section>
+
+<hr>
+<center>
+    <a href="https://pretix.eu/foss4ge2024/tartu/"
+        class="btn btn-primary btn-lg"
+        target="blank" rel="noopener noreferrer"
+        style="padding:32px;margin-top:30px;margin-bottom:30px">
+        <img src="https://2024.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
+    <span>Get your ticket here!</span></a>
+</center>
