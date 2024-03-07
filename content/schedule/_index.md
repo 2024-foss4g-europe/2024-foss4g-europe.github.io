@@ -2,7 +2,7 @@
 title : "Schedule"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2024-01-09T15:40:24+06:00
-description : "Schedule"
+description : "FOSS4G Europe 2024 schedule overview."
 draft : false
 layout : "single"
 ---
