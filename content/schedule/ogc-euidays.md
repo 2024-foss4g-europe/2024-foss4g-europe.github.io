@@ -23,7 +23,16 @@ Tartu, Estonia
 
 View the [preliminary agenda below](#agenda).
 
-**Registration opening soon.**
+<hr>
+<center>
+    <a href="https://pretix.eu/foss4ge2024/tartu/"
+        class="btn btn-primary btn-lg"
+        target="blank" rel="noopener noreferrer"
+        style="padding:32px;margin-top:30px;margin-bottom:30px">
+        <img src="https://2024.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
+    <span>Get your ticket here!</span></a>
+</center>
+<hr>
 
 **Co-organized with [FOSS4G Europe: 1-7 July,
 2024](https://2024.europe.foss4g.org/).**
@@ -137,8 +146,6 @@ framework.
 <a name="agenda"></a>
 **Preliminary Agenda**:
 
-**Registration opening soon**
-
 |                    | Monday 1st July                               |           | Tuesday 2nd July                |
 |--------------------|-----------------------------------------------|-----------|---------------------------------|
 |**09:00 -- 10:30**  |**Opening Ceremony & Keynotes**                |           |**Tools, Gaps, and challenges**  |
@@ -163,6 +170,18 @@ Cluster**.
     alttext="Co-funded EU Logo"
     width="25%"
     >}}
+
+<hr>
+<center>
+    <a href="https://pretix.eu/foss4ge2024/tartu/"
+        class="btn btn-primary btn-lg"
+        target="blank" rel="noopener noreferrer"
+        style="padding:32px;margin-top:30px;margin-bottom:30px">
+        <img src="https://2024.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
+    <span>Get your ticket here!</span></a>
+</center>
+<hr>
+
 
 ###### Tags
 
