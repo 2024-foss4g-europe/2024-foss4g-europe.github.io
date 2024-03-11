@@ -325,8 +325,8 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Venue"
-  name = "About Tartu"
-  url = "about-tartu/"
+  name = "About Venue"
+  url = "about-venue/"
 
 #  [[menu.main]]
 #  parent = "Pages"

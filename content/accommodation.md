@@ -44,7 +44,9 @@ Booking should de done via their email pallas@tartuhotels.ee. Use the code **FOS
 
 ### **{{< extlink href="https://www.campus.ee/en/residence-halls/raatuse-22/" title="5. Dormitory of Tartu University" >}}**
 Book a room using the code **FOSS4G** by writing to downtown@campus.ee. 
-Price per night ranging from 30€ to 35€. Note that it's a dormitory where 3 rooms (6 people max) share a kitchen, toilet and a shower. No breakfast is included.  
+Price per night ranging from 30€ to 35€. Note that it's a dormitory where 3 rooms (6 people max) share a kitchen, toilet and a shower. No breakfast is included.
+- Please note that rooms in the dormitory are only reserved until **10 May**! After that vacancies cannot be guaranteed but you can still reach out via the email and code word.  
+
 *{{< extlink href="https://www.google.ee/maps/dir/Raatuse+22,+Tartu/Vanemuise+46,+Vanemuise,+Tartu/@58.3787484,26.7182808,15z/data=!4m14!4m13!1m5!1m1!1s0x46eb36dd6b0fa101:0xd08f6364ad6b7586!2m2!1d26.7321937!2d58.3826467!1m5!1m1!1s0x46eb371fbd6f367b:0x78a41ede2f6ccf04!2m2!1d26.7167174!2d58.3739346!3e2?entry=ttu" title="Location & directions to venue (24 min walk)." >}}*
 
 ---
