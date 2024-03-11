@@ -38,7 +38,16 @@ announcement.
 
 # Description
 Following the established tradition, an Academic Track running over the days of
-the FOSS4G Europe (FOSS4GE) is organised. The [**Scientific Committee**](../scientific-committee/) of
+the FOSS4G Europe (FOSS4GE) is organised. The Academic Track is organised by
+the International Society for Photogrammetry and Remote Sensing (ISPRS), in
+particular
+**{{<
+    extlink href="https://www2.isprs.org/commissions/comm4/icwg-4-3-2/"
+    title="ISPRS Intercommission Working Group IV/III/II Openness in Geospatial Science and Remote Sensing"
+    target="blank"
+    rel="noopener noreferrer"
+>}}**.
+The [**Scientific Committee**](../scientific-committee/) of
 FOSS4GE 2024 invites original research contributions addressing any topic or
 domain connected to free and open source geospatial software, including (but not
 limited to):
