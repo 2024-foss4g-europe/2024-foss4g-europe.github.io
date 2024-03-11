@@ -10,6 +10,9 @@ layout: "single"
 ## Social Bytes
 **Thursday, 4 July 2024**
 
+Social Bytes event is included in the price of the conference ticket!  
+- +1 tickets to the event can be bought in the {{< extlink href="https://pretix.eu/foss4ge2024/tartu/" title="registration shop" >}}.
+
 For the main party on Thursday evening we will head to _Lodjakoda_ (“Barge hall”)
 for a glimpse of Estonian culture, some food, and beverages. Lodjakoda is a
 traditional wooden ship building yard where
@@ -30,4 +33,23 @@ comfortably.
     target="blank"
     rel="noopener noreferrer"
     caption="[**Barge Chamber and River Emajõgi © Ragnar Vutt**](https://www.flickr.com/photos/visittartu/51764618966/) via [**visittartu.com**](https://visittartu.com/)"
+>}}
+
+We are also honoured to introduce the performer of the night who is an Estonian folk-rock band called **{{< extlink href="https://www.youtube.com/@Zetod" title="Zetod" >}}**!    
+Zetod is a musical phenomenon born in Värska in 2003 as a youth band under the guidance of Kristjan Priks, a graduate of the Viljandi Academy of Culture's folk music major. The idea of getting young Seto boys to make pop-rock in the key of their own culture was exciting at the time and has brought this group to the top today, which has brought many awards and recognition. The ensemble, which has released seven studio albums, celebrated its 20th anniversary in 2023. 
+Zetod composition:
+- Jalmar Vabarna
+- Matis Leima
+- Artur Linnus
+- Martin Kütt
+- Jaanus Viskar
+
+{{< figure
+    src="../../images/zetod.jpg"
+    alttext="Zetod"
+    link="https://www.facebook.com/zetodofficial/"
+    width="100%"
+    target="blank"
+    rel="noopener noreferrer"
+    caption="© Maris Savik"
 >}}

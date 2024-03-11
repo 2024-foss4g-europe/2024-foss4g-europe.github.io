@@ -10,6 +10,8 @@ layout: "single"
 ## Ice-Breaker
 **Wednesday, 3 July, 2024**
 
+Ice-Breaker event is included in the price of the conference ticket!  
+
 Food and drinks will be offered to all registered participants in _Aparaaditehas_
 (“Widget Factory”). Situated in a former factory complex which used to house
 manufacturies for producing parts for Soviet submarines, zippers, and
