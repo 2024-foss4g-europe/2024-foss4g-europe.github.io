@@ -81,5 +81,5 @@ Although no prebookings are made there, they are offering the code of **FOSS4G**
 
 ### **{{< extlink href="https://www.hektorstay.com/hostels/en/" title="10. Hektor Design Hostels" >}}**
 
-Although no prebookings are made there, they are offering the code of **FOSS4G** for getting a 30% discount. Book through their website.  Free parking in the courtyard. 
+Although no prebookings are made there, they are offering the code of **FOSS4G** for getting a 30% discount. Book through their website.  Free parking in the courtyard.  
  *{{< extlink href="https://www.google.ee/maps/dir/Hektor+Design+Hostel,+Riia,+Tartu/Vanemuise+46,+Vanemuise,+Tartu/@58.3721617,26.7126418,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x46eb371f51be8cf3:0xd3249ed10c9cdc0e!2m2!1d26.7148554!2d58.3705601!1m5!1m1!1s0x46eb371fbd6f367b:0x78a41ede2f6ccf04!2m2!1d26.7167174!2d58.3739346!3e2?entry=ttu" title="Location & directions to venue (8 min walk)." >}}*
