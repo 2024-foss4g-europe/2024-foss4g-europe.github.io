@@ -37,26 +37,9 @@ View the [preliminary agenda below](#agenda).
 **Co-organized with [FOSS4G Europe: 1-7 July,
 2024](https://2024.europe.foss4g.org/).**
 
-The European IT landscape is changing rapidly. Several initiatives are
-underway, such as developing Data Spaces and Digital Twins, supporting
-the Green Deal, or otherwise trying to integrate the largely
-heterogeneous IT landscape. What do these mean for the leading
-challenges of our century? How can these predominantly technologically
-oriented efforts help with climate change and disaster resilience? Do
-they support Land Degradation Neutrality?
+OGC Innovation Days Europe seeks to address stakeholders’ and policymakers’ need for digital solutions that can meet their requirements efficiently and in a user-friendly way. To this end, the event will bring internationally leading software development and data management experts together with non-technical experts – such as urban planners, policy makers, economists, and other beneficiaries of geospatial information – to exchange information and learn from each other. The stakeholders’ needs will be discussed and understood in depth while newly developed prototypes will be presented.
 
-The OGC Innovation Days Europe connects the technological aspects with
-the equally important aspects of governance and policy and thus fills a
-critical gap: **The event provides a platform to discuss how the current
-technical efforts can be combined with the necessary governance and
-policy aspects.** What decision processes do we need? What agreements
-are required for efficient decision processes or homogeneous reporting
-models, for example, for climate change or Land Degradation Neutrality? 
-
-OGC Innovation Days Europe addresses the requirements of multiple
-stakeholders and policymakers for digital solutions that meet various
-needs efficiently and in a user-friendly way. OGC co-organizes the
-Innovation Days with the
+OGC is co-organizing Innovation Days Europe with the
 **{{<
     extlink href="https://www.geosa.gov.sa/En"
     title="General Authority for Survey and Geospatial Information (GEOSA, Saudi Arabia)"
@@ -64,30 +47,14 @@ Innovation Days with the
     rel="noopener noreferrer"
 >}}**
 and [**FOSS4G Europe 2024**](https://2024.europe.foss4g.org/).
-The event brings the internationally leading
-software development and data management experts together with
-non-technical experts to exchange information and learn from each other.
-The Stakeholders' needs will be discussed and understood in depth while
-newly developed prototypes will be presented and trained.
+
+**OGC Innovation Days Europe provides a platform to discuss how current technical efforts can be combined effectively with the necessary governance and policy aspects.** What decision processes do we need? What agreements are required for efficient decision processes or homogeneous reporting models for, for example, Climate Change or Land Degradation Neutrality?
 
 ##### Thematic focus: Climate and Disaster Resilience, One Health, and Global Stocktake
 
-Achieving climate and disaster resilience and sustainability requires
-reliable location information on the environment, land, and climate.
-Generating this information dedicated to the users' needs is
-challenging. It needs highly optimized spatial data infrastructures and
-climate resilience information systems operated within a targeted policy
-framework and driven by an efficient policy model. Interoperable data
-pipelines and well-organized data spaces with their data assessment
-applications, combined with analysis, visualization, and reporting
-tools, are required to gain the knowledge to enroll climate strategies
-and actions.
+Achieving climate and disaster resilience and sustainability requires reliable location information on the environment, land, and climate. Generating this information dedicated to the users’ needs is challenging. It needs highly optimized spatial data infrastructures and climate resilience information systems operated within a targeted policy framework and driven by an efficient policy model. Interoperable data pipelines and well-organized data spaces with their data assessment applications, combined with analysis, visualization, and reporting tools, are required to gain the knowledge to enroll climate strategies and actions.
 
-With the thematic focus on land and climate, the OGC European Innovation
-Days will foster dialogue between technical experts, decision-makers,
-and policy experts. Particular emphasis is on public health, land
-degradation neutrality, global stocktake, the role of data spaces, and
-the need for modernized data exchange and analysis environments: 
+OGC Innovation Days Europe will foster a dialogue between technical experts, decision-makers, and policy experts, with a focus on one health, land degradation neutrality, the role of data spaces, and the need for modernized knowledge exchange and analysis environments:
 
 -   The public increasingly requires a collaborative, multi-sectoral,
     and transdisciplinary local-to-global perspective. The
@@ -132,16 +99,7 @@ refine the identified requirements for the dataspaces to enhance the
 information and knowledge exchange on scientific, technical, and policy
 levels. 
 
-The OGC Innovation Days results will help make future systems more
-efficient. The event contributes to shifting the focus from a
-technology-oriented approach to a holistic approach. This approach takes
-a much better account of the various needs of the stakeholders involved.
-Focusing on the needs of the different stakeholders is crucial to the
-success of the current work. This event will identify these needs and
-thus make an essential contribution to improving the direction of future
-technological developments, operational setups driven by efficient
-governance models, and all operating within a solution-oriented policy
-framework.
+OGC Innovation Days Europe supports the shift in IT solutions from being purely technology-oriented to a more holistic approach that better accounts for the various needs of the stakeholders. The event will identify these needs and thus make an essential contribution to improving the direction of future technological developments, supporting operational setups that are driven by efficient governance models and that operate within a solution-oriented policy framework.
 
 <a name="agenda"></a>
 **Preliminary Agenda**:
