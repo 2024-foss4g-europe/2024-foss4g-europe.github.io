@@ -54,7 +54,7 @@ and [**FOSS4G Europe 2024**](https://2024.europe.foss4g.org/).
 
 Achieving climate and disaster resilience and sustainability requires reliable location information on the environment, land, and climate. Generating this information dedicated to the users’ needs is challenging. It needs highly optimized spatial data infrastructures and climate resilience information systems operated within a targeted policy framework and driven by an efficient policy model. Interoperable data pipelines and well-organized data spaces with their data assessment applications, combined with analysis, visualization, and reporting tools, are required to gain the knowledge to enroll climate strategies and actions.
 
-OGC Innovation Days Europe will foster a dialogue between technical experts, decision-makers, and policy experts, with a focus on one health, land degradation neutrality, the role of data spaces, and the need for modernized knowledge exchange and analysis environments:
+OGC Innovation Days Europe will foster a dialogue between technical experts, decision-makers, and policy experts, with a focus on climate & disaster resilience, one health, the role of data spaces, and the need for modernized knowledge exchange and analysis environments:
 
 -   The public increasingly requires a collaborative, multi-sectoral,
     and transdisciplinary local-to-global perspective. The
