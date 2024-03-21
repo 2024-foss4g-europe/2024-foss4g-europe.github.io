@@ -34,7 +34,7 @@ participation by purchasing a ticket **before 25 June 2024** the latest.
 
 Registration fee includes:
 
-- Workshops (1 & 2 June)  
+- Workshops (1 & 2 July)  
 Workshops are held in 4-hour / 2-hour formats. Experienced community members guide
 participants in a hands-on manner through the secrets of the presented project.
 Everyone is invited to use their own computer. Lunch is provided during the
