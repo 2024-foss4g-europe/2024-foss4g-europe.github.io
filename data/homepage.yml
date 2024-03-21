@@ -310,12 +310,16 @@ sponsors:
     - name : "Gis3W"
       logo : "images/sponsors/gis3w-logo.png"
       link : "./sponsors/silver/gis3w/"
+    - name : "OPENGIS.ch"
+      logo : "images/sponsors/opengisch.png"
+      link : "./sponsors/silver/opengisch/"
     - name : "MapTiler"
       logo : "images/sponsors/maptiler-logo-vertical.png"
       link : "./sponsors/silver/maptiler/"
     - name : "Mergin Maps"
       logo : "images/sponsors/mergin-maps-logo.png"
       link : "./sponsors/silver/mergin-maps/"
+
 
   - name : "Bronze"
     sponsor_item:
