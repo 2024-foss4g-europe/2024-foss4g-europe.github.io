@@ -319,6 +319,9 @@ sponsors:
     - name : "Mergin Maps"
       logo : "images/sponsors/mergin-maps-logo.png"
       link : "./sponsors/silver/mergin-maps/"
+    - name : "EnviroSolutions"
+      logo : "images/sponsors/envirosolutions-resize.png"
+      link : "./sponsors/silver/envirosolutions/"
 
 
   - name : "Bronze"
