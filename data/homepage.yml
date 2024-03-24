@@ -345,3 +345,9 @@ sponsors:
     - name : "GISWorld"
       logo : "images/partners/gisworld.png"
       link : "./partners/gisworld/"
+
+  - name : "Innovation Days partner"
+    sponsor_item:
+    - name : "Open Geospatial Consortium"
+      logo : "images/partners/OGC-Blue-Horizontal-Lockup-Trimmed.png"
+      link : "./partners/ogc/"
