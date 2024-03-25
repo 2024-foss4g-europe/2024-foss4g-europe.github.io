@@ -19,6 +19,8 @@ Date & time: July 1, 2024 9:00 am --- July 2, 2024 5:30 pm
 
 ##### Location
 
+Riia 23b (Omicum building) 
+
 Tartu, Estonia
 
 View the [preliminary agenda below](#agenda).
