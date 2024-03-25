@@ -310,12 +310,19 @@ sponsors:
     - name : "Gis3W"
       logo : "images/sponsors/gis3w-logo.png"
       link : "./sponsors/silver/gis3w/"
+    - name : "OPENGIS.ch"
+      logo : "images/sponsors/opengisch.png"
+      link : "./sponsors/silver/opengisch/"
     - name : "MapTiler"
       logo : "images/sponsors/maptiler-logo-vertical.png"
       link : "./sponsors/silver/maptiler/"
     - name : "Mergin Maps"
       logo : "images/sponsors/mergin-maps-logo.png"
       link : "./sponsors/silver/mergin-maps/"
+    - name : "EnviroSolutions"
+      logo : "images/sponsors/envirosolutions-resize.png"
+      link : "./sponsors/silver/envirosolutions/"
+
 
   - name : "Bronze"
     sponsor_item:
@@ -338,3 +345,9 @@ sponsors:
     - name : "GISWorld"
       logo : "images/partners/gisworld.png"
       link : "./partners/gisworld/"
+
+  - name : "Innovation Days partner"
+    sponsor_item:
+    - name : "Open Geospatial Consortium"
+      logo : "images/partners/OGC-Blue-Horizontal-Lockup-Trimmed.png"
+      link : "./partners/ogc/"
