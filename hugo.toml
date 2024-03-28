@@ -437,3 +437,8 @@ link = "https://www.linkedin.com/company/foss4g-europe"
 title = "facebook"
 icon = "fa-facebook"
 link = "https://www.facebook.com/events/783688126985977"
+
+[[params.social]]
+title = "telegram"
+icon = "fa-telegram"
+link = "https://t.me/foss4g_europe"
