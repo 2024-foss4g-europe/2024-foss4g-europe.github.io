@@ -171,7 +171,7 @@ weight = 5
   [[menu.main]]
     weight = 4
     parent = "Schedule"
-    name = "Business-to-business"
+    name = "Business-to-business (B2B)"
     url = "schedule/b2b/"
 
   [[menu.main]]
@@ -204,11 +204,11 @@ weight = 5
     name = "Social Bytes"
     url = "schedule/social-bytes/"
 
-#  [[menu.main]]
-#    weight = 10
-#    parent = "Schedule"
-#    name = "Birds of a Feather"
-#    url = "schedule/bof/"
+  [[menu.main]]
+    weight = 10
+    parent = "Schedule"
+    name = "Birds of a Feather (BoF)"
+    url = "schedule/bof/"
 
 #  [[menu.main]]
 #    weight = 11
