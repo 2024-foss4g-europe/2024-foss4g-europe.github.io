@@ -18,7 +18,7 @@ banner:
 ################# About ###################
 about:
   enable : true
-  title : "About FOSS4GE"
+  title : "About _FOSS4GE_"
   image : "images/speakers/featured-speaker.png"
   content : "The FOSS4GE conference, a European extension of the Open Source Geospatial Foundation (OSGeo) annual event, connects professionals in the geoinformation software realm. OSGeo, as an international association, emphasizes geoinformatics, cartography, and open standards, fostering data sharing, collaboration, and innovative problem-solving across various domains.
 <br><br>
@@ -35,9 +35,9 @@ This conference series, initially known as FOSS/GRASS User Conference and later 
 
 ################# Speaker ###################
 speakers:
-  enable : false
-  title : "Who _Speaking?_"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
+  enable : true
+  title : "With _keynotes_ by"
+  content : ""
   # speaker items are coming from "content/speakers" folder
 
 ###################### Tab ####################
