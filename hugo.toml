@@ -352,7 +352,7 @@ hasChildren = true
 [[menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 6
+weight = 8
 
 
 
