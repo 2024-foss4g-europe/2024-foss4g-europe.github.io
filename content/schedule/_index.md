@@ -49,7 +49,7 @@ layout : "single"
     </tbody>
     </table>
     <br><br>
-    <div><h5>The full program will be published on the 31st of March.</h5></div>
+    <div>You can explore the agenda by clicking through the items above.</div>
 </div>
 </section>
 

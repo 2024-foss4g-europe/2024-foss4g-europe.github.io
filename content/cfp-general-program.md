@@ -32,10 +32,7 @@ layout: "single"
 </center-->
 <hr>
 
-The community vote for the general program was open 12 February - 25 February
-2024, and is now closed.
-
-The accepted talks will be published soon.
+We're go! The [**general program preliminary schedule is available**](../schedule/talks/)
 
 <hr>
 

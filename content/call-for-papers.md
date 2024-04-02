@@ -13,15 +13,17 @@ layout: "single"
 ### Call for academic program submissions
 27 November 2023 - ~~11 February~~ 25 February 2024
 
-Academic program abstracts review is under way. Stay tuned for accepted papers
-announcement.
+The submissions review was 25 February - ~~3 March~~ 17 March 2024, and is now done.
+
+Academic program abstracts have been reviewed. Stay tuned for the preliminary
+schedule release.
 
 ### Call for general program submissions
 The call was open between 27 November 2023 - 11 February 2024, and is now closed.
 
 The community vote was open 12 February - 25 February 2024, and is now closed.
 
-The accepted talks will be published soon.
+The [**preliminary talks schedule is available**](../schedule/talks/)
 
 ### Call for workshops submissions
 The call was open between 27 November 2023 - 14 January 2024, and is now closed.
