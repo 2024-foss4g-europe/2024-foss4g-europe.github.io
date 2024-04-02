@@ -31,8 +31,8 @@ layout: "single"
 
 <hr>
 
-Academic program abstracts review is under way. Stay tuned for accepted papers
-announcement.
+Academic program abstracts have been reviewed. Stay tuned for the preliminary
+schedule release.
 
 <hr>
 
