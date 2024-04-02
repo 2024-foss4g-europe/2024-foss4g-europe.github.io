@@ -320,11 +320,6 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Venue"
-  name = "Attendee guidelines"
-  url = "attendee-guidelines/"
-
-  [[menu.main]]
-  parent = "Venue"
   name = "Tartu 2024 - European Capital of Culture"
   url = "tartu2024/"
 
