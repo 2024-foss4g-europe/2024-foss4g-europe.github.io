@@ -569,7 +569,7 @@ icon = "pubcrawl"
 name = "Pub Crawl"
 title = "Illegaard"
 img = "images/map-icons/illegaard.png"
-address = "Rüütli 8"
+address = "Ülikooli 5"
 location = [58.379488, 26.722369]
 icon = "pubcrawl"
 
@@ -577,7 +577,7 @@ icon = "pubcrawl"
 name = "Pub Crawl"
 title = "Pühaste kelder"
 img = "images/map-icons/pyhaste.png"
-address = "Rüütli 8"
+address = "Rüütli 11"
 location = [58.3813, 26.7219]
 icon = "pubcrawl"
 
