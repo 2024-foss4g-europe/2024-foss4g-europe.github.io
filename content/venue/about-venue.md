@@ -10,7 +10,7 @@ layout: "single"
 The venue of the conference will be the home of the **{{< extlink href="https://www.google.ee/maps/place/Vanemuise+46,+51003+Tartu/@58.3733544,26.7137036,17z/data=!3m1!4b1!4m6!3m5!1s0x46eb371f97e64209:0x24e032d9e4eb774d!8m2!3d58.3733544!4d26.7162785!16s%2Fg%2F11_s7r940?entry=ttu" title="UT Department of Geography at Vanemuise 46, Tartu." >}}**
 
 {{< figure
-    src="../images/venue.jpg"
+    src="../../images/venue.jpg"
     alttext="Venu"
     width="100%"
     caption="_Venue of the conference. ©Andres Tennus via Department of Geography_"
@@ -25,7 +25,7 @@ With a population of 100K it is the second largest city in Estonia, and home to 
 Tartu is also home to the Ministry of Education and Research, the Estonian National Museum, the Supreme Court of Estonia, and theater Vanemuine - the oldest Estonian-language theaters in Estonia. Tartu is also the focal point of Estonia’s active technology sector as well as a hotbed of IT development and start-ups.
 
 {{< figure
-    src="../images/tartu.jpg"
+    src="../../images/tartu.jpg"
     alttext="Venu"
     width="100%"
     caption="_[**Aerial view to the city centre. ©Kaarel Kõvatu**](https://www.flickr.com/photos/visittartu/51705638126/in/album-72157720176411983/) via [**visittartu.com**](https://visittartu.com/en)_"
@@ -39,12 +39,12 @@ At every corner in Tartu, there are concert venues, exhibition halls, theaters, 
 In 2024, Tartu will be one of the European Capitals of Culture, so we expect a
 lot to be happening in the city in the weeks leading up to, during, and after
 FOSS4G Europe 2024. Some of the hand-picked activities by the LOC are
-available [**HERE**](../tartu2024/)
+available [**HERE**](../../tartu2024/)
 
 
 ### About Estonia
 
-- The Republic of Estonia is situated in Northern Europe along the Baltic Sea and has approximately 1.3 million inhabitants. 
+- The Republic of Estonia is situated in Northern Europe along the Baltic Sea and has approximately 1.3 million inhabitants.
 - The official language is Estonian.
 - Estonia has a membership in the European Union, Schengen area, WTO, NATO and OECD.
 - Currency is euro (since 2011)
