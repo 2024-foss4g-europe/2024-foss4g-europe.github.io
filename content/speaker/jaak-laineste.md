@@ -3,7 +3,7 @@ title : "Jaak Laineste"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2024-03-30T17:40:24+02:00
 designation: ""
-image: "images/team/generic.jpg"
+image: "images/speakers/Jaak_Laineste.jpeg"
 draft : false
 social:
 - name: "facebook"
