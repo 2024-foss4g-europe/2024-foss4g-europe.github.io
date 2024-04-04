@@ -263,6 +263,26 @@ hasChildren = true
  name = "Venue"
  hasChildren = true
 
+    [[menu.main]]
+    parent = "Venue"
+    name = "About Venue"
+    url = "venue/about-venue/"
+
+   [[menu.main]]
+   parent = "Venue"
+   name = "Accommodation"
+   url = "venue/accommodation/"
+
+   [[menu.main]]
+   parent = "Venue"
+   name = "Getting to Tartu"
+   url = "venue/getting-to-tartu/"
+
+   [[menu.main]]
+   parent = "Venue"
+   name = "Tartu 2024 - European Capital of Culture"
+   url = "venue/tartu2024/"
+
   [[menu.main]]
   weight = 1
   parent = "Call for papers"
@@ -283,11 +303,6 @@ hasChildren = true
   parent = "Call for papers"
   name = "Academic program"
   url = "cfp-academic-program"
-
-  [[menu.main]]
-  parent = "Venue"
-  name = "Accommodation"
-  url = "accommodation/"
 
   [[menu.main]]
   parent = "About"
@@ -312,22 +327,6 @@ hasChildren = true
   name = "Organizing committee"
   url = "team/"
   weight = 3
-
-  [[menu.main]]
-  parent = "Venue"
-  name = "Getting to Tartu"
-  url = "getting-to-tartu/"
-
-  [[menu.main]]
-  parent = "Venue"
-  name = "Tartu 2024 - European Capital of Culture"
-  url = "tartu2024/"
-
-
-  [[menu.main]]
-  parent = "Venue"
-  name = "About Venue"
-  url = "about-venue/"
 
 #  [[menu.main]]
 #  parent = "Pages"
@@ -388,14 +387,204 @@ link = "https://pretix.eu/foss4ge2024/tartu/"
 # google map
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = 58.3729467
+map_longitude = 26.7167863
+map_zoom = 15
 map_marker = "images/marker.png"
 name = "Department of Geography,<br> University of Tartu"
 location = "Vanemuise 46, Tartu,<br> Estonia."
 email = "info-europe@foss4g.org"
 link = "https://geograafia.ut.ee/en"
+popupTitleTemplate = "<h5 align=\"center\">{title}</h5>"
+popupAddressTemplate = "<div align=\"center\">Address: {address}</div>"
+popupTemplatePrefix = "<ul>"
+popupTemplate = "<li>{name} ({date})</li>"
+popupTemplateUrl = "<li><a href=\"{url}\" target=\"blank\" rel=\"noopener noreferrer\">{name}</a> ({date})</li>"
+popupTemplateSuffix = "</ul>"
+
+[[params.map.icon]]
+type = "fa"
+name = "venue"
+icon = "building-columns"
+markerColor = "#f06a36"
+
+[[params.map.icon]]
+type = "fa"
+name = "social"
+icon = "user-group"
+markerColor = "#f06a36"
+
+[[params.map.icon]]
+type = "fa"
+name = "pubcrawl"
+icon = "martini-glass-empty"
+markerColor = "#f06a36"
+
+[[params.map.icon]]
+type = "fa"
+name = "airport"
+icon = "plane-departure"
+markerColor = "#f06a36"
+
+[[params.map.icon]]
+type = "fa"
+name = "bus"
+icon = "bus"
+markerColor = "#f06a36"
+
+[[params.map.icon]]
+type = "fa"
+name = "train"
+icon = "train"
+markerColor = "#f06a36"
+
+[[params.map.layer]]
+name = "Conference Venues"
+title = "Department of Geography"
+address = "Vanemuise 46"
+location = [58.3734161, 26.7161426]
+icon = "venue"
+events = [
+  {name="Registration desk", date="1-5 July"},
+  {name="Workshops", date="1-2 July", url="./schedule/workshops/"},
+  {name="Parallel sessions", date="3-5 July", url="./schedule/talks/"},
+  {name="Community sprint", date="6-7 July", url="./schedule/community-sprint/"},
+]
+
+[[params.map.layer]]
+name = "Conference Venues"
+title = "Mart Reiniku Building"
+address = "Vanemuise 48"
+location = [58.3727794, 26.7154241]
+icon = "venue"
+events = [
+  {name="Expo area", date="1-5 July"},
+  {name="Catering", date="1-5 July"},
+  {name="B2B", date="2 July", url="./schedule/b2b/"},
+]
+
+[[params.map.layer]]
+name = "Conference Venues"
+title = "Omicum Building"
+address = "Riia 23"
+location = [58.3729187, 26.7178599]
+icon = "venue"
+events = [
+  {name="OGC EUiDays", date="1-2 July", url="./schedule/ogc-euidays/"},
+  {name="Parallel sessions", date="3-5 July", url="./schedule/talks/"},
+]
+
+[[params.map.layer]]
+name = "Arrival Points"
+title = "Train station"
+address = "Vaksali 6"
+location = [58.3738263, 26.7065496]
+icon = "train"
+url = ""
+
+[[params.map.layer]]
+name = "Arrival Points"
+title = "Airport"
+address = "Lennu 44, Reola"
+location = [58.3102139, 26.6907256]
+icon = "airport"
+url = ""
+
+[[params.map.layer]]
+name = "Arrival Points"
+title = "Bus station"
+address = "Turu 2"
+location = [58.3780643, 26.7321921]
+icon = "bus"
+url = ""
+
+[[params.map.layer]]
+name = "Social Events"
+title = "Emajõe Lodjakoda"
+address = "Ujula 98"
+location = [58.3912830, 26.7138550]
+icon = "social"
+events = [
+  {name="Social Bytes", date="4 July", url="./schedule/social-bytes/"},
+]
+
+[[params.map.layer]]
+name = "Social Events"
+title = "City Hall square"
+address = "Raekoja plats 1a"
+location = [58.380139, 26.722391]
+icon = "social"
+events = [
+  {name="City Tour", date="1 and 2 July", url="./schedule/city-tour/"},
+]
+
+[[params.map.layer]]
+name = "Social Events"
+title = "Kultuuriklubi Salong"
+address = "Vanemuise 19"
+location = [58.3762006, 26.7214524]
+icon = "social"
+events = [
+  {name="Geochicas take Tartu!", date="2 July", url="./schedule/geochicas-take-tartu/"},
+]
+
+[[params.map.layer]]
+name = "Social Events"
+title = "Kolm Tilli"
+address = "Kastani 42"
+location = [58.3703996, 26.7165455]
+icon = "social"
+events = [
+  {name="Ice-Breaker", date="3 July", url="./schedule/ice-breaker/"},
+]
+
+[[params.map.layer]]
+name = "Pub Crawl"
+title = "Mülä"
+img = "images/map-icons/myla.png"
+address = "Kroonuaia 76"
+location = [58.386078, 26.721008]
+icon = "pubcrawl"
+
+[[params.map.layer]]
+name = "Pub Crawl"
+title = "Möku"
+img = "images/map-icons/moku.png"
+address = "Magasini 5"
+location = [58.383479, 26.721896]
+icon = "pubcrawl"
+
+[[params.map.layer]]
+name = "Pub Crawl"
+title = "Vein ja Vine"
+img = "images/map-icons/veinjavine.png"
+address = "Rüütli 8"
+location = [58.38115, 26.7217]
+icon = "pubcrawl"
+
+[[params.map.layer]]
+name = "Pub Crawl"
+title = "Illegaard"
+img = "images/map-icons/illegaard.png"
+address = "Rüütli 8"
+location = [58.379488, 26.722369]
+icon = "pubcrawl"
+
+[[params.map.layer]]
+name = "Pub Crawl"
+title = "Pühaste kelder"
+img = "images/map-icons/pyhaste.png"
+address = "Rüütli 8"
+location = [58.3813, 26.7219]
+icon = "pubcrawl"
+
+[[params.map.layer]]
+name = "Pub Crawl"
+title = "Barlova"
+img = "images/map-icons/barlova.jpg"
+address = "Rüütli 8"
+location = [58.369726, 26.727703]
+icon = "pubcrawl"
 
 # cookies
 [params.cookies]
