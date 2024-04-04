@@ -71,7 +71,7 @@
     var titleBits = {{ site.Params.map.popupTitleTemplate }};
     titleBits += {{ .img }} == null ? "": "<div align=\"center\"><img src=\"{src}\" style=\"border-radius:50%;height:96px;border:4px solid black\"></div>";
     titleBits += {{ site.Params.map.popupAddressTemplate }};
-    console.log(titleBits);
+
     var titleBits = L.Util.template(
       titleBits,
       {address:{{ .address }},src:{{ .img| absURL }}, title:{{ .title }}}
