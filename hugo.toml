@@ -584,7 +584,7 @@ name = "Pub Crawl"
 title = "Vein ja Vine"
 img = "images/map-icons/veinjavine.png"
 address = "Rüütli 8"
-location = [58.38115, 26.7217]
+location = [58.38115, 26.72175]
 icon = "pubcrawl"
 url = "https://www.facebook.com/veinjavine/"
 
@@ -594,7 +594,7 @@ name = "Pub Crawl"
 title = "Illegaard"
 img = "images/map-icons/illegaard.png"
 address = "Ülikooli 5"
-location = [58.379488, 26.722369]
+location = [58.37935, 26.7223]
 icon = "pubcrawl"
 url = "https://www.facebook.com/p/Illegaard-100063644106749/"
 
