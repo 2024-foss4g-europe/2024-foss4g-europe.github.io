@@ -399,7 +399,7 @@ popupTitleTemplate = "<h5 align=\"center\">{title}</h5>"
 popupAddressTemplate = "<div align=\"center\">Address: {address}</div>"
 popupTemplatePrefix = "<ul>"
 popupTemplate = "<li>{name} ({date})</li>"
-popupTemplateUrl = "<li><a href=\"{url}\" target=\"blank\" rel=\"noopener noreferrer\">{name}</a> ({date})</li>"
+popupTemplateUrl = "<li><a href=\"{url}\">{name}</a> ({date})</li>"
 popupTemplateSuffix = "</ul>"
 
 [[params.map.icon]]
