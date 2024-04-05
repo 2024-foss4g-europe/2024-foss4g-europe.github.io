@@ -39,13 +39,14 @@
 <!--================================
 =            Google Map            =
 =================================-->
+
 {{ if site.Params.map.enable }}
 {{ with site.Params.map }}
 <section class="map" >
 	<!-- Google Map -->
 
   <div id="map" width="100%" style="height:550px">
-  {{ partial "map.html" }}
+  {{ partial "map.html" $ }}
   </div>
 
 	<div class="address-block" style="position:absolute;z-index:1000">

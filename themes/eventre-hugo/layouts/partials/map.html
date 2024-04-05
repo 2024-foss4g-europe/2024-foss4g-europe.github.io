@@ -22,6 +22,8 @@
   const icons = {};
   const layers = {};
   const layernames = {};
+  const selectId = {{ .Params.map_select_id }} || [];
+  const bounds = [];
 
   {{ range site.Params.map.icon }}
     if ({{ .type }} == "fa") {
@@ -64,9 +66,17 @@
     popUpContent != "" ? {{ site.Params.map.popupTemplatePrefix }} + popUpContent + {{ site.Params.map.popupTemplateSuffix }} : "";
     var marker = L.marker(
       {{ .location }}, {
-        icon:icons[{{ .icon }}]
+        icon:L.AwesomeMarkers.icon({
+          prefix: "fa",
+          icon: icons[{{ .icon }}].options.icon,
+          markerColor: selectId.includes("{{ .id }}") ? icons[{{ .icon }}].options.markerColor || "black" : "gray"
+        })
       }
     ).addTo(layer);
+
+    if (selectId.includes("{{ .id }}")) {
+      bounds.push({{ .location }})
+    }
 
     var titleBits = {{ site.Params.map.popupTitleTemplate }};
     titleBits += {{ .img }} == null ? "": "<div align=\"center\"><img src=\"{src}\" style=\"border-radius:50%;height:96px;border:4px solid black\"></div>";
@@ -89,6 +99,10 @@
     marker.bindPopup(popUpContent);
   {{ end }}
 
+
+  if (bounds.length > 0) {
+    venueMap.flyToBounds(bounds, {maxZoom:15});
+  }
   for (var k in layers) {
     delete Object.assign(layers, {[layernames[k]+" "+k]: layers[k] })[k];
   }
