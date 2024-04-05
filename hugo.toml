@@ -439,6 +439,7 @@ icon = "train"
 markerColor = "#f06a36"
 
 [[params.map.layer]]
+id = 1
 name = "Conference Venues"
 title = "Department of Geography"
 address = "Vanemuise 46"
@@ -452,6 +453,7 @@ events = [
 ]
 
 [[params.map.layer]]
+id = 2
 name = "Conference Venues"
 title = "Mart Reiniku Building"
 address = "Vanemuise 48"
@@ -464,6 +466,7 @@ events = [
 ]
 
 [[params.map.layer]]
+id = 3
 name = "Conference Venues"
 title = "Omicum Building"
 address = "Riia 23"
@@ -475,6 +478,7 @@ events = [
 ]
 
 [[params.map.layer]]
+id = 4
 name = "Arrival Points"
 title = "Train station"
 address = "Vaksali 6"
@@ -483,6 +487,7 @@ icon = "train"
 url = ""
 
 [[params.map.layer]]
+id = 5
 name = "Arrival Points"
 title = "Airport"
 address = "Lennu 44, Reola"
@@ -491,6 +496,7 @@ icon = "airport"
 url = ""
 
 [[params.map.layer]]
+id = 6
 name = "Arrival Points"
 title = "Bus station"
 address = "Turu 2"
@@ -499,6 +505,7 @@ icon = "bus"
 url = ""
 
 [[params.map.layer]]
+id = 7
 name = "Social Events"
 title = "Emajõe Lodjakoda"
 address = "Ujula 98"
@@ -511,6 +518,7 @@ events = [
 
 [[params.map.layer]]
 name = "Social Events"
+id = 8
 title = "City Hall square"
 address = "Raekoja plats 1a"
 location = [58.380139, 26.722391]
@@ -520,6 +528,7 @@ events = [
 ]
 
 [[params.map.layer]]
+id = 9
 name = "Social Events"
 title = "Kultuuriklubi Salong"
 address = "Vanemuise 19"
@@ -531,6 +540,7 @@ events = [
 ]
 
 [[params.map.layer]]
+id = 10
 name = "Social Events"
 title = "Kolm Tilli"
 address = "Kastani 42"
@@ -542,6 +552,7 @@ events = [
 ]
 
 [[params.map.layer]]
+id = 11
 name = "Pub Crawl"
 title = "Mülä"
 img = "images/map-icons/myla.png"
@@ -550,6 +561,7 @@ location = [58.386078, 26.721008]
 icon = "pubcrawl"
 
 [[params.map.layer]]
+id = 12
 name = "Pub Crawl"
 title = "Möku"
 img = "images/map-icons/moku.png"
@@ -558,6 +570,7 @@ location = [58.383479, 26.721896]
 icon = "pubcrawl"
 
 [[params.map.layer]]
+id = 13
 name = "Pub Crawl"
 title = "Vein ja Vine"
 img = "images/map-icons/veinjavine.png"
@@ -566,6 +579,7 @@ location = [58.38115, 26.7217]
 icon = "pubcrawl"
 
 [[params.map.layer]]
+id = 14
 name = "Pub Crawl"
 title = "Illegaard"
 img = "images/map-icons/illegaard.png"
@@ -574,6 +588,7 @@ location = [58.379488, 26.722369]
 icon = "pubcrawl"
 
 [[params.map.layer]]
+id = 15
 name = "Pub Crawl"
 title = "Pühaste kelder"
 img = "images/map-icons/pyhaste.png"
@@ -582,6 +597,7 @@ location = [58.3813, 26.7219]
 icon = "pubcrawl"
 
 [[params.map.layer]]
+id = 16
 name = "Pub Crawl"
 title = "Barlova"
 img = "images/map-icons/barlova.jpg"
