@@ -55,8 +55,11 @@
     }
     var venueEvents = {{ .events }} == null ? [] : {{ .events }};
     for (var i=0;i<venueEvents.length;i++) {
-      var template = venueEvents[i].url === undefined ? {{ site.Params.map.popupTemplate }} : {{ site.Params.map.popupTemplateURL }}
-      venueEvents[i].url = venueEvents[i].url === undefined ? "" : {{ site.BaseURL }} + venueEvents[i].url;
+      var urlTemplate = venueEvents[i].url !== undefined && venueEvents[i].url.startsWith("https") ? {{ site.Params.map.popupTemplateURLExt }} : {{ site.Params.map.popupTemplateURLInt }};
+      var template = venueEvents[i].url === undefined ? {{ site.Params.map.popupTemplate }} : urlTemplate;
+      venueEvents[i].url = venueEvents[i].url === undefined  ? "" : (
+        venueEvents[i].url.startsWith("https") ? venueEvents[i].url : {{ site.BaseURL }} + venueEvents[i].url
+      );
       popUpContent += L.Util.template(
         template,
         venueEvents[i]
@@ -78,13 +81,15 @@
       bounds.push({{ .location }})
     }
 
-    var titleBits = {{ site.Params.map.popupTitleTemplate }};
+    var titleBits = {{ .url }} == null ?
+      {{ site.Params.map.popupTitleTemplate }} :
+      L.Util.template({{ site.Params.map.popupTitleTemplate }}, {title:"<a href=\"{url}\" target=\"blank\" rel=\"noopener noreferrer\">{title}</a>"});
     titleBits += {{ .img }} == null ? "": "<div align=\"center\"><img src=\"{src}\" style=\"border-radius:50%;height:96px;border:4px solid black\"></div>";
     titleBits += {{ site.Params.map.popupAddressTemplate }};
 
     var titleBits = L.Util.template(
       titleBits,
-      {address:{{ .address }},src:{{ .img| absURL }}, title:{{ .title }}}
+      {address:{{ .address }},src:{{ .img| absURL }}, title:{{ .title }}, url:{{ .url }}}
     );
 
     if (popUpContent != "") {
