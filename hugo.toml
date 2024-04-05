@@ -399,7 +399,8 @@ popupTitleTemplate = "<h5 align=\"center\">{title}</h5>"
 popupAddressTemplate = "<div align=\"center\">Address: {address}</div>"
 popupTemplatePrefix = "<ul>"
 popupTemplate = "<li>{name} ({date})</li>"
-popupTemplateUrl = "<li><a href=\"{url}\" target=\"blank\" rel=\"noopener noreferrer\">{name}</a> ({date})</li>"
+popupTemplateUrlInt = "<li><a href=\"{url}\">{name}</a> ({date})</li>"
+popupTemplateUrlExt = "<li><a href=\"{url}\" target=\"blank\" rel=\"noopener noreferrer\">{name}</a> ({date})</li>"
 popupTemplateSuffix = "</ul>"
 
 [[params.map.icon]]
@@ -451,6 +452,7 @@ events = [
   {name="Parallel sessions", date="3-5 July", url="./schedule/talks/"},
   {name="Community sprint", date="6-7 July", url="./schedule/community-sprint/"},
 ]
+url = "https://ut.ee/en/department-geography"
 
 [[params.map.layer]]
 id = 2
@@ -476,6 +478,7 @@ events = [
   {name="OGC EUiDays", date="1-2 July", url="./schedule/ogc-euidays/"},
   {name="Parallel sessions", date="3-5 July", url="./schedule/talks/"},
 ]
+url = "https://tymri.ut.ee/en/content/omicum-gallery"
 
 [[params.map.layer]]
 id = 4
@@ -484,7 +487,7 @@ title = "Train station"
 address = "Vaksali 6"
 location = [58.3738263, 26.7065496]
 icon = "train"
-url = ""
+url = "https://elron.ee/en"
 
 [[params.map.layer]]
 id = 5
@@ -493,7 +496,7 @@ title = "Airport"
 address = "Lennu 44, Reola"
 location = [58.3102139, 26.6907256]
 icon = "airport"
-url = ""
+url = "https://airport.ee/en/tartu-airport/"
 
 [[params.map.layer]]
 id = 6
@@ -502,7 +505,7 @@ title = "Bus station"
 address = "Turu 2"
 location = [58.3780643, 26.7321921]
 icon = "bus"
-url = ""
+url = "https://www.tpilet.ee/en/"
 
 [[params.map.layer]]
 id = 7
@@ -515,6 +518,7 @@ icon = "social"
 events = [
   {name="Social Bytes", date="4 July", url="./schedule/social-bytes/"},
 ]
+url = "https://lodi.ee/en"
 
 [[params.map.layer]]
 name = "Social Events"
@@ -526,6 +530,7 @@ icon = "social"
 events = [
   {name="City Tour", date="1 and 2 July", url="./schedule/city-tour/"},
 ]
+url = "https://visittartu.com/town-hall-square-tartu"
 
 [[params.map.layer]]
 id = 9
@@ -538,6 +543,7 @@ icon = "social"
 events = [
   {name="Geochicas take Tartu!", date="2 July", url="./schedule/geochicas-take-tartu/"},
 ]
+url = "https://www.facebook.com/kultuuriklubiSalong/"
 
 [[params.map.layer]]
 id = 10
@@ -550,6 +556,7 @@ icon = "social"
 events = [
   {name="Ice-Breaker", date="3 July", url="./schedule/ice-breaker/"},
 ]
+url = "https://www.facebook.com/kolmtilli/"
 
 [[params.map.layer]]
 id = 11
@@ -559,6 +566,7 @@ img = "images/map-icons/myla.png"
 address = "Kroonuaia 76"
 location = [58.386078, 26.721008]
 icon = "pubcrawl"
+url = "https://www.facebook.com/mulabaar/"
 
 [[params.map.layer]]
 id = 12
@@ -568,6 +576,7 @@ img = "images/map-icons/moku.png"
 address = "Magasini 5"
 location = [58.383479, 26.721896]
 icon = "pubcrawl"
+url = "https://www.facebook.com/mokubaar/"
 
 [[params.map.layer]]
 id = 13
@@ -575,8 +584,9 @@ name = "Pub Crawl"
 title = "Vein ja Vine"
 img = "images/map-icons/veinjavine.png"
 address = "Rüütli 8"
-location = [58.38115, 26.7217]
+location = [58.38115, 26.72175]
 icon = "pubcrawl"
+url = "https://www.facebook.com/veinjavine/"
 
 [[params.map.layer]]
 id = 14
@@ -584,8 +594,9 @@ name = "Pub Crawl"
 title = "Illegaard"
 img = "images/map-icons/illegaard.png"
 address = "Ülikooli 5"
-location = [58.379488, 26.722369]
+location = [58.37935, 26.7223]
 icon = "pubcrawl"
+url = "https://www.facebook.com/p/Illegaard-100063644106749/"
 
 [[params.map.layer]]
 id = 15
@@ -595,6 +606,7 @@ img = "images/map-icons/pyhaste.png"
 address = "Rüütli 11"
 location = [58.3813, 26.7219]
 icon = "pubcrawl"
+url = "https://www.facebook.com/karlovabarlova/"
 
 [[params.map.layer]]
 id = 16
@@ -604,6 +616,7 @@ img = "images/map-icons/barlova.jpg"
 address = "Tähe 29"
 location = [58.369726, 26.727703]
 icon = "pubcrawl"
+url = "https://www.facebook.com/karlovabarlova/"
 
 # cookies
 [params.cookies]
