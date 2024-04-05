@@ -2,6 +2,7 @@
 title: "OGC Innovation Days Europe"
 page_header_bg: "images/background/page-title-bg.jpg"
 date: 2024-03-01T13:53:24+02:00
+map_select_id: [3]
 image: "images/iDays-EU-2024.jpg"
 draft: false
 layout: "single"
@@ -19,7 +20,7 @@ Date & time: July 1, 2024 9:00 am --- July 2, 2024 5:30 pm
 
 ##### Location
 
-Riia 23b (Omicum building) 
+Riia 23b (Omicum building)
 
 Tartu, Estonia
 
