@@ -72,12 +72,12 @@
         icon:L.AwesomeMarkers.icon({
           prefix: "fa",
           icon: icons[{{ .icon }}].options.icon,
-          markerColor: selectId.includes("{{ .id }}") ? icons[{{ .icon }}].options.markerColor || "black" : "gray"
+          markerColor: (selectId.includes({{ .id }}) || selectId.includes("{{ .id }}")) ? icons[{{ .icon }}].options.markerColor || "black" : "gray"
         })
       }
     ).addTo(layer);
 
-    if (selectId.includes("{{ .id }}")) {
+    if (selectId.includes({{ .id }}) || selectId.includes("{{ .id }}")) {
       bounds.push({{ .location }})
     }
 
