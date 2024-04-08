@@ -2,6 +2,7 @@
 title: "Social Bytes"
 page_header_bg: "images/background/page-title-bg.jpg"
 date: 2024-02-29T16:54:24+06:00
+map_select_id: [7]
 image: "images/lodjakoda.jpg"
 draft: false
 layout: "single"
@@ -36,7 +37,7 @@ comfortably.
 >}}
 
 We are also honoured to introduce the performer of the night who is an Estonian folk-rock band called **{{< extlink href="https://www.youtube.com/@Zetod" title="Zetod" >}}**!    
-Zetod is a musical phenomenon born in Värska in 2003 as a youth band under the guidance of Kristjan Priks, a graduate of the Viljandi Academy of Culture's folk music major. The idea of getting young Seto boys to make pop-rock in the key of their own culture was exciting at the time and has brought this group to the top today, which has brought many awards and recognition. The ensemble, which has released seven studio albums, celebrated its 20th anniversary in 2023. 
+Zetod is a musical phenomenon born in Värska in 2003 as a youth band under the guidance of Kristjan Priks, a graduate of the Viljandi Academy of Culture's folk music major. The idea of getting young Seto boys to make pop-rock in the key of their own culture was exciting at the time and has brought this group to the top today, which has brought many awards and recognition. The ensemble, which has released seven studio albums, celebrated its 20th anniversary in 2023.
 Zetod composition:
 - Jalmar Vabarna
 - Matis Leima

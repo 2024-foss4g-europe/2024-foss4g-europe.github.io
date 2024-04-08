@@ -25,7 +25,7 @@ and survival skills. There is a varied program of over 300 events throughout the
 year.
 
 {{< figure
-    src="../images/tartu2024.jpg"
+    src="../../images/tartu2024.jpg"
     alttext="Tartu"
     width="100%"
     caption="[**Tartu 2024 Team and Town Hall © Kiur Kaasik**](https://www.flickr.com/photos/visittartu/51706526710/in/album-72157720176411983/) via [**visittartu.com**](https://visittartu.com/)"
@@ -65,7 +65,7 @@ during the festival. More information on
 
 
 {{< figure
-    src="../images/stencibility.jpg"
+    src="../../images/stencibility.jpg"
     alttext="Stencibility"
     width="100%"
     caption="Tartu street art via [**tartu2024.ee**](https://tartu2024.ee/en/programme/stencibility-tanavakunsti-festival-2024-1-2/)"
@@ -111,7 +111,7 @@ Tickets available from
 >}}**
 
 {{< figure
-    src="../images/genialistid-last-show-banner.jpg"
+    src="../../images/genialistid-last-show-banner.jpg"
     alttext="Genialistid last show. Ever."
     width="100%"
     caption="Poster for Genialistid last show. Received in e-mail from and used by permission of the band."
@@ -149,7 +149,7 @@ to be an unforgettable evening of music and entertainment. More information:
 >}}**
 
 {{< figure
-    src="../images/BryanAdams.jpg"
+    src="../../images/BryanAdams.jpg"
     alttext="Bryan Adamas"
     width="100%"
     caption="Bryan Adams concert poster via [**tartu2024.ee**](https://tartu2024.ee/en/programme/bryan-adams-tartu-lauluvaljak-1-2/)"
