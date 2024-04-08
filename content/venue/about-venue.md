@@ -18,7 +18,8 @@ All the other venues for the social events can be found from the interactive map
 
 
 {{< figure
-    src="../images/venue_map.png"
+    src="../../images/venue_map_small.png"
+    link="../../images/venue_map.png"
     alttext="Venue"
     width="100%"
     caption="_Map of the conference venue. Map by Pamela Guaman Pintado_"
