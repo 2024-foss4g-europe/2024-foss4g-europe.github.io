@@ -16,7 +16,7 @@ layout: "single"
 |:--|-------:|
 | Submission of abstracts: | **4 December 2023 -** ~~11 February~~ **25 February 2024** |
 | Announcement of accepted talks: | ~~3 March~~ **17 March 2024** |
-| Full program: | **31 March 2024** |
+| Full program: | ~~31 March~~ **12 April 2024** |
 | Submission of full academic papers: | **3 May 2024** |
 | Conference: | **3 July - 5 July 2024** |
 
@@ -31,8 +31,8 @@ layout: "single"
 
 <hr>
 
-Academic program abstracts review is under way. Stay tuned for accepted papers
-announcement.
+Academic program abstracts have been reviewed. Stay tuned for the preliminary
+schedule release.
 
 <hr>
 

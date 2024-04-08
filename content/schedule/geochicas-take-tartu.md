@@ -2,7 +2,8 @@
 title: "GeoChicas Take Tartu"
 page_header_bg: "images/background/page-title-bg.jpg"
 date: 2024-02-29T16:52:24+06:00
-image: "images/geochicas-take-tartu.jpg"
+map_select_id: [9]
+image: "images/geochicas_banner.png"
 draft: false
 layout: "single"
 ---
@@ -37,9 +38,9 @@ We’ll try to break the ice and get off to a great start at FOSS4G Europe 2024
 while having fun and doing karaoke! First drink is on us!
 
 {{< figure
-    src="../../images/geochicas-take-tartu.jpg"
+    src="../../images/geochicas_banner.png"
     alttext="GeoChicas take Tartu! banner"
-    link="../../images/geochicas-take-tartu.jpg"
+    link=""
     width="100%"
     target="blank"
     rel="noopener noreferrer"

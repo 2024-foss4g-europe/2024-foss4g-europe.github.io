@@ -34,13 +34,13 @@ h4{
 }
 
 h5{
-	font-size: 1.375rem; //22px	
+	font-size: 1.375rem; //22px
 }
 
 h6{
 	font-size: 1.25rem; //20px
 }
-// Others 
+// Others
 p, li, blockquote, label{
 	font-size: 1rem;
 	line-height: 26px;
@@ -58,8 +58,9 @@ a {
 	}
 }
 
+
 // Placeholder Color Change
-.form-control::-webkit-input-placeholder { 
+.form-control::-webkit-input-placeholder {
     color: darken($light, 30%);
     font-size: 0.9375rem;//15px
  }
