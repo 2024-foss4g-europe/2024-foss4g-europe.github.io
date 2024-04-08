@@ -222,13 +222,6 @@ weight = 5
     name = "Excursion"
     url = "schedule/excursion/"
 
-  [[menu.main]]
-    weight = 13
-    parent = "Schedule"
-    name = "Posters"
-    url = "schedule/posters/"
-
-
 [[menu.main]]
 name = "Sponsors"
 url = "sponsors/"

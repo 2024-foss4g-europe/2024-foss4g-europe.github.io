@@ -2,7 +2,7 @@
 title: "Map Gallery"
 page_header_bg: "images/background/page-title-bg.jpg"
 date: 2024-02-29T16:52:24+06:00
-image: "../../images/posters/PrajwalPramar-FOSS4G.png"
+image: "../images/posters/PrajwalParmar-FOSS4G.png"
 draft: false
 layout: "single"
 ---
@@ -24,9 +24,9 @@ The map is created by using the overlay effect in QGIS. NDWI, NDVI and Urban Fal
     >}} -->
 
 {{< figure
-    src="../../images/posters/PrajwalParmar-FOSS4G.png"
+    src="../images/posters/PrajwalParmar-FOSS4G.png"
     alttext="Venu"
-    link="../../images/posters/PrajwalParmar-FOSS4G.png"
+    link="../images/posters/PrajwalParmar-FOSS4G.png"
     width="100%"
     target="blank"
     rel="noopener noreferrer"
