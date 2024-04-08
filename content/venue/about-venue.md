@@ -7,7 +7,35 @@ draft: false
 layout: "single"
 ---
 
-The venue of the conference will be the home of the **{{< extlink href="https://www.google.ee/maps/place/Vanemuise+46,+51003+Tartu/@58.3733544,26.7137036,17z/data=!3m1!4b1!4m6!3m5!1s0x46eb371f97e64209:0x24e032d9e4eb774d!8m2!3d58.3733544!4d26.7162785!16s%2Fg%2F11_s7r940?entry=ttu" title="UT Department of Geography at Vanemuise 46, Tartu." >}}**
+
+The conference venue is divided between 3 different buildings which are located
+nearby to each other. The main events of the conference (registration,
+workshops, conference sessions and community sprint) take place in
+**Vanemuise 46, the Department of Geography**.
+
+Catering will be divided between 2 other buildings - **Mart Reiniku** and
+**Omicum**, choose the building whichever is more comfortable to you at the
+moment. Omicum building also hosts the
+[**OGC EUiDays**](../../schedule/ogc-euidays/) event on the first 2 days of
+the week.
+
+Mart Reiniku building hosts also the expo area throughout the week and
+[**B2B**](../../schedule/b2b/)
+event on 2 July.
+
+All the other venues for the social events can be found from the interactive
+map from [**the footer of the home page.**](#venueMap)
+
+
+{{< figure
+    src="../../images/venue_map_small.png"
+    link="../../images/venue_map.png"
+    alttext="Venue"
+    width="100%"
+    caption="_Map of the conference venue. Click to see a hi-res version. Map by Pamela Guaman Pintado_"
+    >}}
+
+The venue of the main conference will be the home of the **{{< extlink href="https://www.google.ee/maps/place/Vanemuise+46,+51003+Tartu/@58.3733544,26.7137036,17z/data=!3m1!4b1!4m6!3m5!1s0x46eb371f97e64209:0x24e032d9e4eb774d!8m2!3d58.3733544!4d26.7162785!16s%2Fg%2F11_s7r940?entry=ttu" title="UT Department of Geography at Vanemuise 46, Tartu." >}}**
 
 {{< figure
     src="../../images/venue.jpg"
