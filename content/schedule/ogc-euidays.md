@@ -42,14 +42,7 @@ View the [preliminary agenda below](#agenda).
 
 OGC Innovation Days Europe seeks to address stakeholders’ and policymakers’ need for digital solutions that can meet their requirements efficiently and in a user-friendly way. To this end, the event will bring internationally leading software development and data management experts together with non-technical experts – such as urban planners, policy makers, economists, and other beneficiaries of geospatial information – to exchange information and learn from each other. The stakeholders’ needs will be discussed and understood in depth while newly developed prototypes will be presented.
 
-OGC is co-organizing Innovation Days Europe with the
-**{{<
-    extlink href="https://www.geosa.gov.sa/En"
-    title="General Authority for Survey and Geospatial Information (GEOSA, Saudi Arabia)"
-    target="blank"
-    rel="noopener noreferrer"
->}}**
-and [**FOSS4G Europe 2024**](https://2024.europe.foss4g.org/).
+OGC is co-organizing Innovation Days Europe with [**FOSS4G Europe 2024**](https://2024.europe.foss4g.org/).
 
 **OGC Innovation Days Europe provides a platform to discuss how current technical efforts can be combined effectively with the necessary governance and policy aspects.** What decision processes do we need? What agreements are required for efficient decision processes or homogeneous reporting models for, for example, Climate Change or Land Degradation Neutrality?
 
@@ -119,8 +112,7 @@ OGC Innovation Days Europe supports the shift in IT solutions from being purely 
 |**17:30 -- TBA**    |**Social Program**                             |           |                                 |
 
 <br><br>
-**This event is sponsored by OGC, the General Authority for Survey and
-Geospatial Information, Saudi Arabia, and the European Commission
+**This event is sponsored by OGC and the European Commission
 through the Horizon projects CLINT (GA-101003876), AD4GD (GA-101061001),
 USAGE (GA-101059950), Iliad (GA-101037643), EuroGEOSec (GA-101134335),
 CLIMOS (GA-101057690) and other projects of the Climate-Health
