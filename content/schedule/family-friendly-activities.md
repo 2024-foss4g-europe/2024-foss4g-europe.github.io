@@ -52,7 +52,15 @@ part in film screenings in the unique spherical planetarium and watch science
 theatre performances. It is an attractive learning environment where you are
 bound to learn something new. Most of the exhibits are 'hands-on', so you can
 try everything yourself.<br><br>
-Address: Sadama 1, Tartu
+Address: Sadama 1, Tartu (
+  {{< extlink
+      href="https://www.openstreetmap.org/?mlat=58.37658&mlon=26.73397#map=19/58.37658/26.73397"
+      title="openstreetmap" target="blank" rel="noopener noreferrer">}},
+  {{< extlink
+      href="https://www.google.com/maps/place/SA+Teaduskeskus+AHHAA/@58.375938,26.7366833,17.54z/data=!4m6!3m5!1s0x46eb36deb312c23b:0x9789026e196b238!8m2!3d58.3765763!4d26.7345394!16s%2Fm%2F0j9p30m?entry=ttu"
+      title="googlemaps" target="blank" rel="noopener noreferrer">}}
+)
+
 </div>
 
 #### Ice Age Center
@@ -72,7 +80,14 @@ future? The exhibition offers an overview of the causes of the ice age and its
 impact on Earth, introduces the development story of Estonian nature and human
 settlement, the causes and research of climate change, and the vision of
 liveable environments in the future.<br><br>
-Address: Saadjärve 20, Äksi
+Address: Saadjärve 20, Äksi (
+  {{< extlink
+      href="https://www.openstreetmap.org/?mlat=58.52596&mlon=26.67609#map=19/58.52596/26.67609"
+      title="openstreetmap" target="blank" rel="noopener noreferrer">}},
+  {{< extlink
+      href="https://www.google.com/maps/place/J%C3%A4%C3%A4aja+Keskus+-+Ice+Age+Centre/@58.5256561,26.6736349,17z/data=!3m1!4b1!4m6!3m5!1s0x46eb4ad6cb25105d:0x5e881c29c1882d4f!8m2!3d58.5256561!4d26.6762098!16s%2Fm%2F0wzwmkw?entry=ttu"
+      title="googlemaps" target="blank" rel="noopener noreferrer">}}
+)
 </div>
 
 #### Upside-down House
@@ -91,7 +106,14 @@ cabinets and everything else, that you usually see on the floor, hang from the
 ceiling in the Upside Down House. Actually, they are still on the floor, but
 the floor is the ceiling and the ceiling is the floor and as a matter of fact,
 it is you, who is upside down.<br><br>
-Address: Roosi 86, Tartu
+Address: Roosi 86, Tartu (
+  {{< extlink
+      href="https://www.openstreetmap.org/?mlat=58.39346&mlon=26.74206#map=17/58.39346/26.74206"
+      title="openstreetmap" target="blank" rel="noopener noreferrer">}},
+  {{< extlink
+      href="https://www.google.com/maps/place/Tagurpidi+Maja+(Peapeal+O%C3%9C)/@58.3934455,26.7398419,17z/data=!3m1!4b1!4m6!3m5!1s0x46eb36c1ce498645:0xfac71ebc58b61c3f!8m2!3d58.3934455!4d26.7424168!16s%2Fg%2F11dyznl3w2?entry=ttu"
+      title="googlemaps" target="blank" rel="noopener noreferrer">}}
+)
 </div>
 
 
@@ -111,7 +133,14 @@ everyday life of Estonians throughout history at the permanent exhibition
 There is a restaurant and a museum shop. The outdoor areas of the museum are
 perfect to have a rest and a picnic. There is also a romantic rotunda and a
 glass-roofed distillery on the shores of Lake Raadi.<br><br>
-Address: Muuseumi tee 2, Tartu
+Address: Muuseumi tee 2, Tartu (
+  {{< extlink
+      href="https://www.openstreetmap.org/?mlat=58.39526&mlon=26.74418#map=17/58.39527/26.74418"
+      title="openstreetmap" target="blank" rel="noopener noreferrer">}},
+  {{< extlink
+      href="https://www.google.com/maps/place/Eesti+Rahva+Muuseum/@58.3957606,26.7437258,17z/data=!3m1!4b1!4m6!3m5!1s0x46eb371e0069d991:0x3b484674469f1cea!8m2!3d58.3957606!4d26.7463007!16s%2Fm%2F04n5g7n?entry=ttu"
+      title="googlemaps" target="blank" rel="noopener noreferrer">}}
+)
 </div>
 
 #### Estonian Sports and Olympic Museum
@@ -128,7 +157,14 @@ permanent exhibition "History of Estonian Sports" honestly and attractively
 opens the most interesting moments of our sports history – from big victories
 to painful losses, from heroic deeds to doping dramas. The magnificent Estonian
 Sports Hall of Fame presents the achievements of our sports legends.<br><br>
-Address: Rüütli 15, Tartu
+Address: Rüütli 15, Tartu (
+  {{< extlink
+      href="https://www.openstreetmap.org/?mlat=58.38239&mlon=26.72126#map=19/58.38239/26.72126"
+      title="openstreetmap" target="blank" rel="noopener noreferrer">}},
+  {{< extlink
+      href="https://www.google.com/maps/place/Eesti+Spordi-+ja+Ol%C3%BCmpiamuuseum/@58.3823816,26.7187644,17z/data=!3m1!4b1!4m6!3m5!1s0x46eb36e6e98ee3b7:0x60b9a09e032e5de0!8m2!3d58.3823816!4d26.7213393!16s%2Fm%2F0j_423v?entry=ttu"
+      title="googlemaps" target="blank" rel="noopener noreferrer">}}
+)
 </div>
 
 #### Tartu Toy Museum
@@ -149,5 +185,12 @@ are also open. You can see puppets from Estonian puppet films and temporary
 exhibitions in the outbuilding. The museum also has a theatre building named
 "Teatri kodu" (The Home of Theatre) with a theatre hall, a museum of puppets,
 and a children’s studio.<br><br>
-Address: Lutsu 8, Tartu
+Address: Lutsu 8, Tartu (
+  {{< extlink
+      href="https://www.openstreetmap.org/?mlat=58.38221&mlon=26.71817#map=19/58.38221/26.71817"
+      title="openstreetmap" target="blank" rel="noopener noreferrer">}},
+  {{< extlink
+      href="https://www.google.com/maps/place/Tartu+M%C3%A4nguasjamuuseum/@58.3822288,26.7154847,17z/data=!3m1!4b1!4m6!3m5!1s0x46eb36e6a7b35453:0x4816e4bfcb9690ae!8m2!3d58.3822288!4d26.7180596!16s%2Fm%2F043kzl8?entry=ttu"
+      title="googlemaps" target="blank" rel="noopener noreferrer">}}
+)
 </div>
