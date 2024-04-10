@@ -225,6 +225,12 @@ weight = 5
   [[menu.main]]
     weight = 13
     parent = "Schedule"
+    name = "Family friendly activities"
+    url = "schedule/family-friendly-activities/"
+
+  [[menu.main]]
+    weight = 14
+    parent = "Schedule"
     name = "Pub crawl"
     url = "schedule/pub-crawl/"
 
