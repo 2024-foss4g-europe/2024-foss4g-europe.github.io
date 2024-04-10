@@ -37,7 +37,7 @@ Most of the nightlife is concentrated along Rüütli tn - a car free street in t
 city center with lots of opportunities for outside seating during the summer.
 But there are cosy and welcoming places beyond the immediate center too.
 
-During the conference week these "partner" pubs will be also marked with special FOSS4GE 2024 marking so it's easier to find them on the streets. Feel free to step in and also ask for a custom FOSS4GE conference drink. 
+During the conference week these "partner" pubs will be also marked with special FOSS4GE 2024 signs so it's easier to find them on the streets. Feel free to step in and try to ask for a custom FOSS4GE conference drink. 
 
 ## Mülä
 <div class="double-container">
