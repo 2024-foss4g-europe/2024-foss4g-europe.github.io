@@ -335,6 +335,9 @@ sponsors:
     - name : "QGIS España"
       logo : "images/sponsors/qgises-logo.png"
       link : "./sponsors/supporter/qgises/"
+    - name : "camptocamp"
+      logo : "images/sponsors/camptocamp.svg"
+      link : "./sponsors/supporter/camptocamp/"
 
 
   - name : "Media partners"
