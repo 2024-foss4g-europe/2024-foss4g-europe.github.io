@@ -338,6 +338,9 @@ sponsors:
     - name : "camptocamp"
       logo : "images/sponsors/camptocamp.svg"
       link : "./sponsors/supporter/camptocamp/"
+    - name : "Geolynx"
+      logo : "images/sponsors/geolynx.png"
+      link : "./sponsors/supporter/geolynx/"
 
 
   - name : "Media partners"
