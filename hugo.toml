@@ -134,13 +134,13 @@ weight = 4
   url = "registration/"
 
   [[menu.main]]
-  weight = 2
+  weight = 3
   parent = "Registration"
   name = "Adopt-a-ticket"
   url = "registration/adopt-a-ticket/"
 
   [[menu.main]]
-  weight = 2
+  weight = 4
   parent = "Registration"
   name = "Travel Grant"
   url = "registration/travel-grant/"
