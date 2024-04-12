@@ -8,31 +8,35 @@ layout: "single"
 ---
 
 
+
 |                   |                                  |
 |-----------------------|-----------------------------------------|
-| {{< figure
-    src="../../images/merch/participant_T-shirtcd Doc   .png"
+| <center> {{< figure
+    src="../../images/merch/participant_T-shirt.png"
     alttext="Luubnitsa"
     width="50%"
-    caption="Conference T-shirt"
->}} | {{< figure
+    caption="Conference T-shirt - €20.00 " 
+>}} </center> | <center> {{< figure
     src="../../images/merch/mugs.png"
     alttext="Luubnitsa"
     width="50%"
-    caption="Conference mug"
->}} |
-| {{< figure
+    caption="Conference mug - €15.00 "
+>}} </center> |
+| <center> {{< figure
     src="../../images/merch/hat.png"
     alttext="Luubnitsa"
     width="50%"
-    caption="Conference hat"
->}} | {{< figure
+    caption="Conference hat - €15.00 "
+>}} </center> | <center> {{< figure
     src="../../images/merch/totebag.png"
     alttext="Luubnitsa"
     width="50%"
-    caption="Conference tote bag"
->}} |
+    caption="Conference tote bag - €10.00"
+>}} </center> |
 
+
+Please note that the conference merch can be recieved only at the conference venue in Tartu. The items will not be shipped!
+The last day for purchasing merch is 2 June! After that the orders will be closed!
 
 <center>
     <a href="https://pretix.eu/foss4ge2024/tartu/#category-144729"
