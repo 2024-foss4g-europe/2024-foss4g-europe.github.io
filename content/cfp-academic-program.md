@@ -31,8 +31,15 @@ layout: "single"
 
 <hr>
 
-Academic program abstracts have been reviewed. Stay tuned for the preliminary
-schedule release.
+The Academic track schedule has been relesed and can be viewed as merged
+together with the [**general program schedule**](../schedule/talks/).
+
+**NB!** the Academic track is scheduled to take place on Wednesday and Thursday
+(3-4 July) in Omicum. Please see [**the venue map**](../venue/about-venue/)
+for details.
+
+Also please note, the schedule is still subject to change due to unexpected
+withdrawals as well as rescheduling requests by the authors.
 
 <hr>
 

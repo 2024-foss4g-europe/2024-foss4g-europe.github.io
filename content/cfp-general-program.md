@@ -32,7 +32,10 @@ layout: "single"
 </center-->
 <hr>
 
-We're go! The [**general program preliminary schedule is available**](../schedule/talks/)
+The [**full program schedule is available**](../schedule/talks/)
+
+**NB!** please note, the schedule is still subject to change due to unexpected
+withdrawals as well as rescheduling requests by the authors.
 
 <hr>
 
