@@ -298,7 +298,6 @@ sponsors:
       link : "./sponsors/gold/geocat/"
 
 
-
   - name : "Silver"
     sponsor_item:
     - name : "SunGIS SIA"
@@ -317,7 +316,7 @@ sponsors:
       logo : "images/sponsors/maptiler-logo-vertical.png"
       link : "./sponsors/silver/maptiler/"
     - name : "Mergin Maps"
-      logo : "images/sponsors/mergin-maps-logo.png"
+      logo : "images/sponsors/mergin-maps.png"
       link : "./sponsors/silver/mergin-maps/"
     - name : "EnviroSolutions"
       logo : "images/sponsors/envirosolutions-resize.png"
@@ -329,12 +328,21 @@ sponsors:
     - name : "Septima"
       logo : "images/sponsors/septima-logo-1.png"
       link : "./sponsors/bronze/septima/"
+    - name : "EOX"
+      logo : "images/sponsors/eox.png"
+      link : "./sponsors/bronze/eox/"
 
   - name : "Supporter"
     sponsor_item:
     - name : "QGIS España"
       logo : "images/sponsors/qgises-logo.png"
       link : "./sponsors/supporter/qgises/"
+    - name : "camptocamp"
+      logo : "images/sponsors/camptocamp.svg"
+      link : "./sponsors/supporter/camptocamp/"
+    - name : "Geolynx"
+      logo : "images/sponsors/geolynx.png"
+      link : "./sponsors/supporter/geolynx/"
 
 
   - name : "Media partners"
