@@ -23,8 +23,8 @@ social:
 ---
 
 **{{< extlink href="https://eox.at" title="EOX" target="blank" rel="noopener noreferrer" >}}**
-is a steadily growing geospatial IT company based in Vienna, AT with over 15
-years of experience in the field.<br><br>
+is a steadily growing geospatial IT company based in Vienna, Austria with over
+15 years of experience in the field.<br><br>
 EOX has been involved and supporting the FOSS4G community for several years and
 we are happy to be participating again in the FOSS4GE2024 this summer. We have
 been working to improve community and user experience in various fields and
@@ -36,7 +36,7 @@ workshop by Silvester Pari
 - **{{< extlink href="https://talks.osgeo.org/foss4g-europe-2024/talk/CZTZ3F/" title="Scalable geospatial processing using dask and mapchete" target="blank" rel="noopener noreferrer" >}}**
 talk by Joachim Ungar & Petr Sevcik
 - **{{< extlink href="https://talks.osgeo.org/foss4g-europe-2024/talk/RNYUNN/" title="View Server - Cloud Native EO Data Access" target="blank" rel="noopener noreferrer" >}}**
-talk by Lubo Dolezal & Fabian Schindler-Strauss ()
+talk by Lubo Dolezal & Fabian Schindler-Strauss
 
 Feel free to get in touch at the conference or start contributing and
 collaborating now
