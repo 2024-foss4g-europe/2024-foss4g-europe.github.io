@@ -296,7 +296,9 @@ sponsors:
     - name : "GeoCat bv"
       logo : "images/sponsors/geocat.svg"
       link : "./sponsors/gold/geocat/"
-
+    - name : "rapidlasso gmbh"
+      logo : "images/sponsors/rapidlasso_lastools_logo.svg"
+      link : "#"
 
 
   - name : "Silver"
@@ -329,6 +331,9 @@ sponsors:
     - name : "Septima"
       logo : "images/sponsors/septima-logo-1.png"
       link : "./sponsors/bronze/septima/"
+    - name : "EOX"
+      logo : "images/sponsors/eox.png"
+      link : "./sponsors/bronze/eox/"
 
   - name : "Supporter"
     sponsor_item:
