@@ -9,7 +9,7 @@ layout: "single"
 
 There are multiple options for additional events during the conference.
 
-See also the page for  **{{< extlink href="https://2024.europe.foss4g.org/tartu2024/" title="Tartu 2024." >}}**
+See also the page for  **[Tartu 2024](../../venue/tartu2024/)**
 
 
 ## FOSS4GE 2024 excursion day to Setomaa (6 July)
