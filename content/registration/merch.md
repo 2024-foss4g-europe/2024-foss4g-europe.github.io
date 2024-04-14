@@ -1,5 +1,5 @@
 ---
-title: "Merchendise"
+title: "Merchandise"
 page_header_bg: "images/background/page-title-bg.jpg"
 date: 2024-03-01T12:55:24+06:00
 image: "images/city-tour.png"
@@ -15,7 +15,7 @@ layout: "single"
     src="../../images/merch/participant_T-shirt.png"
     alttext="Luubnitsa"
     width="50%"
-    caption="Conference T-shirt - €20.00 " 
+    caption="Conference T-shirt - €20.00 "
 >}} </center> | <center> {{< figure
     src="../../images/merch/mugs.png"
     alttext="Luubnitsa"

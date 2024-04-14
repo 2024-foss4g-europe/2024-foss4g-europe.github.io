@@ -148,7 +148,7 @@ weight = 4
   [[menu.main]]
   weight = 2
   parent = "Registration"
-  name = "Merchendise"
+  name = "Merchandise"
   url = "registration/merch/"
 
 [[menu.main]]
