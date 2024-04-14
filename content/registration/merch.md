@@ -42,5 +42,5 @@ The last day for purchasing merch is 2 June! After that the orders will be close
     <a href="https://pretix.eu/foss4ge2024/tartu/#category-144729"
         class="btn btn-primary btn-lg"
         style="padding:15px;margin-top:30px;margin-bottom:30px;margin-right:5px;margin-left:5px">
-    <span>Buy our merchendise</span></a>
+    <span>Buy our merchandise</span></a>
 </center>

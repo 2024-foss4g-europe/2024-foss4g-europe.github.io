@@ -30,7 +30,7 @@ layout : "single"
 **Important note! On site ticket purchase is subject to availability!** We cannot
 guarantee that you can purchase a ticket on site for a specific date. In order
 to secure a spot, and help us plan a successful event, please register your
-participation by purchasing a ticket **before 25 June 2024** the latest.
+participation by purchasing a ticket **before 20 June 2024** the latest.
 
 Registration fee includes:
 
