@@ -3,7 +3,7 @@ title : "LAStools LiDAR Processing - rapidlasso GmbH"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2024-01-14T20:22:24+02:00
 designation: "Gold"
-image: "images/sponsors/rapidlasso_logo.png"
+image: "images/sponsors/rapidlasso_logo.svg"
 draft : false
 type: "sponsor"
 layout: "single"
