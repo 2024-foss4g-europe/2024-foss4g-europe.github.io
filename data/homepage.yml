@@ -296,6 +296,9 @@ sponsors:
     - name : "GeoCat bv"
       logo : "images/sponsors/geocat.svg"
       link : "./sponsors/gold/geocat/"
+    - name : "LAStools LiDAR Processing"
+      logo : "images/sponsors/rapidlasso_lastools_logo.svg"
+      link : "./sponsors/gold/rapidlasso-lastools/"
 
 
   - name : "Silver"
