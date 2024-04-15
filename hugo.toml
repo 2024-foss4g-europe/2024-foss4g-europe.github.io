@@ -278,21 +278,32 @@ hasChildren = true
     parent = "Venue"
     name = "About Venue"
     url = "venue/about-venue/"
+    weight = 1
+
+    [[menu.main]]
+    parent = "Venue"
+    name = "Venue rooms"
+    url = "venue/venue-rooms/"
+    weight = 2
+  
 
    [[menu.main]]
    parent = "Venue"
    name = "Accommodation"
    url = "venue/accommodation/"
+   weight = 3
 
    [[menu.main]]
    parent = "Venue"
    name = "Getting to Tartu"
    url = "venue/getting-to-tartu/"
+   weight = 4
 
    [[menu.main]]
    parent = "Venue"
    name = "Tartu 2024 - European Capital of Culture"
    url = "venue/tartu2024/"
+   weight = 5
 
   [[menu.main]]
   weight = 1
