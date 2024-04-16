@@ -25,3 +25,17 @@ layout : "single"
 ### Full program
 31 March 2024 
 
+---
+
+### End of Early Bird registration
+10 May 2024 
+
+---
+
+### End of online registration
+20 June 2024 
+
+---
+
+### Conference dates
+1 to 7 July 2024
