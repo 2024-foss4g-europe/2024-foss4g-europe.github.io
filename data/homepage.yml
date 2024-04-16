@@ -36,7 +36,7 @@ This conference series, initially known as FOSS/GRASS User Conference and later 
 ################# Speaker ###################
 speakers:
   enable : true
-  title : "With _keynotes_ by"
+  title : "With _**keynotes**_ by"
   content : ""
   # speaker items are coming from "content/speakers" folder
 
