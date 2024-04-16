@@ -319,25 +319,32 @@ hasChildren = true
   parent = "About"
   name = "FAQ"
   url = "faq/"
-  weight = 2
+  weight = 3
 
   [[menu.main]]
   parent = "About"
+  name = "Story of the logo"
+  url = "logo-story/"
+  weight = 1
+
+    [[menu.main]]
+  parent = "About"
   name = "Important dates"
   url = "important-dates/"
-  weight = 1
+  weight = 2
+
 
   [[menu.main]]
   parent = "About"
   name = "Code of Conduct"
   url = "coc/"
-  weight = 2
+  weight = 4
 
   [[menu.main]]
   parent = "About"
   name = "Organizing committee"
   url = "team/"
-  weight = 3
+  weight = 5
 
 #  [[menu.main]]
 #  parent = "Pages"
