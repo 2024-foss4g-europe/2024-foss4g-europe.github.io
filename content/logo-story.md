@@ -1,6 +1,7 @@
 ---
 title: "Story of the logo"
 page_header_bg: "images/background/page-title-bg.jpg"
+description : "How did the conference logo come to be?"
 date: 2024-03-14T15:40:24+06:00
 map_select_id: [1,2,3]
 draft: false
