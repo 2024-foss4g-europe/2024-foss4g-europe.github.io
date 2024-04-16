@@ -33,6 +33,8 @@ layout: "single"
 <div class="double-container">
 {{< figure
     src="../../images/rooms/lobby2.jpg"
+    link="../../images/rooms/lobby2.jpg"
+    target="blank"
     alttext="big auditory"
     class="logo-left"
     width="100%"
@@ -52,6 +54,8 @@ When you enter Vanemuise 46 you will arrive at the lobby of the building. There 
 <div class="double-container">
 {{< figure
     src="../../images/rooms/1.jpg"
+    link="../../images/rooms/1.jpg"
+    target="blank"
     alttext="big auditory"
     class="logo-left"
     width="100%"
@@ -63,6 +67,8 @@ It is the biggest auditory in the building fitting ca 400 people inside. All the
 <div class="double-container">
 {{< figure
     src="../../images/rooms/202_2.jpg"
+    link="../../images/rooms/202_2.jpg"
+    target="blank"
     alttext="computer class"
     class="logo-right"
     width="100%"
@@ -75,6 +81,8 @@ The computer class is hosting workshops on 1 and 2 July. It is located on the le
 <div class="double-container">
 {{< figure
     src="../../images/rooms/246_3.jpg"
+    link="../../images/rooms/246_3.jpg"
+    target="blank"
     alttext="246"
     class="logo-left"
     width="100%"
@@ -94,6 +102,8 @@ The computer class is hosting workshops on 1 and 2 July. It is located on the le
 <div class="double-container">
 {{< figure
     src="../../images/rooms/246_3.jpg"
+    link="../../images/rooms/246_3.jpg"
+    target="blank"
     alttext="246"
     class="logo-right"
     width="100%"
