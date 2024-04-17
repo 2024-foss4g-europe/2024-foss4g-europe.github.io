@@ -457,6 +457,12 @@ name = "train"
 icon = "train"
 markerColor = "#f06a36"
 
+[[params.map.icon]]
+type = "fa"
+name = "familyfirendly"
+icon = "child-reaching"
+markerColor = "#f06a36"
+
 [[params.map.layer]]
 id = 1
 name = "Conference Venues"
@@ -635,6 +641,66 @@ address = "Tähe 29"
 location = [58.369726, 26.727703]
 icon = "pubcrawl"
 url = "https://www.facebook.com/karlovabarlova/"
+
+[[params.map.layer]]
+id = 17
+name = "Family Friendly Activities"
+title = "AHHAA"
+img = "images/map-icons/AHHAA.png"
+address = "Sadama 1"
+location = [58.37658, 26.73397]
+icon = "familyfirendly"
+url = "https://ahhaa.ee/en"
+
+[[params.map.layer]]
+id = 18
+name = "Family Friendly Activities"
+title = "Ice Age Center"
+img = "images/map-icons/jaaajakeskus.png"
+address = "Saadjärve 20, Äksi"
+location = [58.52596, 26.67609]
+icon = "familyfirendly"
+url = "https://jaaaeg.ee/en/"
+
+[[params.map.layer]]
+id = 19
+name = "Family Friendly Activities"
+title = "Upside Down House"
+img = "images/map-icons/tagurpidimaja.png"
+address = "Roosi 86"
+location = [58.39346, 26.74206]
+icon = "familyfirendly"
+url = "https://tagurpidimaja.ee/en"
+
+[[params.map.layer]]
+id = 20
+name = "Family Friendly Activities"
+title = "Estonian National Museum"
+img = "images/map-icons/erm.png"
+address = "Muuseumi tee 2"
+location = [58.39526, 26.74418]
+icon = "familyfirendly"
+url = "https://www.erm.ee/en"
+
+[[params.map.layer]]
+id = 21
+name = "Family Friendly Activities"
+title = "Sports and Olympic Museum"
+img = "images/map-icons/esom.png"
+address = "Rüütli 15"
+location = [58.38239, 26.72126]
+icon = "familyfirendly"
+url = "https://www.spordimuuseum.ee/en"
+
+[[params.map.layer]]
+id = 22
+name = "Family Friendly Activities"
+title = "Tartu Toy Museum"
+img = "images/map-icons/manguasjamuuseum.png"
+address = "Lutsu 8"
+location = [58.38221, 26.71817]
+icon = "familyfirendly"
+url = "https://www.mm.ee/en"
 
 # cookies
 [params.cookies]
