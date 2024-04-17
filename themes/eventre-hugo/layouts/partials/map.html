@@ -5,6 +5,12 @@
       line-height: 0px;
     }
   }
+  .awesome-marker-icon-gray {
+    opacity:0.9;
+    &:hover{
+      opacity:1
+    }
+  }
 </style>
 <script>
   var options={
@@ -73,7 +79,8 @@
           prefix: "fa",
           icon: icons[{{ .icon }}].options.icon,
           markerColor: (selectId.includes({{ .id }}) || selectId.includes("{{ .id }}")) ? icons[{{ .icon }}].options.markerColor || "black" : "gray"
-        })
+        }),
+        riseOnHover: true
       }
     ).addTo(layer);
 
