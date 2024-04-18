@@ -46,7 +46,7 @@ layout: "single"
     alttext="struve arc"
     class="logo-right"
     width="60%"
-    caption="_Source via [Visit Estonia](https://www.visitestonia.com/en/struves-geodetic-arch-unesco-world-heritage)_" >}}
+    caption="_Source: Raivo Aunap_" >}}
 
 - <b>First</b> of them is the <b>{{< extlink href="https://www.visitestonia.com/en/struves-geodetic-arch-unesco-world-heritage" title="Struve's Geodetic Arc" >}}</b> created by Friedrich Georg Wilhelm von Struve who was an astronomer in the University of Tartu in the 19th century. The arc, which is also in the list of <b>UNESCO World Heritage</b>, was the first accurate measurement of a long segment of a meridian, which helped to establish the exact size and shape of the planet. 
 34 of the original measuring points are known to exist, three of those are located in Estonia. In Tartu, the part belonging to Struve meridian arc is the Tartu observatory which also indicates the longitude coordinate on the logo.
