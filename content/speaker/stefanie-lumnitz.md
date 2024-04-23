@@ -4,8 +4,8 @@ page_header_bg : "images/background/page-title-bg.jpg"
 date: 2024-03-30T17:40:24+02:00
 designation: ""
 image: "images/team/Stefanie_Lumnitz.png"
-pretalx: ""
-draft : true
+pretalx: "https://talks.osgeo.org/foss4g-europe-2024/talk/UA9TJT/"
+draft : false
 social:
 - name: "researchgate"
   icon: "fa-brands fa-researchgate"

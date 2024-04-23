@@ -4,7 +4,7 @@ page_header_bg : "images/background/page-title-bg.jpg"
 date: 2024-03-30T17:40:24+02:00
 designation: ""
 image: "images/speakers/Jaak_Laineste.jpeg"
-pretalx: "https://talks.osgeo.org/foss4g-europe-2024/speaker/DPUBDN/"
+pretalx: "https://talks.osgeo.org/foss4g-europe-2024/talk/T3BHRG/"
 draft : false
 social:
 - name: "linkedin"
