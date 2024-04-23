@@ -24,7 +24,11 @@
 						</div>
 					</div>
 					<div class="content text-center">
+						{{ if .Params.pretalx }}
+						<h5><a href="{{ .Params.pretalx | safeURL }}" target="blank">{{.Title }}</a></h5>
+						{{ else }}
 						<h5><a href="{{ .Permalink }}">{{.Title }}</a></h5>
+						{{ end }}
 						<p>{{ .Params.Designation | markdownify }}</p>
 					</div>
 				</div>
