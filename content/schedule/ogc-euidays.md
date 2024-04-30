@@ -100,18 +100,13 @@ OGC Innovation Days Europe supports the shift in IT solutions from being purely 
 <a name="agenda"></a>
 **Preliminary Agenda**:
 
-|                    | Monday 1st July                               |           | Tuesday 2nd July                |
-|--------------------|-----------------------------------------------|-----------|---------------------------------|
-|**09:00 -- 10:30**  |**Opening Ceremony & Keynotes**                |           |**Tools, Gaps, and challenges**  |
-|**10:30 -- 11:00**  |                                               | _Break_   |                                 |
-|**11:00 -- 12:30**  |**Global Policy Frames**                       |           |**Climate and Health**           |
-|**12:30 -- 14:00**  |                                               | _Lunch_   |                                 |
-|**14:00 -- 15:30**  |**Climate and Disaster Resilience**            |           |**Keynotes & Discussions**       |
-|**15:30 -- 16:00**  |                                               | _Break_   |                                 |
-|**16:00 -- 17:30**  |**Spatial Data Infrastructures / Data spaces** |           |**Closing Ceremony**             |
-|**17:30 -- TBA**    |**Social Program**                             |           |                                 |
-
+{{< figure
+    src="../../images/ogc_agenda.png"
+    alttext="Preliminary agenda of the event"
+    width="100%"
+    >}}
 <br><br>
+
 **This event is sponsored by OGC and the European Commission
 through the Horizon projects CLINT (GA-101003876), AD4GD (GA-101061001),
 USAGE (GA-101059950), Iliad (GA-101037643), EuroGEOSec (GA-101134335),
