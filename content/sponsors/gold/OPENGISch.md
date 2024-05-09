@@ -2,7 +2,7 @@
 title : "OPENGIS.ch"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2024-02-28T18:42:24+02:00
-designation: "Silver"
+designation: "Gold"
 image: "images/sponsors/opengisch-resize.png"
 draft : false
 type: "sponsor"
