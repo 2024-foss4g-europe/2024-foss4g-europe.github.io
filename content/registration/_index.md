@@ -8,7 +8,7 @@ draft : false
 layout : "single"
 ---
 
-### The main conference tickets are currently sold out! 
+### The main conference tickets are currently sold out (as at 10.05)! 
 
 We will monitor the situation and announce you of any available tickets right away. Please add yourself to the waiting list if you're still interested to join! You can still purchase other items in the shop (except for the workshops).
 
