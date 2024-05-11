@@ -264,6 +264,12 @@ hasChildren = true
     name = "Our partners"
     url = "partners/"
 
+  [[menu.main]]
+    weight = 4
+    parent = "Sponsors"
+    name = "Honorable mentions"
+    url = "sponsors/honorable-mentions/"
+
 # [[menu.main]]
 # name = "Blog"
 # url = "blog/"

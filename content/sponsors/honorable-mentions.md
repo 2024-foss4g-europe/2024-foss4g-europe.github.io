@@ -15,3 +15,9 @@ securing free entrance to the conference to our
 >}}**, travel grant receivers, and keynoters.
 
 Thank you!
+
+---
+
+Astrid Emde
+
+LonLat OÜ
