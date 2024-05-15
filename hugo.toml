@@ -639,16 +639,6 @@ icon = "pubcrawl"
 url = "https://www.facebook.com/karlovabarlova/"
 
 [[params.map.layer]]
-id = 16
-name = "Pub Crawl"
-title = "Barlova"
-img = "images/map-icons/barlova.jpg"
-address = "Tähe 29"
-location = [58.369726, 26.727703]
-icon = "pubcrawl"
-url = "https://www.facebook.com/karlovabarlova/"
-
-[[params.map.layer]]
 id = 17
 name = "Family Friendly Activities"
 title = "AHHAA"

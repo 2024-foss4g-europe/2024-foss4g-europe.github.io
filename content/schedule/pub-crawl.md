@@ -2,7 +2,7 @@
 title: "Pub Crawl"
 page_header_bg: "images/background/page-title-bg.jpg"
 date: 2024-04-09T09:14:24+03:00
-map_select_id: [11,12,13,14,15,16]
+map_select_id: [11,12,13,14,15]
 draft: false
 layout: "single"
 ---
@@ -139,29 +139,4 @@ Address: Ülikooli 5 (
 Also known as Illekas. In all probability one of the oldest still functioning
 bars in Tartu dating back to times when some of the LOCers were still in
 middle-school. And some where not born yet.
-</div>
-
-
-## Barlova
-<div class="double-container">
-<img class="logo" src="../../images/map-icons/barlova.jpg">
-Address: Tähe 29 (
-  {{< extlink
-      href="https://www.openstreetmap.org/?mlat=58.36970&mlon=26.72776#map=19/58.36970/26.72776"
-      title="openstreetmap" target="blank" rel="noopener noreferrer">}},
-  {{< extlink
-      href="https://www.google.ee/maps/place/Barlova/@58.3697156,26.7251032,17z/data=!3m1!4b1!4m6!3m5!1s0x46eb3726d713aee3:0xbb79df2565748733!8m2!3d58.3697156!4d26.7276781!16s%2Fg%2F11ckw739qs?entry=ttu"
-      title="googlemaps" target="blank" rel="noopener noreferrer">}}
-)<br><br>
-Perfectly representing the spirit of Tartu's artsy
-<b>{{<
-  extlink href="https://et.wikipedia.org/wiki/Karlova"
-  title="Karlova"
-  target="blank"
-  rel="noopener noreferrer">}}</b> neighbourhood
-(Bar + Karlova = Barlova, get it?), this relaxed, little haunt is a vibrant
-cultural place, populated by a great mixture of expats and locals, youngsters
-and grownups. The Italian owner has become somewhat of a local celeb and is
-probably the reason this place serves the best coffee in town. Barlova is
-equally good for a quick pint or a game of Scrabble with friends.
 </div>
