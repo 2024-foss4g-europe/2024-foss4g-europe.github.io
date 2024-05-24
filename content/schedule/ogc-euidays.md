@@ -87,11 +87,28 @@ OGC Innovation Days Europe supports the shift in IT solutions from being purely 
 **Preliminary Agenda**:
 
 {{< figure
-    src="../../images/ogc_agenda.png"
+    src="../../images/ogc/1.png"
     alttext="Preliminary agenda of the event"
     width="100%"
     >}}
+{{< figure
+    src="../../images/ogc/2.png"
+    alttext="Preliminary agenda of the event"
+    width="100%"
+    >}}
+
 <br><br>
+{{< figure
+    src="../../images/ogc/3.png"
+    alttext="Preliminary agenda of the event"
+    width="100%"
+    >}}
+{{< figure
+    src="../../images/ogc/4.png"
+    alttext="Preliminary agenda of the event"
+    width="100%"
+    >}}
+
 
 **This event is sponsored by OGC and the European Commission
 through the Horizon projects CLINT (GA-101003876), AD4GD (GA-101061001),
