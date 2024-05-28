@@ -349,6 +349,9 @@ sponsors:
     - name : "Geolynx"
       logo : "images/sponsors/geolynx.png"
       link : "./sponsors/supporter/geolynx/"
+    - name : "Positium"
+      logo : "images/sponsors/positium.svg"
+      link : "./sponsors/supporter/positium/"
 
 
   - name : "Media partners"
