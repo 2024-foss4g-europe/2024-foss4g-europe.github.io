@@ -35,7 +35,7 @@ layout: "single"
     src="../images/logo_story.png"
     alttext="logo story"
     width="60%"
-    caption="_Two colour versions of the conference logo_"
+    caption="_Two colour versions of the conference logo. CC-BY-ND 4.0 Raivo Aunap_"
     >}}
 
 **FOSS4GE 2024 conference logo** was inspired by the conference venue, the city of **Tartu**. Therefore one can notice different elements that are significant to the city. 
