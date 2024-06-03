@@ -35,7 +35,17 @@ diversity in our communities. First hour is only for women and people
 identifying as women but afterwards everyone is welcome!
 
 We’ll try to break the ice and get off to a great start at FOSS4G Europe 2024
-while having fun and doing karaoke! First drink is on us!
+while having fun and doing karaoke! First drink is on us! If you wish to take part in the event we kindly also ask you to register to the event. **The event is completely free but this way we can plan the activities and food better!**
+
+<center>
+    <a href="https://mobilizon.it/events/2c312e23-8126-4a0d-af50-d13da3c9448b"
+        class="btn btn-primary btn-lg"
+        target="blank" rel="noopener noreferrer"
+        style="padding:32px;margin-top:30px;margin-bottom:30px">
+        <img src="https://2024.europe.foss4g.org/images/icon/ticket.png" alt="Register yourself to the event">
+    <span>Register yourself to the event here!</span></a>
+</center>
+<hr>
 
 {{< figure
     src="../../images/geochicas_banner.png"
