@@ -302,6 +302,9 @@ sponsors:
     - name : "OPENGIS.ch"
       logo : "images/sponsors/opengisch.png"
       link : "./sponsors/gold/opengisch/"
+    - name : "Destination Earth"
+      logo : "images/sponsors/destination_earth.svg"
+      link : "./sponsors/gold/destination-earth/"
 
 
   - name : "Silver"
