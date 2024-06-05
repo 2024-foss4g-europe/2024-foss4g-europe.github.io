@@ -371,3 +371,9 @@ sponsors:
     - name : "Open Geospatial Consortium"
       logo : "images/partners/OGC-Blue-Horizontal-Lockup-Trimmed.png"
       link : "./partners/ogc/"
+
+  - name : "Mobility partner"
+    sponsor_item:
+    - name : "Tartu linn"
+      logo : "images/partners/tartu.svg"
+      link : "https://tartu.ee/en"
