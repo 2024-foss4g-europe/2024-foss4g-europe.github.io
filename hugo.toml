@@ -352,11 +352,11 @@ hasChildren = true
   url = "team/"
   weight = 5
 
-  [[menu.main]]
-  parent = "About"
-  name = "GDPR"
-  url = "gdpr/"
-  weight = 6
+#  [[menu.main]]
+#  parent = "About"
+#  name = "GDPR"
+#  url = "gdpr/"
+#  weight = 6
 
 #  [[menu.main]]
 #  parent = "Pages"
