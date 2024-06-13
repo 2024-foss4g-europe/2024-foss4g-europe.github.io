@@ -105,8 +105,7 @@ Address: Rüütli 11 (
       href="https://www.google.ee/maps/place/P%C3%BChaste+Kelder/@58.3814564,26.7169512,17z/data=!3m1!4b1!4m6!3m5!1s0x46eb37a45060ab45:0xa7b4b775d7d55d9e!8m2!3d58.3814565!4d26.7218221!16s%2Fg%2F11ghsblf8f?entry=ttu"
       title="googlemaps" target="blank" rel="noopener noreferrer">}}
 )<br><br>
-Pühaste Kelder, located in the heart of Tartu, is the representative bar of
-Pühaste Brewery. Here, the freshest IPAs are less than 24 hours old.
+Pühaste Kelder is a craft beer taproom in located in the heart of, proudly serving as the home of the renowned Tartu-based Pühaste brewery. With seating both inside and on the terrace, beer enthusiasts can enjoy a rotating selection of 20 draft beers and several cans and bottles.
 </div>
 
 ## Vein ja Vine
