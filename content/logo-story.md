@@ -38,6 +38,14 @@ layout: "single"
     caption="_Two colour versions of the conference logo. CC-BY-ND 4.0 Raivo Aunap_"
     >}}
 
+**You can download different versions of logos here (.svg format):**
+
+- <a href="/downloads/FOSS4GE_light_logo_with_triangle.svg" download="FOSS4GE_light_logo_with_triangle.svg">Download FOSS4GE light logo with triangle</a>
+- <a href="/downloads/FOSS4GE_dark_logo_with_triangle.svg" download="FOSS4GE_dark_logo_with_triangle.svg">Download FOSS4GE dark logo with triangle</a>
+- <a href="/downloads/FOSS4GE_light_logo_without_triangle.svg" download="FOSS4GE_light_logo_without_triangle.svg">Download FOSS4GE light logo without triangle</a>
+- <a href="/downloads/FOSS4GE_white_inverted_logo.svg" download="FOSS4GE_white_inverted_logo.svg">Download inverted FOSS4GE logo without triangle (white texts for dark bacground)</a>
+
+
 **FOSS4GE 2024 conference logo** was inspired by the conference venue, the city of **Tartu**. Therefore one can notice different elements that are significant to the city. 
 
 <div class="double-container">
