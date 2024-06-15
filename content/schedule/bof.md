@@ -6,6 +6,11 @@ map_select_id: [1]
 draft: false
 layout: "single"
 ---
+
+**Wednesday (3 July), Thursday (4 July)**  
+**18:00 - 19:00**  
+Venue: Vanemuise 46 building
+
 Birds of a Feather (BoF) sessions are unstructured timeslots where people can
 self-organise themselves to discuss topics of interest. So if there's any
 specific topics you'd like to discuss face to face with other people this is

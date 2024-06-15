@@ -284,6 +284,13 @@ hasChildren = true
     parent = "Venue"
     name = "About Venue"
     url = "venue/about-venue/"
+    weight = 1
+
+    [[menu.main]]
+    parent = "Venue"
+    name = "Participant benefits"
+    url = "venue/participant-benefits/"
+    weight = 2
 
    [[menu.main]]
    parent = "Venue"

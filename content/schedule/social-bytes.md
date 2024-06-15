@@ -9,10 +9,19 @@ layout: "single"
 ---
 
 ## Social Bytes
-**Thursday, 4 July 2024**
+**Thursday, 4 July 2024 (19:30 - 01:00)**  
+Address: Ujula 98, Lodjakoda (
+  {{< extlink
+      href="https://www.openstreetmap.org/way/959739436"
+      title="openstreetmap" target="blank" rel="noopener noreferrer">}},
+  {{< extlink
+      href="https://www.google.ee/maps/place/Emaj%C3%B5e+Lodjakoda/@58.3912288,26.7092251,17z/data=!3m1!4b1!4m6!3m5!1s0x46eb36f048131547:0xed477f24be0c03fe!8m2!3d58.3912289!4d26.714096!16s%2Fg%2F11y702dg9?entry=ttu"
+      title="googlemaps" target="blank" rel="noopener noreferrer">}}
+)
+
 
 Social Bytes event is included in the price of the conference ticket!  
-- +1 tickets to the event can be bought in the {{< extlink href="https://pretix.eu/foss4ge2024/tartu/" title="registration shop" >}}.
+- +1 tickets (for your family or friends) to the event can be bought in the {{< extlink href="https://pretix.eu/foss4ge2024/tartu/" title="registration shop" >}}.
 
 For the main party on Thursday evening we will head to _Lodjakoda_ (“Barge hall”)
 for a glimpse of Estonian culture, some food, and beverages. Lodjakoda is a

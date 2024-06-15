@@ -11,7 +11,7 @@ layout: "single"
 FOSS4G Europe 2024 is happy to host the OSGeo community sprint.
 
 Participation is free of charge and anyone involved or interested in getting
-involved in OSGeo community projects is welcome.
+involved in OSGeo community projects is welcome. **Lunch will be provided to the people taking part in the event!**
 
 You can choose to contribute to one or more projects. The sky is the limit.
 There’s always plenty to do - and it’s not all about programming. Translation,
