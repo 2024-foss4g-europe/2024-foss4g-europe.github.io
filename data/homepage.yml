@@ -330,6 +330,9 @@ sponsors:
     - name : "GeoSolutions"
       logo : "images/sponsors/geosolutions.png"
       link : "./sponsors/silver/geosolutions/"
+    - name : "Airbus"
+      logo : "images/sponsors/airbus_2.png"
+      link : "./sponsors/silver/airbus/"
 
 
   - name : "Bronze"
@@ -340,6 +343,9 @@ sponsors:
     - name : "EOX"
       logo : "images/sponsors/eox.png"
       link : "./sponsors/bronze/eox/"
+    - name : "Geobeyond"
+      logo : "images/sponsors/geobeyond_2.png"
+      link : "./sponsors/bronze/geobeyond/"
 
   - name : "Supporter"
     sponsor_item:
