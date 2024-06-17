@@ -52,7 +52,6 @@ Legal Obligation: To comply with legal and regulatory requirements.
 We may share your personal data with:
 
 Service Providers: Third-party vendors who provide services such as payment processing, email distribution, and IT support.
-Partners and Sponsors: Organizations that are partnering with or sponsoring the conference, for purposes related to the event.
 Legal Authorities: When required by law or to protect our rights.
 International Data Transfers
 Your personal data may be transferred to and processed in countries outside the European Economic Area (EEA). We will ensure appropriate safeguards are in place to protect your data in such transfers.
