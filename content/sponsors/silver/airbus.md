@@ -16,10 +16,11 @@ social:
   link: "https://www.linkedin.com/company/airbus-defence-and-space-intelligence/"
 
 ---
+In today's fast paced and changing world, dependable information is essential for decision-making and planning. For 40+ years, it has been our mission at [Airbus Intelligence]((https://intelligence.airbus.com/)) to deliver actionable intelligence so that our customers and partners can respond to their challenges with greater speed and higher certainty.
 
-[**Airbus**](https://intelligence.airbus.com/) pioneers sustainable aerospace for a safe and united world. The Company constantly innovates to provide the most efficient and technologically-advanced solutions in aerospace, defence, and connected services. 
+Advanced satellite imagery, geospatial data and value-added products provide decision-makers with information when and where they need it.
 
-In commercial aircraft, Airbus offers the most modern and fuel-efficient airliners. Airbus is also a European leader in defence and security and one of the world's leading space businesses. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide. 
+Airbus Intelligence operates the most comprehensive constellation of optical and radar Earth observation satellites commercially available today. The precision, accuracy and resolution of our data allows us to process a comprehensive portfolio of high-quality Elevation Models, Basemaps, and Reference Layers to provide you with geospatial information that perfectly matches your needs.
 
 Airbus approaches sustainability by respecting the planet, valuing people and enabling prosperity. These guiding principles are embedded in our operations and activities. In 2022, the Company generated revenues of €58.8 billion and employed a workforce of around 134,000.
 
