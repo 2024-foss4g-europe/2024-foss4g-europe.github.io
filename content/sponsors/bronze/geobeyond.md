@@ -1,7 +1,7 @@
 ---
 title : "Geobeyond"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2024-04-12T16:23:24+03:00
+date: 2024-06-15T17:44:24+03:00
 designation: "Bronze"
 image: "images/sponsors/geobeyond.png"
 draft : false
@@ -21,4 +21,3 @@ social:
   icon: "fa-brands fa-github"
   link: "https://github.com/geobeyond"
 ---
-
