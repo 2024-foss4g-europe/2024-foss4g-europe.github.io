@@ -1,7 +1,7 @@
 ---
 title : "Airbus"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2024-02-26T20:22:24+02:00
+date: 2024-06-15T17:44:24+03:00
 designation: "Silver"
 image: "images/sponsors/airbus.png"
 draft : false
