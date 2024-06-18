@@ -18,9 +18,12 @@ social:
 ---
 In today's fast paced and changing world, dependable information is essential
 for decision-making and planning. For 40+ years, it has been our mission at
-[Airbus Intelligence]((https://intelligence.airbus.com/)) to deliver actionable
-intelligence so that our customers and partners can respond to their challenges
-with greater speed and higher certainty.
+**{{<
+    extlink href="https://intelligence.airbus.com/"
+    title="https://intelligence.airbus.com/"
+    target="blank" rel="noopener noreferrer"
+>}}** to deliver actionable intelligence so that our customers and partners can
+respond to their challenges with greater speed and higher certainty.
 
 Advanced satellite imagery, geospatial data and value-added products provide
 decision-makers with information when and where they need it.
@@ -36,9 +39,3 @@ Airbus approaches sustainability by respecting the planet, valuing people and
 enabling prosperity. These guiding principles are embedded in our operations
 and activities. In 2022, the Company generated revenues of €58.8 billion and
 employed a workforce of around 134,000.
-
-**{{<
-    extlink href="https://intelligence.airbus.com/"
-    title="https://intelligence.airbus.com/"
-    target="blank" rel="noopener noreferrer"
->}}**
