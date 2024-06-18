@@ -25,3 +25,5 @@ LonLat OÜ
 Septima
 
 Nicolas Roelandt
+
+FOSSGIS e.V.
