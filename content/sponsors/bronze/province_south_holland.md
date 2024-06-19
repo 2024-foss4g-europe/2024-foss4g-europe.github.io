@@ -19,9 +19,12 @@ social:
   link: "https://x.com/zuid_holland"
 ---
 
-
-
-The [Province of South-Holland](https://www.zuid-holland.nl/) is proud to
+The
+**{{< extlink
+  href="https://www.zuid-holland.nl/"
+  title="Province of South-Holland"
+  target="blank" rel="noopener noreferrer"
+>}}** is proud to
 sponsor the FOSS4GE 2024, an event that embodies the principles of open-source
 innovation, collaboration, and standardization. As a progressive and dynamic
 region, we recognize the immense value that open-source geospatial technologies
