@@ -346,6 +346,10 @@ sponsors:
     - name : "Geobeyond"
       logo : "images/sponsors/geobeyond_2.png"
       link : "./sponsors/bronze/geobeyond/"
+    - name : "Province of South-Holland"
+      logo : "images/sponsors/province_2.svg"
+      link : "./sponsors/bronze/province_south_holland/"
+      
 
   - name : "Supporter"
     sponsor_item:
