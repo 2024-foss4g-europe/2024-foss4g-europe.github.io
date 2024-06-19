@@ -365,6 +365,9 @@ sponsors:
     - name : "Positium"
       logo : "images/sponsors/positium.svg"
       link : "./sponsors/supporter/positium/"
+    - name : "FOSSGIS e.V"
+      logo : "images/sponsors/fossgis.svg"
+      link : "./sponsors/supporter/fossgis/"
 
 
   - name : "Media partners"
