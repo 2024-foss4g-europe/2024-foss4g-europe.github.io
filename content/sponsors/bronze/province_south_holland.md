@@ -21,7 +21,7 @@ social:
 
 
 
-The Province of South-Holland is proud to sponsor the FOSS4GE 2024, an event that embodies the principles of open-source innovation, collaboration, and standardization. As a progressive and dynamic region, we recognize the immense value that open-source geospatial technologies bring to our communities, businesses, and governments. This event provides a unique platform to explore these technologies and their transformative potential.
+The [Province of South-Holland](https://www.zuid-holland.nl/) is proud to sponsor the FOSS4GE 2024, an event that embodies the principles of open-source innovation, collaboration, and standardization. As a progressive and dynamic region, we recognize the immense value that open-source geospatial technologies bring to our communities, businesses, and governments. This event provides a unique platform to explore these technologies and their transformative potential.
 
 **About the Province of South-Holland**
 
