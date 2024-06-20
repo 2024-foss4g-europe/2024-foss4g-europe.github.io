@@ -8,18 +8,30 @@ draft : false
 layout : "single"
 ---
 
-### The main conference tickets are currently sold out (as at 10 May)! 
+### The ticket shop is closed (as of 21 June)
 
-We will monitor the situation and announce you of any available tickets right away. Please add yourself to the waiting list if you're still interested to join! You can still purchase other items in the shop (except for the workshops).
+This has been a fantastic rollercoster ride with a way higher community
+interest than we were ever expecting based on previous FOSS4GE conferences.
 
-<center>
+If you were not able to secure your ticket then we will have live streams of all
+parallel sessions, and recordings made available afterwards.
+
+If you're a lucky ticket holder then see you in Tartu very soon!
+
+### The main conference tickets are currently sold out (as of 10 May)!
+
+We will monitor the situation and announce you of any available tickets right
+away. Please add yourself to the waiting list if you're still interested to
+join! You can still purchase other items in the shop (except for the workshops).
+
+<!--center>
     <a href="https://pretix.eu/foss4ge2024/tartu/"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
     <span>Get your ticket here!</span></a>
-</center>
+</center-->
 <hr>
 
 {{< figure
@@ -75,11 +87,11 @@ incurred, such as registration fee or any other direct or indirect loss or
 consequential damage.
 
 <hr>
-<center>
+<!--center>
     <a href="https://pretix.eu/foss4ge2024/tartu/"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
     <span>Get your ticket here!</span></a>
-</center>
+</center-->
