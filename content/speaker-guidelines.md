@@ -48,9 +48,9 @@ to your talk proposal at the general program
 You can add both, files or URLs to presentations (e.g gh-pages hosted webpages).
 Please try to keep uploaded files less than 10MB in size. You can upload your
 presentation at any time up to 30 minutes before your session start. But please
-even if you really like living on the edge try not to leave it at the last
+even if you really like living on the edge try not to leave it to the last
 minute. Things piling up somewhere there will not help the conference experience
-for all of us.
+for any of us.
 - NB! Academic track presenters! Please use general program submissions page
 also for Academic Track presentations. Let's collect presentations all under
 the same pretalx event so they are easily accessible from the unified schedule.
