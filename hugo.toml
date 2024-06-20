@@ -122,6 +122,37 @@ url = "call-for-papers/"
 weight = 3
 hasChildren = true
 
+  [[menu.main]]
+  weight = 1
+  parent = "Call for papers"
+  name = "Map Gallery Submission"
+  url = "map-gallery-submission"
+
+  [[menu.main]]
+  weight = 2
+  parent = "Call for papers"
+  name = "Speaker guidelines"
+  url = "speaker-guidelines"
+
+  [[menu.main]]
+  weight = 3
+  parent = "Call for papers"
+  name = "Academic program"
+  url = "cfp-academic-program"
+
+  [[menu.main]]
+  weight = 4
+  parent = "Call for papers"
+  name = "General program"
+  url = "cfp-general-program"
+
+  [[menu.main]]
+  weight = 5
+  parent = "Call for papers"
+  name = "Workshop program"
+  url = "cfp-workshops"
+
+
 [[menu.main]]
 name = "Registration"
 url = "registration/"
@@ -306,27 +337,6 @@ hasChildren = true
    parent = "Venue"
    name = "Tartu 2024 - European Capital of Culture"
    url = "venue/tartu2024/"
-
-  [[menu.main]]
-  weight = 1
-  parent = "Call for papers"
-  name = "Map Gallery Submission"
-  url = "map-gallery-submission"
-
-  [[menu.main]]
-  parent = "Call for papers"
-  name = "Workshop program"
-  url = "cfp-workshops"
-
-  [[menu.main]]
-  parent = "Call for papers"
-  name = "General program"
-  url = "cfp-general-program"
-
-  [[menu.main]]
-  parent = "Call for papers"
-  name = "Academic program"
-  url = "cfp-academic-program"
 
   [[menu.main]]
   parent = "About"
