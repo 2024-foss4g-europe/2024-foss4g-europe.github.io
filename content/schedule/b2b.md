@@ -7,7 +7,7 @@ draft: false
 layout: "single"
 ---
 ## Business to Business (B2B)
-**Tuesday, 2 July 2024 (17:45 - 19:45)**
+**Tuesday, 2 July 2024 (Gathering at 17:45, official start at 18:15. Event until 19:45)**
 
 B2B offers a possibility to network and connect with businesses and participants
 on the spot. In addition, the sponsors get a chance to present themselves during a 2 minute pitch.
