@@ -344,12 +344,6 @@ hasChildren = true
   url = "faq/"
   weight = 3
 
-    [[menu.main]]
-  parent = "About"
-  name = "GDPR"
-  url = "gdpr/"
-  weight = 4
-
   [[menu.main]]
   parent = "About"
   name = "Story of the logo"
