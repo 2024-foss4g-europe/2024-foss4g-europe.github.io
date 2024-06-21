@@ -31,13 +31,12 @@ you haven't met them before, it's a super opportunity to get to know new
 people.
 - Please stick to the schedule. This is important for 2 reasons - we have five
 parallel sessions running in different rooms at all times, and there's also a
-live stream audience we need to think about. So:
+live stream audience we need to think about. Your session chair will help you
+with timing and will signal you if you need to wrap up quickly. So:
   - a regular talk is 20 minutes presentation time, 5 minutes QA, 5 minutes
-for changing rooms/speakers
+for changing rooms/speakers.
   - a lightning talk is 4 minutes presentation time, 1 minute changing
-rooms/speakers
-Your session chair will help you with timing and will signal you if you need
-to wrap up quickly.
+rooms/speakers.
 - If you have your slides prepared you can upload them as an attachment
 to your talk proposal at the general program
 **{{<
