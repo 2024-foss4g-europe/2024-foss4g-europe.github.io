@@ -7,9 +7,28 @@ draft: false
 layout: "single"
 ---
 
-**We are very happy to share information regarding the benefits that our conference participants are eligible to.**
+#### We are very happy to share information regarding the benefits that our conference participants are eligible to.
+<br><br>
+Free visit to the **{{< extlink href="https://natmuseum.ut.ee/en/natural-history-museum" title="Natural History Museum" >}}** - the oldest museum in Estonia. Museum is located in the same building as the conference venue - Vanemuise 46. By showing your conference name tag to the admission desk, you will be granted a free access to the museum. 
+<br><br>
+{{< figure
+    src="../../images/museum_logo.svg"
+    alttext="Natural History Museum logo"
+    width="45%"
+    >}}
+<br><br>
+During the conference the museum is open from Tuesday (2 July) to Sunday (7 July) from 10-18. With 220 years of history, the museum is full of fascinating stories and science. The collection consists of geology, zoology, botany and mycology. In total, there are over 1.2 million specimens of minerals, rocks, fossils, meteorites, invertebrates and vertebrate animals, algae, mosses, bryophytes, fungi and lichens. The collections are used in the daily work of scientists, lecturers, students, tutors and other professionals.
 
-Thanks to the support of the City of Tartu all inner city bus transportation (red city buses) during the conference days (1 - 7 July) will be **free of charge to use**! Free ticket applies only when you have your conference name tag with you, so please carry it with you at all times! 
+{{< figure
+    src="../../images/museum.jpg"
+    alttext="Natural History Museum"
+    width="60%"
+    caption="_Photo: Tõnu Tunnel_"
+    >}}
+
+---
+
+Thanks to the support of the **City of Tartu** all inner city bus transportation (red city buses) during the conference days (1 - 7 July) will be **free of charge to use**! Free ticket applies only when you have your conference name tag with you, so please carry it with you at all times! 
 
 {{< figure
     src="../../images/bus.jpg"
