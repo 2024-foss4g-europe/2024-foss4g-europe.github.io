@@ -1,7 +1,7 @@
 ---
 title: "Speaker guidelines"
 page_header_bg: "images/background/page-title-bg.jpg"
-date: 2024-06-20T21:30:24+06:00
+date: 2024-06-20T21:30:24+03:00
 draft: false
 layout: "single"
 ---
