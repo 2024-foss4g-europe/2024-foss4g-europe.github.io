@@ -18,11 +18,6 @@ parallel sessions, and recordings made available afterwards.
 
 If you're a lucky ticket holder then see you in Tartu very soon!
 
-### The main conference tickets are currently sold out (as of 10 May)!
-
-We will monitor the situation and announce you of any available tickets right
-away. Please add yourself to the waiting list if you're still interested to
-join! You can still purchase other items in the shop (except for the workshops).
 
 <!--center>
     <a href="https://pretix.eu/foss4ge2024/tartu/"
@@ -34,7 +29,7 @@ join! You can still purchase other items in the shop (except for the workshops).
 </center-->
 <hr>
 
-{{< figure
+<!--{{< figure
     src="../images/pricing.png"
     alttext="pricing"
     link=""
@@ -42,11 +37,7 @@ join! You can still purchase other items in the shop (except for the workshops).
     target="blank"
     rel="noopener noreferrer"
     >}}
-
-**Important note! On site ticket purchase is subject to availability!** We cannot
-guarantee that you can purchase a ticket on site for a specific date. In order
-to secure a spot, and help us plan a successful event, please register your
-participation by purchasing a ticket **before 20 June 2024** the latest.
+-->
 
 Registration fee includes:
 
