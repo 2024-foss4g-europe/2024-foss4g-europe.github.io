@@ -10,6 +10,8 @@ layout : "single"
 
 ### The ticket shop is closed (as of 21 June)
 
+**All tickets are sold out and it is not possible to purchase them on site!**
+
 This has been a fantastic rollercoster ride with a way higher community
 interest than we were ever expecting based on previous FOSS4GE conferences.
 
