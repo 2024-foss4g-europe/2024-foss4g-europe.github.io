@@ -9,7 +9,7 @@ layout: "single"
 ---
 
 ## GeoChicas Take Tartu
-**Tuesday, 2 July 2024 (20.00 - ... )**  
+**Tuesday, 2 July 2024 (20:00 - 23:00)**  
 
 Address: Vanemuise 19 (
   {{< extlink

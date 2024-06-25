@@ -9,7 +9,7 @@ layout: "single"
 ---
 
 ## Ice-Breaker
-**Wednesday, 3 July, 2024 (19:00 - ... )**  
+**Wednesday, 3 July, 2024 (19:00 - 00:00)**  
 Address: Kastani 42, Aparaaditehas, restaurants Aparaat and Kolm Tilli (
   {{< extlink
       href="https://www.openstreetmap.org/way/30222266"
