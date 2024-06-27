@@ -20,15 +20,13 @@ layout: "single"
 | Submission of full academic papers: | **3 May 2024** |
 | Conference: | **3 July - 5 July 2024** |
 
-<!--center>
-    <a href="https://talks.osgeo.org/foss4g-europe-2024-academic-track/cfp"
-        class="btn btn-primary btn-lg"
-        target="blank" rel="noopener noreferrer"
-        style="padding:32px;margin-top:30px;margin-bottom:30px">
-        <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
-    <span>Submit an academic proposal</span></a>
-</center-->
-
+<center>
+{{< extlink
+    href="https://foss4ge.television.ee/"
+    title="go to live stream"       
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer" >}}
+</center>
 <hr>
 
 The Academic track schedule has been relesed and can be viewed as merged
@@ -177,11 +175,11 @@ All papers should be formatted according to the ISPRS author’s guidelines
     target="blank" rel="noopener noreferrer"
 >}}** in both LaTeX and DOC versions.
 
-<center>
+<!--center>
     <a href="https://talks.osgeo.org/foss4g-europe-2024-academic-track/cfp"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
     <span>Submit an academic proposal</span></a>
-</center>
+</center-->

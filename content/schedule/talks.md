@@ -9,3 +9,12 @@ pretalx: "foss4g-europe-2024"
 type: "agenda"
 layout: "single"
 ---
+
+
+<center>
+{{< extlink
+    href="https://foss4ge.television.ee/"
+    title="go to live stream"       
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer" >}}
+</center>

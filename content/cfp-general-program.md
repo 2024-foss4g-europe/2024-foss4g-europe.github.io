@@ -22,15 +22,16 @@ layout: "single"
 | Full program: | **31 March 2024** |
 | Conference: | **3 July - 5 July 2024** |
 
-<!--center>
-    <a href="https://talks.osgeo.org/foss4g-europe-2024/p/voting/signup/"
-        class="btn btn-primary btn-lg"
-        target="blank" rel="noopener noreferrer"
-        style="padding:32px;margin-top:30px;margin-bottom:30px">
-        <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
-    <span>Community vote</span></a>
-</center-->
+
+<center>
+{{< extlink
+    href="https://foss4ge.television.ee/"
+    title="go to live stream"       
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer" >}}
+</center>
 <hr>
+
 
 The [**full program schedule is available**](../schedule/talks/)
 
