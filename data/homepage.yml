@@ -10,9 +10,9 @@ banner:
     month : 7
     day : 1
   button:
-    enable : false
-    label : "get ticket now"
-    link : "pricing/"
+    enable : true
+    label : "Go to live stream"
+    link : "https://foss4ge.television.ee/"
 
 
 ################# About ###################
@@ -349,7 +349,7 @@ sponsors:
     - name : "Province of South-Holland"
       logo : "images/sponsors/province_2.svg"
       link : "./sponsors/bronze/province_south_holland/"
-      
+
 
   - name : "Supporter"
     sponsor_item:
