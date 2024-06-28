@@ -28,7 +28,7 @@ Tartu, Estonia
 
 View the [preliminary agenda below](#agenda).
 
-<hr>
+<!--hr>
 <center>
     <a href="https://pretix.eu/foss4ge2024/tartu/"
         class="btn btn-primary btn-lg"
@@ -36,7 +36,7 @@ View the [preliminary agenda below](#agenda).
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
     <span>Get your ticket here!</span></a>
-</center>
+</center-->
 
 On-site attendance is highly recommended for full engagement, but online observation will be enabled by registering **{{< extlink href="https://forms.gle/LxREUw9YwveCSd738" title="here." >}}**
 <hr>
@@ -49,7 +49,7 @@ OGC Innovation Days Europe aims to bridge between advanced digital collaborative
 
 **Target audience and approach**
 
-If you are a policymaker, scientist, technical expert or stakeholder involved in geospatial technologies, public policy and/or disaster risk management, and are looking to deepen your expertise and impact in integrating data solutions for climate resilience, health and sustainability, this event is specially designed for you. While the event will be driven by high-level interventions, all on-site participants will be actively engaged in the discussions and their input will be integrated in the summary report. 
+If you are a policymaker, scientist, technical expert or stakeholder involved in geospatial technologies, public policy and/or disaster risk management, and are looking to deepen your expertise and impact in integrating data solutions for climate resilience, health and sustainability, this event is specially designed for you. While the event will be driven by high-level interventions, all on-site participants will be actively engaged in the discussions and their input will be integrated in the summary report.
 
 **The Agenda 2030 and Sustainable Development Goals as common language**
 
@@ -66,10 +66,10 @@ OGC Innovation Days Europe will foster a dialogue between technical experts, dec
 - **Climate and Disaster Resilience.** This pillar will focus on enhancing resilience to climate-related hazards and natural disasters, closely aligned with the guiding principles of the UN climate policy frameworks related to Disaster Risk Reduction. It will discuss how innovative geospatial solutions can develop robust strategies that mitigate atmospheric pollution, adapt to the impacts of climate change and enhance disaster preparedness. Emphasizing a multi-hazard approach, the pillar calls for inclusive decision-making based on the open exchange of information and knowledge.  
 
 
-- **One Health.** The One Health pillar will explore the interconnected health of people, animals, plants and their shared environment, emphasizing the critical role of climate change, loss of biodiversity and land degradation. It will highlight integrated approaches to health risks at the human-animal-ecosystem interface, discussing how the environment acts both as an enabler and an indicator of holistic health. 
+- **One Health.** The One Health pillar will explore the interconnected health of people, animals, plants and their shared environment, emphasizing the critical role of climate change, loss of biodiversity and land degradation. It will highlight integrated approaches to health risks at the human-animal-ecosystem interface, discussing how the environment acts both as an enabler and an indicator of holistic health.
 
 
-- **Data Spaces.** Data Spaces are dedicated to advancing the architecture of digital data governance, focusing on the creation and management of interoperable data ecosystems. The pillar will introduce the need for streamlining data sharing and utilization across various sectors to support decision-making. 
+- **Data Spaces.** Data Spaces are dedicated to advancing the architecture of digital data governance, focusing on the creation and management of interoperable data ecosystems. The pillar will introduce the need for streamlining data sharing and utilization across various sectors to support decision-making.
 
 Each thematic area will directly align with Sustainable Development Goals, such as SDG 13 Climate Action, SDG14 Live below water, SDG 15 Life on Land, and others, ensuring that the discussions are grounded in the global agenda for sustainable development.
 
@@ -122,7 +122,7 @@ Cluster**.
     width="25%"
     >}}
 
-<hr>
+<!--hr>
 <center>
     <a href="https://pretix.eu/foss4ge2024/tartu/"
         class="btn btn-primary btn-lg"
@@ -131,7 +131,7 @@ Cluster**.
         <img src="https://2024.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
     <span>Get your ticket here!</span></a>
 </center>
-<hr>
+<hr-->
 
 
 ###### Tags

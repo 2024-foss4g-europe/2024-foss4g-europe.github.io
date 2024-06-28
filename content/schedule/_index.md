@@ -53,7 +53,7 @@ layout : "single"
 </div>
 </section>
 
-<hr>
+<!--hr>
 <center>
     <a href="https://pretix.eu/foss4ge2024/tartu/"
         class="btn btn-primary btn-lg"
@@ -61,4 +61,4 @@ layout : "single"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/ticket.png" alt="Get your ticket!">
     <span>Get your ticket here!</span></a>
-</center>
+</center-->
