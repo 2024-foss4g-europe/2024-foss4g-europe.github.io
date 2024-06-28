@@ -15,11 +15,11 @@ layout: "single"
 
 We invite contributions to the FOSS4GE 2024 Tartu Map Gallery to showcase the imagination and great skills of the FOSS4G community!
 
-We are expecting maps about the city of Tartu where the conference is going to be held. It is your opportunity to challenge yourself with a new experience. 
+We are expecting maps of the city of Tartu where the conference is going to be held. It is your opportunity to challenge yourself with a new experience. 
 
 Please use the following form to submit your proposal. The deadline for submissions is 30 June 2024.  
 
-Please share the maps in a static format (e.g. PDF, png). All the relevant submissions will be displayed on our website.  
+Please share the maps in a static format (e.g. PDF, PNG). All the relevant submissions will be displayed on our website.  
 
 <center>
     <a href="https://forms.gle/JHGtBYVmidKh1uNdA"
@@ -30,11 +30,11 @@ Please share the maps in a static format (e.g. PDF, png). All the relevant submi
     <span>Submit your map proposal</span></a>
 </center>
 
-Criterias for participation:
+Criteria for participation:
 
 - Map has to be created using FOSS
-- Submission must contain/based on only Open Data with appropriate attribution
-- Map has to be about Tartu.  
+- Submission must contain/be based on only Open Data with appropriate attribution
+- The map has to be about Tartu.  
     * Some possible data sources:  
         * OSM
         * [Spatial Data | Geoportal | Estonian Land Board (maaamet.ee)](https://geoportaal.maaamet.ee/eng/Spatial-Data-p58.html)

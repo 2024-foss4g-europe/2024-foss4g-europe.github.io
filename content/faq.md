@@ -28,7 +28,7 @@ FOSS4GE 2024 will be an in-person event.
 Yes, the conference is open to any public interested in geoinformatics, free software, maps, and communities.  
 {{</ faq >}}
 
-{{< faq "If I don’t develop or write code, is this conference for me too?" >}}
+{{< faq "If I don’t develop or write code, is this conference for me, too?" >}}
 Yes, this event is for all kinds of people interested in sharing experiences about maps, from developers who write code to users of geoinformatics software, people who make decisions, researchers, students, and anyone who wants to learn, share and meet like-minded people.  
 {{</ faq >}}
 

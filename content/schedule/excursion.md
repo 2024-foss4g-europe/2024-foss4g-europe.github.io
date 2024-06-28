@@ -43,7 +43,7 @@ In Setomaa you will see different natural and cultural sites during our bus trip
     width="80%"
     caption="Source: [**visitsetomaa.ee**](https://visitsetomaa.ee/en/attractions/97/mikitam%C3%A4e-orthodox-village-chapels)"
 >}}    | Tsässon is an **{{< extlink href="https://visitsetomaa.ee/en/attractions/97/mikitam%C3%A4e-orthodox-village-chapels" title="Orthodox village chapel" >}}** in Setumaa. The square in front of Mikitamäe Center is called Tsässonate Square, because there are two tsässons next to each other. Old tsässon is the oldest wooden building in mainland Estonia: its probable construction date is 1694. |
-| In 2020, a lovely promenade with two viewing platforms was built along the coast of Värska Bay. The different sections of the **{{< extlink href="https://maps.visitsetomaa.ee/en/objects/vaerska-promenade/157?map_id=7" title="300-meter promenade" >}}** are united by the use timber and granite, the two main construction materials. The springs have been directed into beautiful natural waterways.  |{{< figure
+| In 2020, a lovely promenade with two viewing platforms was built along the coast of Värska Bay. The different sections of the **{{< extlink href="https://maps.visitsetomaa.ee/en/objects/vaerska-promenade/157?map_id=7" title="300-meter promenade" >}}** are united by the use of timber and granite, the two main construction materials. The springs have been directed into beautiful natural waterways.  |{{< figure
     src="../../images/excursion/3.jpg"
     alttext="Värska"
     width="80%"
@@ -55,7 +55,7 @@ In Setomaa you will see different natural and cultural sites during our bus trip
     width="80%"
     caption="Source: [**visitestonia.ee**](https://www.visitestonia.com/en/saatse-boot)"
 >}}  | [**Saatse 'Boot'**](https://www.visitestonia.com/en/saatse-boot) is a boot-shaped area of the Russian state border that cuts the Värska–Saatse road for 800 m. Every traveller on the road briefly enters the territory of the Russian Federation. A Russian visa is not required to pass the boot, but you must have your passport or identity document with you. This is a border area that can be crossed without stopping by car or bicycle.           |
-| We will visit the **{{< extlink href="https://www.visitestonia.com/en/piusa-caves-visitor-centre" title="observation platform at the Museum Cave" >}}**. The Piusa sandstone caves are the result of hand-mining glass sand during 1922–1966. The biggest wintering colony of bats in East Europe is located in the caves. There are also nice views to the open sand quarry. | {{< figure
+| We will visit the **{{< extlink href="https://www.visitestonia.com/en/piusa-caves-visitor-centre" title="observation platform at the Museum Cave" >}}**. The Piusa sandstone caves are the result of hand-mining glass sand during 1922–1966. The biggest wintering colony of bats in East Europe is located in the caves. There are also nice views of the open sand quarry. | {{< figure
     src="../../images/excursion/5.png"
     alttext="Piusa"
     width="80%"
@@ -66,7 +66,7 @@ In Setomaa you will see different natural and cultural sites during our bus trip
     alttext="Piusa"
     width="80%"
     caption="Source: [**visitestonia.ee** ](https://www.visitestonia.com/en/observation-tower-on-suur-munamagi) Jaak Nilson "
->}}   | **{{< extlink href="https://www.visitestonia.com/en/observation-tower-on-suur-munamagi" title="Suur Munamägi" >}}**, 318 metres from the sea level, is the highest point of the Baltics. The Observation tower on Suur Munamägi provides its visitors with a splendid 50 km range view of the Estonian nature. A person standing on top of the tower is standing 346.7 metres above the sea level.            |
+>}}   | **{{< extlink href="https://www.visitestonia.com/en/observation-tower-on-suur-munamagi" title="Suur Munamägi" >}}**, 318 metres from the sea level, is the highest point in the Baltics. The Observation tower on Suur Munamägi provides its visitors with a splendid 50 km range view of Estonian nature. A person standing on top of the tower is standing 346.7 metres above sea level.            |
 
 
 **Preliminary agenda:**
@@ -80,7 +80,7 @@ In Setomaa you will see different natural and cultural sites during our bus trip
 - 12.10 Stop in Värska (walk at Värska promenade) (30 min)
 - 12.40 Bus to Piusa through “Saatse boot” and Koidula border point (40 min)
 - 13.20 Stop and lunch at Piusa (visiting sand caves and quarry) (1h 30 min)  
-*Lunch includes welcome snack & shot, soup with meat, dessert*
+*Lunch includes a welcome snack & shot, soup with meat, dessert*
 - 14.50 Bus to Suur Munamägi (through Obinitsa and Vastseliina) (50 min)
 - 15.40 Stop at Suur Munamägi (visiting the observation tower) and cafe Suur Muna (1h)
 - 16.40 Bus back to Tartu (1h 20 min)
@@ -92,6 +92,6 @@ The excursion price (50€) includes*:
 - Guided tour to the Piusa caves
 - Lunch at the Piusa visitor centre
 - Ticket to the observation tower of Suur Munamägi  
-**cafe visit of Suur Muna on everyone’s own expense*
+**cafe visit of Suur Muna at everyone’s own expense*
 
 If you have any questions related to the excursion - please turn to Merli Ilves (merli.ilves@ut.ee)

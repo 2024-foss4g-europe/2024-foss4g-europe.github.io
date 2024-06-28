@@ -37,7 +37,7 @@ OSGeo is the largest and most important international organization
 that unites the community of developers, users, and advocates of free and
 open source in geospatial.
 
-The main focus of the organization is fostering the development, maintenance
+The main focus of the organization is fostering the development, maintenance, 
 and use of free and open source software for geospatial, open standards, and
 open data. The democratizing nature of the field creates a basis for sharing
 geographic data, promotes cooperation between organizations and individuals,
@@ -47,7 +47,7 @@ transport, infrastructure planning, organizing rescue work in
 disaster areas, etc.
 
 FOSS4G is a community event organized by volunteers, with a focus on
-building a diverse and sustainable open community, sharing our own experiences
+building a diverse and sustainable open community, sharing our own experiences, 
 and learning from others. Although it is software that brings us together, it's
 the deep care for the society and the environment that surrounds us, helping
 solve the World's problems one bit at a time, that connects us.
@@ -61,7 +61,7 @@ then visited Bucharest, Romania (2013); Bremen, Germany (2014);
 Como, Italy (2015); Paris, France (2017); Guimarães, Portugal (2018).
 
 Bringing the conference series to Tartu, the start-up capital of Estonia, gives
-the participants here the opportunity to present their work, make contacts and
+the participants here the opportunity to present their work, make contacts,the  and
 share experiences among people dealing with similar problems on a global scale.
 Bringing a recognized and important conference series to Estonia offers local
 professionals and students access to high-quality educational material and the

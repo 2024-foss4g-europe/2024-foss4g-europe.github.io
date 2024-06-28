@@ -17,7 +17,7 @@ layout : "single"
 
 ---
 
-### Announce accepted talks
+### Announcement of accepted talks
 3 March 2024
 
 ---

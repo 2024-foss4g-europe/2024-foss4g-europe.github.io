@@ -22,9 +22,9 @@ Address: Raekoja plats 1a (
 
 On Monday (1 July) and Tuesday (2 July) evenings it's possible to take 1 hour
 stroll with a guide through the city of Tartu to discover some of the town's
-history, and its hidden gems.
+history and its hidden gems.
 
-The walk is free of charge and you don't need register.
+The walk is free of charge and you don't need to register.
 
 The meeting point is at the city square (_Raekoja plats_) fountain at 18:00
 [_cum tempore_](https://en.wikipedia.org/wiki/Academic_quarter_(class_timing))

@@ -9,7 +9,7 @@ layout: "single"
 
 ## FOSS4GE 2024 Travel Grant Programme (TGP)
 The _F_ in FOSS4G stands for Free and freedom is not only important for software
-or data, it is also important for the community that everybody can freely
+or data, but it is also important for the community in which everybody can freely
 participate. For years OSGeo has provided a Travel Grant Programme (TGP) for
 its conferences to increase the accessibility and diversity of FOSS4G events.
 The Tartu local organising committee is happy to provide travel grants in
@@ -31,7 +31,7 @@ fund of up to 400€ that can be used for travelling and/or accommodation expens
 The number and size of grants may be adjusted by the FOSS4GE 2024
 Travel Grant Committee based on the amount of funds raised for TGP.
 
-Applying to travel grants is open to everyone with only a few rules:
+Applying for travel grants is open to everyone with only a few rules:
 - Being a regional conference, travel grants for FOSS4G Europe 2024 are only
 available to residents of
 **{{<
@@ -51,11 +51,11 @@ The purpose of the travel grant programme is to enhance diversity at the
 conference. We might reserve a few programme spots for people with unique and
 outstanding applications. However, the majority of programme spots will solely
 be determined by the point ranking. In case of equal points, the distance
-between the applicant's hometown and Tartu are measured and the applicant
+between the applicant's hometown and Tartu is measured and the applicant
 coming from farther away wins.
 
 Please consider applying for a smaller grant (up to 300€). It would score you
-more ranking points and also leave the committee more funds for additional
+more ranking points and also leave the committee with more funds for additional
 grants.
 
 ### Scoring principles
@@ -81,7 +81,7 @@ Kosovo, Moldova, Montenegro, North Macedonia, Russia, Serbia, Türkiye.
 ### Important dates
 - **_February 2024_** - FOSS4G Europe 2024 TGP opens, start sending your applications
 - **_31 March_** - Deadline for applying
-- **_17 April_** - Grant applications are evaluated by the committee, receivers
+- **_17 April_** - Grant applications are evaluated by the committee, and receivers
 of grants are contacted by email
 - **_1 July 2024_** - Start of the conference
 
@@ -136,9 +136,9 @@ An easy way to support is to
 [**Adopt-a-ticket**](../../registration/adopt-a-ticket/) during your own
 [**registration**](../../registration/) to the event. The
 proceeds from **adopt-a-ticket** will be used to cover costs
-for workshop presenters and TGP applicants gratis entrance. With at least one
+for workshop presenters and TGP applicants' gratis entrance. With at least one
 _ticket adoption_ you will be included as an honourable mention in our
-conference channels. If you buy more, you are instead eligible to one of the
+conference channels. If you buy more, you are instead eligible for one of the
 different sponsorship levels at equal value which you can find in the FOSS4GE 2024
 [**Call for Sponsors**](../../call-for-sponsors/).
 

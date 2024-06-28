@@ -10,15 +10,15 @@ layout : "single"
 
 ### The ticket shop is closed (as of 21 June)
 
-**All tickets are sold out and it is not possible to purchase them on site!**
+**All tickets are sold out and it is not possible to purchase them on-site!**
 
-This has been a fantastic rollercoster ride with a way higher community
+This has been a fantastic rollercoaster ride with a way higher community
 interest than we were ever expecting based on previous FOSS4GE conferences.
 
 If you were not able to secure your ticket then we will have live streams of all
 parallel sessions, and recordings made available afterwards.
 
-If you're a lucky ticket holder then see you in Tartu very soon!
+If you're a lucky ticket holder, then see you in Tartu very soon!
 
 
 <!--center>
@@ -58,7 +58,7 @@ coffee breaks), Ice-Breaker on 3 July, and Social Bytes on 4 July.
 The Community Sprint is a complimentary event to which everyone is invited to
 participate and contribute with their point of view, ideas, open mindset and
 positive aura. Beverages and lunch are provided to support participants.
-**Registration information to the Community Sprint will be shared separately.**
+**Registration information for the Community Sprint will be shared separately.**
 
 ## Schedule
 A more in-depth overview of the schedule and various events taking place during
@@ -69,10 +69,10 @@ the conference can be found under [**Schedule**](../schedule/)
 The cancellation should be directed to **info-europe@foss4g.org** in writing
 only. A 25% administrative charge will be held from the registration cost by
 the organizers if the cancellation is announced before May 30, 2024. After this
-date no refund will be possible. Refunds will be processed and issued up to 60
+date, no refund will be possible. Refunds will be processed and issued up to 60
 days after the conference.
 
-Unexpected cancellation of the event or impossibility to hold it
+Unexpected cancellation of the event or impossibility to hold it.
 In the unlikely case that the FOSS4GE 2024 cannot be held in whole or in part
 due to any event beyond the Organisers’ control or *force majeure*, the
 Conference Organisers cannot be held liable for any damage, cost, or loss
