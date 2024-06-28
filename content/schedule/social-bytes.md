@@ -9,7 +9,7 @@ layout: "single"
 ---
 
 ## Social Bytes
-**Thursday, 4 July 2024 (19:30 - 01:00)**  
+**Thursday, 4 July 2024 (19:00 - 01:00)**  
 Address: Ujula 98, Lodjakoda (
   {{< extlink
       href="https://www.openstreetmap.org/way/959739436"

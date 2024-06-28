@@ -43,7 +43,7 @@ layout : "single"
         <td class="tg-body"><h6><a href="./city-tour/"><b>Free city tour 18:15 - 19:15</b></a></h6></td>
         <td class="tg-body"><h6><a href="./b2b/"><b>B2B 18:15-19:45</b></a> / <a href="./city-tour/"><b>Free city tour 18:15-19:15</b></a><hr> <a href="./geochicas-take-tartu/"><b>Geochicas Take Tartu 20:00 - 23:00</b></a></h6></td>
         <td class="tg-body"><a href="./bof"><b>BoF 18:00 - 19:00</b></a><hr><h6><a href="./ice-breaker/"><b>Ice-Breaker 19:00 - 00:00</b></a></h6></td>
-        <td class="tg-body"><a href="./bof"><b>BoF 18:00 - 19:00</b></a><hr><h6><a href="./social-bytes/"><b>Social Bytes 19:30 - 01:00</b></a></h6></td>
+        <td class="tg-body"><a href="./bof"><b>BoF 18:00 - 19:00</b></a><hr><h6><a href="./social-bytes/"><b>Social Bytes 19:00 - 01:00</b></a></h6></td>
         <td></td>
       </tr>
     </tbody>
