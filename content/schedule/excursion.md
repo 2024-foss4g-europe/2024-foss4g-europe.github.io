@@ -15,6 +15,8 @@ See also the page for  **[Tartu 2024](../../venue/tartu2024/)**
 ## FOSS4GE 2024 excursion day to Setomaa   
 **Saturday, 6 July. Gathering at 9:40 in front of Vanemuise 46 building, Tartu**  
 
+Please note that excursion is not part of the conference ticket!
+
 Registration through [pretix shop](https://pretix.eu/foss4ge2024/tartu/) until **20 June**!
 
 {{< figure
