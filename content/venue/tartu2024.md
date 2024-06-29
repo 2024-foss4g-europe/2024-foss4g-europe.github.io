@@ -18,7 +18,7 @@ Estonia. Now is the time to visit, as even
 >}}** is calling Tartu one of the 30 most exciting destinations to visit in 2024!
 
 The general concept of the Tartu 2024 cultural program, *The Art of Survival*,
-is more relevant than ever before. This idea centers around three aspects
+is more relevant than ever before. This idea centres around three aspects
 related to the influence of art on the future of Europe - an environmentally
 friendly culture with an emphasis on real human interactions, strong communities,
 and survival skills. There is a varied program of over 300 events throughout the
@@ -36,7 +36,7 @@ conference? Let's have a look at a few suggestions by the FOSS4GE 2024 LOC membe
 If you happen to have some free time during the conference or looking for
 reasons to prolong your stay there will be loads of options for entertainment,
 cultural and culinary experiences, and much more! The list
-is not exhaustive by all means and more can found at the
+is not exhaustive by all means and more can be found at the
 **{{<
   extlink href="https://tartu2024.ee/en"
   title="Tartu2024"
@@ -54,8 +54,8 @@ is not exhaustive by all means and more can found at the
   rel="noopener noreferrer"
 >}}** returns after two years of touring in Europe to bring some fresh colour
 to the streets of Tartu. Dozens of street artists from Estonia and abroad will
-come to Tartu for a spraycation to create new art works all over the city
-during the festival. More information on
+come to Tartu for a spraycation to create new artworks all over the city
+during the festival. More information on the 
 **{{<
   extlink href="https://www.stencibility.ee/en"
   title="Stencibility homepage"
@@ -72,8 +72,8 @@ during the festival. More information on
 >}}
 
 # Genialistid
-Although not part of the official Tartu2024 programme but at least some
-of us in the LOC spent their university years to the tunes of songs like
+Although not part of the official Tartu2024 programme, at least some
+of us in the LOC spent our their university years to the tunes of songs like
 **{{<
   extlink href="https://www.youtube.com/watch?v=WKCZC8o7Mec"
   title="Kati karu"
@@ -98,7 +98,7 @@ of us in the LOC spent their university years to the tunes of songs like
   target="blank"
   rel="noopener noreferrer"
 >}}**. After 18 years of flipping through calendars, the band managed to find a
-mutual date for a concert - the hiatus of Genialistid is over. On July 5, 2024 the
+mutual date for a concert - the hiatus of Genialistid is over. On July 5, 2024, the
 musical group Genialistid will give one last show in order to finally call it
 quits. Enough.
 
@@ -114,7 +114,7 @@ Tickets available from
     src="../../images/genialistid-last-show-banner.jpg"
     alttext="Genialistid last show. Ever."
     width="100%"
-    caption="Poster for Genialistid last show. Received in e-mail from and used by permission of the band."
+    caption="Poster for Genialistid last show. Received an e-mail from and used by permission of the band."
 >}}
 
 # Car-free avenue
@@ -125,8 +125,8 @@ From Saturday, 6 July, the
   title="Car-free Avenue"
   target="blank"
   rel="noopener noreferrer"
->}}** will be opened. The section of Vabaduse puiestee in the center of the town
-will converted to a street-festival ground for a month. Free of cars for
+>}}** will be opened. The section of Vabaduse puiestee in the centre of the town
+will be converted into to a street-festival ground for a month. Free of cars for
 the fifth time it will be transformed into a pleasant oasis where you can
 relax, play and enjoy various events.
 

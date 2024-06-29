@@ -11,7 +11,7 @@ draft: false
 
 The Free and Open Source for Geospatial (FOSS4G) Europe conference is the main
 OSGeo regional European community meetup. It is a weeklong event featuring two
-days of workshops, three days of spoken word presentations, and two days for
+days of workshops, three days of spoken word presentations, and two days for the
 community sprint to sum up the week.
 
 FOSS4GE 2024 will be an in-person event but we are working hard to make
@@ -38,7 +38,7 @@ Your work and solutions to future customers or partners.
 ### Why become our partner?
 
 FOSS4G Europe conference partners are exposed to a highly engaged international
-audience of policy makers, business representatives, and industry professionals.  
+audience of policymakers, business representatives, and industry professionals.  
 Partnership in the FOSS4G Europe conference gives you:
 
 - Opportunity to engage with the geospatial technology industry
@@ -49,8 +49,8 @@ Partnership in the FOSS4G Europe conference gives you:
 ### Audience
 
 Around 300-350 participants are expected to attend the conference on-site from all
-over the Europe. Moreover, the whole conference will be streamed and recorded
-to a even larger audience.
+over Europe. Moreover, the whole conference will be streamed and recorded
+to an even larger audience.
 
 Audience profile:
 
@@ -70,7 +70,7 @@ Audience profile:
 
 ### Partnership packages
 
-We have prepared a number of preconfigured sponsorship packages summarized
+We have prepared a number of preconfigured sponsorship packages summarised
 in the following table. If for whatever reason you cannot find a package that
 suits your needs, please feel free to reach out to us so we can work out
 something that fits your needs.
@@ -84,7 +84,7 @@ something that fits your needs.
     rel="noopener noreferrer"
     >}}
 
-*Since the expo space is limited please talk to us about your needs 
+*Since the expo space is limited, please talk to us about your needs 
 
 The full sponsorship prospectus can be downloaded as a pdf file
 **{{<

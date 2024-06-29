@@ -35,14 +35,14 @@ layout: "single"
 
 The [**full program schedule is available**](../schedule/talks/)
 
-**NB!** please note, the schedule is still subject to change due to unexpected
+**NB!** Please note, that the schedule is still subject to change due to unexpected
 withdrawals as well as rescheduling requests by the authors.
 
 <hr>
 
 # Description
 Free and Open Source Software for Geospatial (FOSS4G) Europe is the regional
-flagship event of OSGeo - an open, grassroots and dynamic community. We are
+flagship event of OSGeo - an open, grassroots, and dynamic community. We are
 looking for novel and original submissions on development, use, and advocacy
 for FOSS4G over a wider array of topics ranging from state-of-software to
 specific use cases, from building and sustaining a community to building a
@@ -69,7 +69,7 @@ A regular talk slot is 30 minutes long:
 - 5 minutes for the participants to change rooms and next speaker setup.
 
 There is also a possibility to submit a lightning talk with a 5 minute speaker
-slot, with 4 minutes for the talk, 1 minute for the next speaker setup.
+slot, with 4 minutes for the talk, and 1 minute for the next speaker setup.
 
 We are preparing to host 5 parallel tracks with 1.5h long sessions, meaning we
 will be able to host approximately 130 presentations in total.
@@ -78,11 +78,11 @@ will be able to host approximately 130 presentations in total.
 ### 1. general topic
 When submitting your talk, you will be asked to select one general topic that
 best defines your contribution. This will help us group similar-themed talks
-to same tracks. The topics for general sessions are as follows
+to the same tracks. The topics for general sessions are as follows
 
 ##### - Transition to FOSS4G
 Do you have a success story to share about transitioning a system or workflow
-to FOSS4G technology? Maybe some lessons-learnt? We would like to hear about it,
+to FOSS4G technology? Maybe some lessons learned? We would like to hear about it,
 and have you share your experiences with the rest of the community.
 
 ##### - Open standards and interoperability for geospatial
@@ -94,27 +94,27 @@ Framework (EULF) Blueprint?
 
 ##### - Building a business with FOSS4G
 You have built a business around supporting and maintaining a FOSS4G product.
-It’s a different kind of attitude towards the users, and the product itself
+It’s a different kind of attitude toward the users, and the product itself
 with respect to the “traditional” closed source business model. How do you
-manage that? What are some of the pitfalls, what are the gains with the
-choices you’ve made.
+manage that? What are some of the pitfalls, and what are the gains with the
+choices you’ve made?
 
 ##### - State of software
 Recent developments in Free and Open Source Software projects. Maybe tease the
-audience with a sneak-peek of what’s to come in a release later in the year?
+audience with a sneak peek of what’s to come in a release later in the year?
 
 ##### - Open community
 How do you engage people? What makes people want to contribute, and be part of
-the community. Maybe your local OSGeo chapter? A software user-group? Or maybe
+the community? Maybe your local OSGeo chapter? A software user group? Or maybe
 you’ve participated in a mapathon and want to share your thoughts. This is most
-suitable for sharing experiences so we could all grow as individuals and build
+suitable for sharing experiences so we can all grow as individuals and build
 and sustain our communities better. Sharing is caring.
 
 ##### - FOSS4G “Made in Europe”
-A special track co-organised with the European Commission to investigate
+A special track co-organized with the European Commission to investigate
 and introduce the many Free and Open Source
 software tools, data capture and collection and sharing projects carried out
-at the European Commission, European institutions or funded by them.
+at the European Commission, European institutions, or funded by them.
 
 ##### - Open Data
 Open source software is a nice thing but it is of little use if there’s no
@@ -124,7 +124,7 @@ are all eager to find out about it, to make decision making processes more
 transparent and democratic.
 
 ##### - Use cases and applications
-You have a very specific use case of doing things with Free and Open Source
+You have a very specific use case for doing things with Free and Open Source
 Software. Maybe you are using AI to do Earth Observation? Or maybe routing?
 Farming a flock of drones? Making sense of a gazillion points in space and
 time? Something completely different that we didn’t even imagine Free and
@@ -141,7 +141,7 @@ the communities that surround them?
 
 
 ### 2. General theme(s)
-In addition you’ll be asked to provide at least one general theme to describe
+In addition, you’ll be asked to provide at least one general theme to describe
 your submission (think of this as a keyword)
 
 - Data collection, sharing
@@ -164,9 +164,9 @@ your submission (think of this as a keyword)
 - Community building and participatory FOSS4G
 
 ### 3. Level of difficulty
-And finally we would like to ask you to identify the level of technical
-complexity of your presentation in a 3-point scale ranging from
-“no previous knowledge needed” to “must be a superexpert to understand”.
+And finally, we would like to ask you to identify the level of the technical
+complexity of your presentation on a 3-point scale ranging from
+“no previous knowledge needed” to “must be a super expert to understand”.
 
 
 # Guidelines
@@ -176,9 +176,9 @@ conference, but please consider the following suggestions:
   clearly indicate which projects are essential in your talk
 - If your talk is about developments in or a completely new project, please
   point to the appropriate repository (or repositories)
-- Your talk would not be about development of software? Yes! Although software
+- Your talk would not be about the development of software? Yes! Although software
   development is in the heart of FOSS4G it is not the only purpose of the
-  conference. The goal is to bring together developers and users, policy makers
+  conference. The goal is to bring together developers and users, policymakers
   and open community advocates over the broad sphere of geospatial to share
   experiences and showcase the power and reach of free and open source software.
 - The more suitable the selection of topic, theme, and technical complexity are,
@@ -195,9 +195,9 @@ conference, but please consider the following suggestions:
   lived experiences. This is what makes us strong and we care for each other’s
   well-being. Please keep in mind that a derogatory attitude towards other
   people or their work is not welcome.
-- We are working on making streaming of presentations a reality, however the
+- We are working on making the streaming of presentations a reality, however, the
   conference presenters would be expected to be on-site
-- And lastly, the success of this event lies in the responsable actions of all
+- And lastly, the success of this event lies in the responsible actions of all
   participants and organizers alike. If you have confirmed your participation
   but later on you or the co-authors are no longer able to present, please let
   us know as soon as possible.

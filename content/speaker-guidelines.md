@@ -7,7 +7,7 @@ layout: "single"
 ---
 
 The FOSS4G Europe 2024 conference is coming closer day by day, and
-we're happy to report all preparations are well under way and we are gearing
+we're happy to report all preparations are well underway and we are gearing
 up for a very exciting event. Let's go over a few points to keep in
 mind when preparing for your presentation.
 
@@ -17,12 +17,12 @@ the boxes you have ticked for your proposal at
     extlink href="https://talks.osgeo.org/foss4g-europe-2024/me/submissions/"
     title="talks.osgeo.org"
     target="blank" rel="noopener noreferrer"
->}}**. If you answered no for streaming, the video crew has some fantastic
+>}}**. If you answered no to streaming, the video crew has some fantastic
 local wild nature scenes we will be using as a replacement during that time.
 - There will be volunteers in the session rooms. They can help you with any
 technical questions that might arise.
 - Your session will be chaired by someone, who will introduce you and your talk,
-and guide with the QA. Although the event is streamed, questions will be taken
+and guide the QA. Although the event is streamed, questions will be taken
 only from the on-site crowd. Please keep in mind that because of
 streaming/recording all spoken word needs to go into the microphone even if
 the venue room is small and it seems pointless.
@@ -33,7 +33,7 @@ people.
 parallel sessions running in different rooms at all times, and there's also a
 live stream audience we need to think about. Your session chair will help you
 with timing and will signal you if you need to wrap up quickly. So:
-  - a regular talk is 20 minutes presentation time, 5 minutes QA, 5 minutes
+  - a regular talk is 20 minutes of presentation time, 5 minutes QA, and 5 minutes
 for changing rooms/speakers.
   - a lightning talk is 4 minutes presentation time, 1 minute changing
 rooms/speakers.
@@ -46,17 +46,17 @@ to your talk proposal at the general program
 >}}**.
 You can add both, files or URLs to presentations (e.g gh-pages hosted webpages).
 Please try to keep uploaded files less than 10MB in size. You can upload your
-presentation at any time up to 30 minutes before your session start. But please
+presentation at any time up to 30 minutes before your session starts. But please
 even if you really like living on the edge try not to leave it to the last
 minute. Things piling up somewhere there will not help the conference experience
 for any of us.
-- NB! Academic track presenters! Please use general program submissions page
+- NB! Academic track presenters! Please use the general program submissions page
 also for Academic Track presentations. Let's collect presentations all under
 the same pretalx event so they are easily accessible from the unified schedule.
-- Internet connectivity is there, but just in case don't rely on it solely.
+- Internet connectivity is there, but don’t rely solely on it.
 Oddly, things tend to break exactly at the moment of live demos.
 - Using your own laptop is strongly discouraged as it makes
-everybody's lives much more simpler if you present your prepared slides from
+everybody's lives much simpler if you present your prepared slides from
 the venue computer - we'll have less hassles with setup and no hiccups with
 streaming.
 
@@ -68,4 +68,4 @@ feel free to get back to
     target="blank" rel="noopener noreferrer"
 >}}**.
 
-We, the Tartu LOC are very excited to welcome you to our hometown!
+We, the Tartu LOC, are very excited to welcome you to our hometown!

@@ -24,7 +24,7 @@ Possible carriers include (but are not limited to):
 
 ##### 2. From Helsinki
 The trips between Helsinki and Tallinn are frequent and take roughly 2.5-3h
-with some of the carriers offeríng the possibility to stay on board over night
+with some of the carriers offering the possibility to stay on board overnight
 for the last trip of the day. Possible carriers include (but are not limited to):
 - **{{< extlink href="https://en.tallink.com/helsinki-tallinn-one-way-trips" title="Tallink" target="blank" rel="noopener noreferrer" >}}**
 - **{{< extlink href="https://www.sales.vikingline.com/find-trip/timetable/helsinki-tallinn/" title="Viking Line" target="blank" rel="noopener noreferrer" >}}**
@@ -42,8 +42,8 @@ Tartu has an airport (TAY) very close by, about 10 km away at Ülenurme (
       href="https://www.google.com/maps/place/Tartu+Lennujaam/@58.3102244,26.6883076,17z/data=!3m1!4b1!4m6!3m5!1s0x46eb398ca316a9a7:0xf6c2495cd15cde05!8m2!3d58.3102244!4d26.6908825!16zL20vMDlfX2dq?entry=ttu"
       title="googlemaps" target="blank" rel="noopener noreferrer">}}
 ).
-The flight connection has resumed between Tartu and the Finnish capital Helsinki
-(HEL) on March 31, 2024. after a long break caused by covid. There are 12
+The flight connection was resumed between Tartu and the Finnish capital Helsinki
+(HEL) on March 31, 2024, after a long break caused by Covid-19. There are 12
 scheduled flights per week between Tartu and Helsinki. Flights from Tartu depart
 at 06:00 in the morning and 15:00 in the afternoon, while those from Helsinki
 leave at 13:50 and 23:55.
@@ -67,7 +67,7 @@ Tartu bus station.
 
 ##### 1. From Tallinn
    Trains from Tallinn are less frequent (ca 12 trips per day) than buses. But
-   “Ekspress”-labeled trains run a tiny bit faster with a total trip time ranging
+   “Ekspress”-labelled trains run a tiny bit faster with a total trip time ranging
    from 2h - 2.5h. The closest train station Ülemiste (
      {{< extlink
          href="https://www.openstreetmap.org/?mlat=59.42326&mlon=24.79604#map=18/59.42326/24.79604"
@@ -78,9 +78,9 @@ Tartu bus station.
      )     
    from the airport is a 1 km walk away.
 
-- Tickets (for a particular day and time) can be searched and bought via
+- Tickets (for a particular day and time) can be searched and bought via the
 **{{< extlink href="https://elron.ee" title="Elron" target="blank" rel="noopener noreferrer" >}}**
-website. For example for trips from Ülemiste station to Tartu:
+website. For example, for trips from Ülemiste station to Tartu:
 **{{< extlink href="https://elron.pilet.ee/en/otsing/%C3%9Clemiste/Tartu" title="LINK" target="blank" rel="noopener noreferrer" >}}**
 
 **NB!** 1st class tickets will reserve you a seat. Standard class seats are
@@ -136,7 +136,7 @@ specific trip) - there might not always be a place when buying the ticket on
 the bus.
 
 ##### 2. From Riga
-The bus option is also scarce but faster (5h) than train: currently there are
+The bus option is also scarce but faster (5h) than the train: currently, there are
 2 direct connections available via
 **{{< extlink href="https://luxexpress.eu/en/?fromBusStopId=18859&toBusStopId=17058&passengers=1&currency=EUR" title="Lux Express" target="blank" rel="noopener noreferrer" >}}**.
 
@@ -148,7 +148,7 @@ trip) - there might not always be a place when buying the ticket on the bus.
 #### Bicycle / hiking / motorcycle / car
 The road is an adventure - you make your own schedule.
 
-A few things to remember if you are planning for a motorized trip:
+A few things to remember if you are planning a motorized trip:
 - there are no motorways in Estonia, only a few of the main highways have dual
 carriageways in parts.
 - Estonia has right-hand traffic and an extensive road system, the quality of
@@ -158,4 +158,4 @@ specified otherwise.
 - while driving in Estonia, all passengers are expected to wear seat belts and
 lights must be switched on at all times.
 - Estonian laws against driving under the influence of alcohol are very strict
-and follow a zero tolerance policy.
+and follow a zero-tolerance policy.

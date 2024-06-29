@@ -11,7 +11,7 @@ draft: false
 layout: "single"
 ---
 
-# Academic program submissions timeline
+# Academic program submission timeline
 |   |   |
 |:--|-------:|
 | Submission of abstracts: | **4 December 2023 -** ~~11 February~~ **25 February 2024** |
@@ -29,14 +29,14 @@ layout: "single"
 </center>
 <hr>
 
-The Academic track schedule has been relesed and can be viewed as merged
+The Academic track schedule has been released and can be viewed as merged
 together with the [**general program schedule**](../schedule/talks/).
 
-**NB!** the Academic track is scheduled to take place on Wednesday and Thursday
+**NB!** The academic track is scheduled to take place on Wednesday and Thursday
 (3-4 July) in Omicum. Please see [**the venue map**](../venue/about-venue/)
 for details.
 
-Also please note, the schedule is still subject to change due to unexpected
+Also please note, that the schedule is still subject to change due to unexpected
 withdrawals as well as rescheduling requests by the authors.
 
 <hr>
@@ -89,7 +89,7 @@ results. When available, the code shall be publicly released under an open
 source license.
 
 # How to Submit a Paper
-The submission procedure is divided in two steps. Note that both steps are
+The submission procedure is divided into two steps. Note that both steps are
 mandatory in order for authors to be able to present their work at the
 FOSS4GE conference.
 
@@ -129,14 +129,14 @@ the two abstracts (for which only one author is registered to the conference)
 are both accepted, one proposal will be presented through a standard oral
 presentation and the other one will be presented through a poster or a 5
 minutes lightning talk (this will be decided at a later stage). Alternatively
-(and based on the reviews) they can be both presented through posters or
+(and based on the reviews) both they can be presented through posters or
 lightning talks. Regardless of the situation (1 oral presentation and 1
 poster/lightning talk or 2 posters/lightning talks), the authors have to write
 two papers for Step 2.
 
 Submitted papers will not be reviewed again, i.e. the acceptance of the content
 is solely based on the abstract. However, papers will be checked against the
-conformance to the template (see below) as well as a plagiarism check using
+conformance to the template (see below) as well as checked for a plagiarism check using
 specialised software.
 
 Only the work of authors who submitted the extended paper (conformant to the
@@ -163,8 +163,8 @@ As a reference, see the papers published for the
 >}}**.
 
 Please pay attention that accepted papers will be published only after checking
-that at least one author is registered to the conference, with the limit of
-maximum two papers per author (as explained above). The papers will be
+that at least one author is registered to the conference, with a limit of a
+maximum of two papers per author (as explained above). The papers will be
 published online on the first day of the conference at the latest.
 
 All papers should be formatted according to the ISPRS author’s guidelines

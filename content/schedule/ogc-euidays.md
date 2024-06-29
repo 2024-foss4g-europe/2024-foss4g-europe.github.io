@@ -44,7 +44,7 @@ On-site attendance is highly recommended for full engagement, but online observa
 **The Open Geospatial Consortium (OGC) is co-organizing Innovation Days Europe with [FOSS4G Europe: 1-7 July,
 2024](https://2024.europe.foss4g.org/).**
 
-OGC Innovation Days Europe aims to bridge between advanced digital collaborative solutions and practical applications for policymakers. The event is rolling out the international visions on how to realise digital transformation co-designed by software and data experts, environmental scientists and policy makers – fostering an enriching exchange of knowledge. Attendees will explore in-depth stakeholder needs and interact with the latest digital collaborative solutions.
+OGC Innovation Days Europe aims to bridge between advanced digital collaborative solutions and practical applications for policymakers. The event is rolling out the international visions on how to realise digital transformation co-designed by software and data experts, environmental scientists and policymakers – fostering an enriching exchange of knowledge. Attendees will explore in-depth stakeholder needs and interact with the latest digital collaborative solutions.
 
 
 **Target audience and approach**

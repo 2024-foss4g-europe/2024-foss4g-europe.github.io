@@ -28,23 +28,23 @@ to help close the gender gap in the OSM community across participation, data
 creation and curation.
 
 Everyone is welcome to join the GeoChicas Take Tartu event on 2 July after the
-B2B meeting. The event starts at 20:00 in a closeby venue called
+B2B meeting. The event starts at 20:00 in a close-by venue called
 **{{<
     extlink href="https://www.facebook.com/kultuuriklubiSalong/"
     title="Salong"
     target="blank"
     rel="noopener noreferrer"
 >}}**, a culture club known as the place of mainstream, side-stream, direct, and
-alternating current parties, concerts, movie evenings, quizes, exhibitions, and
+alternating current parties, concerts, movie evenings, quizzes, exhibitions, and
 lectures for all, regardless of age or other peculiarities.
 
 GeoChicas Take Tartu is an event where to meet other women and allies attending
 FOSS4GE 2024 who are interested in closing the gender gap and working towards
-diversity in our communities. **First hour 20:00 - 21:00 is only for women and people
-identifying as women but afterwards everyone is welcome!** After 21:00 everyone is welcome to join!
+diversity in our communities. **The first hour 20:00 - 21:00 is only for women and people
+identifying as women but afterwards, everyone is welcome!** After 21:00 everyone is welcome to join!
 
 We’ll try to break the ice and get off to a great start at FOSS4G Europe 2024
-while having fun and doing karaoke! First drink is on us! If you wish to take part in the event we kindly also ask you to register to the event. **The event is completely free but this way we can plan the activities and food better!**
+while having fun and doing karaoke! The first drink is on us! If you wish to take part in the event, we kindly also ask you to register for the event. **The event is completely free but this way we can plan the activities and food better!**
 
 <center>
     <a href="https://mobilizon.it/events/2c312e23-8126-4a0d-af50-d13da3c9448b"

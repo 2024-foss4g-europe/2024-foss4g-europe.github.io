@@ -32,7 +32,7 @@ layout: "single"
 
 Uncover the charm of Tartu beyond the conference halls with a plethora of
 family-friendly adventures awaiting you. Whether you're looking to immerse
-your loved ones in culture, nature, or simply seeking some wholesome fun,
+your loved ones in culture or nature, or simply seeking some wholesome fun,
 Tartu offers a wealth of activities to suit all ages and interests.
 
 Discover our curated selection of attractions and experiences that promise to
@@ -132,7 +132,7 @@ Estonia with nearly 6,000 m² of exhibition space and has exhibits showcasing th
 everyday life of Estonians throughout history at the permanent exhibition
 ‘Encounters’. The museum experience is complemented by temporary exhibitions.
 There is a restaurant and a museum shop. The outdoor areas of the museum are
-perfect to have a rest and a picnic. There is also a romantic rotunda and a
+perfect for a rest and a picnic. There is also a romantic rotunda and a
 glass-roofed distillery on the shores of Lake Raadi.<br><br>
 Address: Muuseumi tee 2, Tartu (
   {{< extlink

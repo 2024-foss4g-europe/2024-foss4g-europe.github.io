@@ -12,8 +12,8 @@ layout: "single"
 Venue: Vanemuise 46 building
 
 Birds of a Feather (BoF) sessions are unstructured timeslots where people can
-self-organise themselves to discuss topics of interest. So if there's any
-specific topics you'd like to discuss face to face with other people this is
+self-organise themselves to discuss topics of interest. So, if there are any
+specific topics you'd like to discuss face-to-face with other people this is
 exactly the chance.
 
 BoF's can be held in BoF rooms at specified timeslots or taken off-site for
