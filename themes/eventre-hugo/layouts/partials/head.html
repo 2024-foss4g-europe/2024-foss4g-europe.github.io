@@ -46,8 +46,7 @@ AUTHOR WEBSITE: https://themefisher.com
   <meta property="og:image" content="{{ . | absURL }}" />
   {{ end }}
   {{ template "_internal/opengraph.html" . }}
-  {{ template "_internal/google_analytics.html" . }}
-  {{ template "_internal/google_analytics_async.html" . }}
+
   {{ if .Params.pretalx }}
   <script type="text/javascript" src="https://talks.osgeo.org/{{ .Params.pretalx }}/schedule/widget/v2.en.js"></script>
   {{ end }}
