@@ -28,8 +28,7 @@ Tartu, Estonia
 
 View the [preliminary agenda below](#agenda).
 
-<!--hr>
-<center>
+<!--center>
     <a href="https://pretix.eu/foss4ge2024/tartu/"
         class="btn btn-primary btn-lg"
         target="blank" rel="noopener noreferrer"
@@ -39,6 +38,15 @@ View the [preliminary agenda below](#agenda).
 </center-->
 
 On-site attendance is highly recommended for full engagement, but online observation will be enabled by registering **{{< extlink href="https://forms.gle/LxREUw9YwveCSd738" title="here." >}}**
+
+<hr>
+<center>
+{{< extlink
+    href="https://meet.goto.com/766923845"
+    title="online participation"
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer" >}}
+</center>
 <hr>
 
 **The Open Geospatial Consortium (OGC) is co-organizing Innovation Days Europe with [FOSS4G Europe: 1-7 July,
@@ -122,6 +130,15 @@ Cluster**.
     width="25%"
     >}}
 
+<hr>
+<center>
+{{< extlink
+    href="https://meet.goto.com/766923845"
+    title="online participation"
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer" >}}
+</center>
+<hr>
 <!--hr>
 <center>
     <a href="https://pretix.eu/foss4ge2024/tartu/"
