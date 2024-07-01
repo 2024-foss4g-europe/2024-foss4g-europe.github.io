@@ -15,9 +15,11 @@
 					{{ range ( $categories | uniq ) }}
 					<button type="button" class="control" data-filter=".{{ . | urlize }}">{{ . | humanize }}</button>
 					{{ end }}
+					<p class="">Click on image to zoom and click on caption to read the description</p>
 				</div>
 				<div class="gallery-wrapper">
 					{{ range .Params.gallery_items }}
+					
 					<div class="gallery-item mix {{range .categories }}{{. | urlize}} {{ end }}">
 						<div class="image-block">
 							<div class="image">
@@ -27,6 +29,13 @@
 											class="fa fa-picture-o"></i></a>
 								</div>
 							</div>
+							<br>
+							<!-- <a href="/map-gallery/{{ .url }}">  -->
+								<button class="accordion"><p>{{ .caption }}</p></button> 
+								<div class="panel">
+									<p><b>{{ .author }}</b></p>
+									<p>{{ .description }}</p>
+								</div>
 						</div>
 					</div>
 					{{ end }}
@@ -37,3 +46,4 @@
 </section>
 
 {{ end }}
+
