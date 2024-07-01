@@ -86,5 +86,5 @@ The price per night starts from 98€. Breakfast is included. Free parking if th
 
 ### **{{< extlink href="https://www.tartuhotell.ee/en/welcome/" title="11. Hotell Tartu" >}}**
 
-Although no pre-bookings are made there, they are offering the code **FOSS4G** for getting a 30% discount. Book through their website. Free parking in the courtyard.  
+No pre-bookings are made there, they are offering the code **FOSS4G** for getting a 30% discount (valid until 20 June). Book through their website. Free parking in the courtyard.  
 *{{< extlink href="https://www.google.ee/maps/dir/Hotell+Tartu,+Soola,+Tartu/Vanemuise+46,+Vanemuise,+Tartu/@58.3761069,26.7197614,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x46eb36de9f67b513:0xb3db76ca965efa36!2m2!1d26.7332532!2d58.3775938!1m5!1m1!1s0x46eb371fbd6f367b:0x78a41ede2f6ccf04!2m2!1d26.7167174!2d58.3739346!3e2?entry=ttu" title="Location & directions to the venue (19 min walk)." >}}*
