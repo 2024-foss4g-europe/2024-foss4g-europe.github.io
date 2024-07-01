@@ -5,7 +5,7 @@ banner:
   heading_2 : "Tartu, Estonia"
   content : "01-07 July 2024 Tartu"
   timer:
-    enable : true
+    enable : false
     year : 2024
     month : 7
     day : 1
