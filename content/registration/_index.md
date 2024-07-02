@@ -10,7 +10,7 @@ layout : "single"
 
 ### The ticket shop is closed (as of 21 June)
 
-**All tickets are sold out and it is not possible to purchase them on-site!**
+**All conference tickets are sold out and it is not possible to purchase them on-site!**
 
 This has been a fantastic rollercoaster ride with a way higher community
 interest than we were ever expecting based on previous FOSS4GE conferences.
@@ -31,7 +31,7 @@ If you're a lucky ticket holder, then see you in Tartu very soon!
 </center-->
 <hr>
 
-<!--{{< figure
+{{< figure
     src="../images/pricing.png"
     alttext="pricing"
     link=""
@@ -39,7 +39,6 @@ If you're a lucky ticket holder, then see you in Tartu very soon!
     target="blank"
     rel="noopener noreferrer"
     >}}
--->
 
 Registration fee includes:
 
