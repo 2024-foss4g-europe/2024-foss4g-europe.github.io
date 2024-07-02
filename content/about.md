@@ -61,7 +61,7 @@ then visited Bucharest, Romania (2013); Bremen, Germany (2014);
 Como, Italy (2015); Paris, France (2017); Guimarães, Portugal (2018).
 
 Bringing the conference series to Tartu, the start-up capital of Estonia, gives
-the participants here the opportunity to present their work, make contacts,the  and
+the participants here the opportunity to present their work, make contacts, and
 share experiences among people dealing with similar problems on a global scale.
 Bringing a recognized and important conference series to Estonia offers local
 professionals and students access to high-quality educational material and the
