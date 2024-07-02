@@ -68,4 +68,10 @@ All data used for the map is free open data from Estonian Land Board: real prope
   description: "The Map Was Generated using Google colab (Python codes Mainly) ,From Prettymap repository by Marcelo Prates with Openstreetmap dataset."
   author: "Hemed Lungo"
 
+- name: "gallery item"
+  image: "images/posters/Tartu Final 1 - Hemed Lungo.png"
+  caption: "Minimalistic 3-D Map of Part of Tartu"
+  description: "Map was Crafted in Combination of Qgis and Blender (My Favorite FOSS Combination) ,QGIS was For Data Preparation and Final Touches and Blender for the 3-D effect.The Dataset are from geoportaal.maaamet.ee(Digital Surface Model) and Openstreetmap as Basemap."
+  author: "Hemed Lungo"
+
 ---
