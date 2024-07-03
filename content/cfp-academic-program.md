@@ -29,6 +29,15 @@ layout: "single"
 </center>
 <hr>
 
+<center>
+{{< extlink
+    href="https://isprs-archives.copernicus.org/articles/XLVIII-4-W12-2024/"
+    title="Academic track proceedings"       
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer" >}}
+</center>
+<hr>
+
 The Academic track schedule has been released and can be viewed as merged
 together with the [**general program schedule**](../schedule/talks/).
 

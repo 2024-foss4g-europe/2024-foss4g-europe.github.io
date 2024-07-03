@@ -13,6 +13,10 @@ banner:
     enable : true
     label : "Go to live stream"
     link : "https://foss4ge.television.ee/"
+  button_2:
+    enable : true
+    label : "Academic track proceedings"
+    link : "https://isprs-archives.copernicus.org/articles/XLVIII-4-W12-2024/"
 
 
 ################# About ###################
