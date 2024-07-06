@@ -767,3 +767,13 @@ link = "https://www.facebook.com/events/783688126985977"
 title = "telegram"
 icon = "fa-telegram"
 link = "https://t.me/foss4g_europe"
+
+[[params.social]]
+title = "google-play"
+icon = "fa-brands fa-google-play"
+link = "https://play.google.com/store/apps/details?id=info.metadude.android.foss4g.schedule"
+
+[[params.social]]
+title = "f-droid"
+icon = "fa-brands fa-android"
+link = "https://f-droid.org/en/packages/net.gaast.giggity/"
