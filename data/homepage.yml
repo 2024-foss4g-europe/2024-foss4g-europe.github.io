@@ -11,7 +11,7 @@ banner:
     day : 1
   button:
     enable : true
-    label : "Go to live stream"
+    label : "recorded streams"
     link : "https://foss4ge.television.ee/"
   button_2:
     enable : true
