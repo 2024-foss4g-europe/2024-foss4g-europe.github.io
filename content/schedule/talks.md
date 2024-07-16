@@ -14,7 +14,7 @@ layout: "single"
 <center>
 {{< extlink
     href="https://foss4ge.television.ee/"
-    title="go to live stream"       
+    title="recorded streams"       
     class="btn btn-primary btn-lg"
     rel="noopener noreferrer" >}}
 </center>

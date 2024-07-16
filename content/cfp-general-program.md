@@ -26,7 +26,7 @@ layout: "single"
 <center>
 {{< extlink
     href="https://foss4ge.television.ee/"
-    title="go to live stream"       
+    title="recorded streams"       
     class="btn btn-primary btn-lg"
     rel="noopener noreferrer" >}}
 </center>
@@ -34,9 +34,6 @@ layout: "single"
 
 
 The [**full program schedule is available**](../schedule/talks/)
-
-**NB!** Please note, that the schedule is still subject to change due to unexpected
-withdrawals as well as rescheduling requests by the authors.
 
 <hr>
 

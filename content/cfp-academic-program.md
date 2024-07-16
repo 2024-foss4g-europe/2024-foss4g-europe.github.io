@@ -23,7 +23,7 @@ layout: "single"
 <center>
 {{< extlink
     href="https://foss4ge.television.ee/"
-    title="go to live stream"       
+    title="recorded streams"       
     class="btn btn-primary btn-lg"
     rel="noopener noreferrer" >}}
 </center>
@@ -44,9 +44,6 @@ together with the [**general program schedule**](../schedule/talks/).
 **NB!** The academic track is scheduled to take place on Wednesday and Thursday
 (3-4 July) in Omicum. Please see [**the venue map**](../venue/about-venue/)
 for details.
-
-Also please note, that the schedule is still subject to change due to unexpected
-withdrawals as well as rescheduling requests by the authors.
 
 <hr>
 
