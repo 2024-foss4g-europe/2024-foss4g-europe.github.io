@@ -17,6 +17,10 @@ banner:
     enable : true
     label : "Academic track proceedings"
     link : "https://isprs-archives.copernicus.org/articles/XLVIII-4-W12-2024/"
+  button_3:
+    enable : true
+    label : "Photos"
+    link : "https://drive.google.com/drive/folders/17Wa15vC-Rth_z0IVupfl3FT8C3S1qC78"
 
 
 ################# About ###################

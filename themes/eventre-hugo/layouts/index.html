@@ -31,6 +31,11 @@
           <a href="{{ .link | absURL }}" target="blank" rel="noopener noreferrer" class="btn btn-white-md">{{ .label }}</a>
           {{ end }}
           {{ end }}
+          {{ if .button_3.enable }}
+          {{ with .button_3 }}
+          <a href="{{ .link | absURL }}" target="blank" rel="noopener noreferrer" class="btn btn-white-md">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
         </div>
       </div>
     </div>
