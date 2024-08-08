@@ -11,8 +11,8 @@ banner:
     day : 1
   button:
     enable : true
-    label : "recorded streams"
-    link : "https://foss4ge.television.ee/"
+    label : "recordings on youtube"
+    link : "https://www.youtube.com/watch?v=NT7BifRbPqQ&list=PLqa06jy1NEM0QkCSb94zkEFvzRAMgaFY5"
   button_2:
     enable : true
     label : "Academic track proceedings"
